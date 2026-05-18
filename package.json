@@ -1,85 +1,133 @@
-{
-  "name": "iptv",
-  "scripts": {
-    "act:check": "gh act pull_request -W .github/workflows/check.yml",
-    "act:format": "gh act workflow_dispatch -W .github/workflows/format.yml",
-    "act:update": "gh act workflow_dispatch -W .github/workflows/update.yml",
-    "api:load": "tsx scripts/commands/api/load.ts",
-    "playlist:format": "tsx scripts/commands/playlist/format.ts",
-    "playlist:update": "tsx scripts/commands/playlist/update.ts",
-    "playlist:generate": "tsx scripts/commands/playlist/generate.ts",
-    "playlist:validate": "tsx scripts/commands/playlist/validate.ts",
-    "playlist:lint": "npx m3u-linter -c m3u-linter.json",
-    "playlist:test": "tsx scripts/commands/playlist/test.ts",
-    "playlist:edit": "tsx scripts/commands/playlist/edit.ts",
-    "playlist:export": "tsx scripts/commands/playlist/export.ts",
-    "readme:update": "tsx scripts/commands/readme/update.ts",
-    "report:create": "tsx scripts/commands/report/create.ts",
-    "lint": "npx eslint \"scripts/**/*.{ts,js}\" \"tests/**/*.{ts,js}\"",
-    "test": "jest --runInBand",
-    "postinstall": "npm run api:load"
-  },
-  "jest": {
-    "transform": {
-      "^.+\\.ts$": "@swc/jest"
-    },
-    "testRegex": "tests/(.*?/)?.*test.ts$",
-    "setupFilesAfterEnv": [
-      "jest-expect-message"
-    ]
-  },
-  "author": "Arhey",
-  "private": true,
-  "license": "MIT",
-  "dependencies": {
-    "@alex_neo/jest-expect-message": "^1.0.5",
-    "@eslint/eslintrc": "^3.3.1",
-    "@eslint/js": "^9.32.0",
-    "@freearhey/core": "^0.14.3",
-    "@freearhey/storage-js": "^0.1.0",
-    "@inquirer/prompts": "^7.8.0",
-    "@iptv-org/sdk": "^1.4.0",
-    "@octokit/core": "^7.0.3",
-    "@octokit/plugin-paginate-graphql": "^6.0.0",
-    "@octokit/plugin-paginate-rest": "^13.1.1",
-    "@octokit/plugin-rest-endpoint-methods": "^16.0.0",
-    "@octokit/types": "^14.1.0",
-    "@stylistic/eslint-plugin": "^5.2.2",
-    "@swc/jest": "^0.2.39",
-    "@types/async": "^3.2.25",
-    "@types/cli-progress": "^3.11.6",
-    "@types/fs-extra": "^11.0.4",
-    "@types/jest": "^30.0.0",
-    "@types/lodash.uniqueid": "^4.0.9",
-    "@types/node-cleanup": "^2.1.5",
-    "@typescript-eslint/eslint-plugin": "^8.38.0",
-    "@typescript-eslint/parser": "^8.38.0",
-    "async": "^3.2.6",
-    "axios": "^1.15.2",
-    "chalk": "^5.4.1",
-    "cli-progress": "^3.12.0",
-    "commander": "^14.0.0",
-    "console-table-printer": "^2.14.6",
-    "cross-env": "^10.0.0",
-    "es-toolkit": "^1.45.1",
-    "eslint": "^9.32.0",
-    "glob": "^11.0.3",
-    "globals": "^16.3.0",
-    "hls-parser": "^0.16.0",
-    "iptv-playlist-parser": "^0.15.1",
-    "jest": "^30.0.5",
-    "jest-expect-message": "^1.1.3",
-    "lodash.uniqueid": "^4.0.1",
-    "m3u-linter": "^0.4.3",
-    "mediainfo.js": "^0.3.6",
-    "mpd-parser": "^1.3.1",
-    "node-cleanup": "^2.1.2",
-    "normalize-url": "^8.1.0",
-    "socks-proxy-agent": "^8.0.5",
-    "tsx": "^4.20.3"
-  },
-  "overrides": {
-    "esbuild": "0.23.1",
-    "@xmldom/xmldom": ">=0.8.13 <1.0.0"
-  }
-}
+#EXTM3U
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV FHD (HEVC)
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/112675.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/56222.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48563.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV 2 FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48505.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV 2
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48504.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV 3 FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48565.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV 3
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48506.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA FHD (HEVC)
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109316.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109317.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109319.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA 2 HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109320.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA 2 FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109321.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA 2 SD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109323.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ES - FUTBOL",DAZN LaLiga 3 HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458479.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ES - FUTBOL",DAZN LaLiga 3 SD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458478.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ES - FUTBOL",DAZN LaLiga 4 HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458477.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ES - FUTBOL",DAZN LaLiga 4 SD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458476.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ES - FUTBOL",DAZN LaLiga 5 HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458475.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ES - FUTBOL",DAZN LaLiga 5 SD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458474.ts
+#EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-logo="http://evojumeke.teamcdn.in:80/images/KvSFqnVxJemSa_1q-FmLCH1H_yvdeZ80qHxg5wzpUwgkp5-YD_cYGDtRAATy7HArRd_IThK4OfL11vHq3bBnJQ.png" group-title="ES - FUTBOL",|ES| M+ Copa Del Rey FHD - HEVC
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440974.ts
+#EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-logo="http://evojumeke.teamcdn.in:80/images/KvSFqnVxJemSa_1q-FmLCH1H_yvdeZ80qHxg5wzpUwgkp5-YD_cYGDtRAATy7HArRd_IThK4OfL11vHq3bBnJQ.png" group-title="ES - FUTBOL",|ES| M+ Copa Del Rey FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444569.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://evojumeke.teamcdn.in:80/images/KvSFqnVxJemSa_1q-FmLCH1H_yvdeZ80qHxg5wzpUwgkp5-YD_cYGDtRAATy7HArRd_IThK4OfL11vHq3bBnJQ.png" group-title="ES - FUTBOL",|ES| M+ Copa Del Rey
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440975.ts
+#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/tv-bar-temporada23-24.png" group-title="ES - FUTBOL",|ES| LALIGA TV BAR FHD - HEVC
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/101681.ts
+#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-logo="https://noos.vip/logo/ES/laligatvbar.png" group-title="ES - FUTBOL",|ES| LALIGA TV BAR
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/101682.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://trastras.eu:2083/images/dCqmAAGSAeGukxXbersiICJ6QtHtAt4CuGSzuXw5LsjA4c9ZgYAxFmtUy4ZZXsK-JynuRNCWmJjMwEviIh7NB_qouw2Y_3qrk-7E6Wn46eOMhZQo9C1Vr9lvLuhAkb_8_XyuklSPCTdiALsGelvRkQ.jpg" group-title="ES - FUTBOL",|ES| SKY SPORTS LALIGA FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/445398.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://trastras.eu:2083/images/dCqmAAGSAeGukxXbersiICJ6QtHtAt4CuGSzuXw5LsjA4c9ZgYAxFmtUy4ZZXsK-JynuRNCWmJjMwEviIh7NB_qouw2Y_3qrk-7E6Wn46eOMhZQo9C1Vr9lvLuhAkb_8_XyuklSPCTdiALsGelvRkQ.jpg" group-title="ES - FUTBOL",|ES| SKY SPORTS LALIGA HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/445397.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://trastras.eu:2083/images/dCqmAAGSAeGukxXbersiICJ6QtHtAt4CuGSzuXw5LsjA4c9ZgYAxFmtUy4ZZXsK-JynuRNCWmJjMwEviIh7NB_qouw2Y_3qrk-7E6Wn46eOMhZQo9C1Vr9lvLuhAkb_8_XyuklSPCTdiALsGelvRkQ.jpg" group-title="ES - FUTBOL",|ES| SKY SPORTS LALIGA SD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/445396.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="http://logo.solanaflix.com/images/logos/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES FHD (HEVC)
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/114287.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="http://logo.solanaflix.com/images/logos/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48514.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="http://logo.solanaflix.com/images/logos/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48512.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 2 FHD (HEVC)
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48518.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 2
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/96376.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 3 FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48519.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="http://logo.solanaflix.com/images/logos/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 4
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48520.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="http://logo.solanaflix.com/images/logos/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 5
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48521.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-logo="http://logo.solanaflix.com/images/logos/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 6
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48522.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-logo="http://logo.solanaflix.com/images/logos/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 7
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48523.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON8" tvg-logo="http://logo.solanaflix.com/images/logos/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 8
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48524.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 9
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444582.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 10
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444592.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 11
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444591.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 12
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444590.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 13
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444589.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 14" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 14
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444588.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 15" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 15
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444587.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 16" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 16
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444586.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 17" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 17
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444585.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 18" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 18
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444584.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 19" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 19
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444583.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV 4 FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48507.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV 5
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48508.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV 6
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48509.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 7" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV 7
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48510.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 8" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV 8
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48511.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV 9
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48566.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV 10
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48564.ts
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJPCjPuCKxAp5NJqM9K9arpufGy_lKcHYtoVNMmhxSh-jNLLi4dgmT48yxzTFLDex5W1bMEMP25vNqVRR6NsYUu3mMkA_2eKp2nE7UNAisbh6bRGOxclJ4WgWZA6DQuFGp55XvQZq7fuhwNOCPgaJSRw.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV HYPERMOTION FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109341.ts
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJPCjPuCKxAp5NJqM9K9arpufGy_lKcHYtoVNMmhxSh-jNLLi4dgmT48yxzTFLDex5W1bMEMP25vNqVRR6NsYUu3mMkA_2eKp2nE7UNAisbh6bRGOxclJ4WgWZA6DQuFGp55XvQZq7fuhwNOCPgaJSRw.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV HYPERMOTION
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109573.ts
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJPCjPuCKxAp5NJqM9K9arpufGy_lKcHYtoVNMmhxSh-jNLLi4dgmT48yxzTFLDex5W1bMEMP25vNqVRR6NsYUu3mMkA_2eKp2nE7UNAisbh6bRGOxclJ4WgWZA6DQuFGp55XvQZq7fuhwNOCPgaJSRw.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV HYPERMOTION 2 FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110590.ts
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJPCjPuCKxAp5NJqM9K9arpufGy_lKcHYtoVNMmhxSh-jNLLi4dgmT48yxzTFLDex5W1bMEMP25vNqVRR6NsYUu3mMkA_2eKp2nE7UNAisbh6bRGOxclJ4WgWZA6DQuFGp55XvQZq7fuhwNOCPgaJSRw.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV HYPERMOTION 2
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110589.ts
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJPCjPuCKxAp5NJqM9K9arpufGy_lKcHYtoVNMmhxSh-jNLLi4dgmT48yxzTFLDex5W1bMEMP25vNqVRR6NsYUu3mMkA_2eKp2nE7UNAisbh6bRGOxclJ4WgWZA6DQuFGp55XvQZq7fuhwNOCPgaJSRw.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV HYPERMOTION 3 FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110591.ts
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/2560px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV HYPERMOTION 3 (720P)
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/438666.ts
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 4" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJPCjPuCKxAp5NJqM9K9arpufGy_lKcHYtoVNMmhxSh-jNLLi4dgmT48yxzTFLDex5W1bMEMP25vNqVRR6NsYUu3mMkA_2eKp2nE7UNAisbh6bRGOxclJ4WgWZA6DQuFGp55XvQZq7fuhwNOCPgaJSRw.png" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion  4 FHD (ES)
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/439129.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion 4 SD (ES)
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/439130.ts
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 5" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJPCjPuCKxAp5NJqM9K9arpufGy_lKcHYtoVNMmhxSh-jNLLi4dgmT48yxzTFLDex5W1bMEMP25vNqVRR6NsYUu3mMkA_2eKp2nE7UNAisbh6bRGOxclJ4WgWZA6DQuFGp55XvQZq7fuhwNOCPgaJSRw.png" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion  5 FHD (ES)
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/439131.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion 5 SD (ES)
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/4
