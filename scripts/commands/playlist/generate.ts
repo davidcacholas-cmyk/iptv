@@ -1,115 +1,17 @@
-import { LOGS_DIR, STREAMS_DIR } from '../../constants'
-import { Storage, File } from '@freearhey/storage-js'
-import { PlaylistParser } from '../../core'
-import { loadData, data } from '../../api'
-import { Logger } from '@freearhey/core'
-import uniqueId from 'lodash.uniqueid'
-import { Stream } from '../../models'
-import {
-  IndexCategoryGenerator,
-  IndexLanguageGenerator,
-  IndexCountryGenerator,
-  SubdivisionsGenerator,
-  CategoriesGenerator,
-  CountriesGenerator,
-  LanguagesGenerator,
-  RegionsGenerator,
-  SourcesGenerator,
-  CitiesGenerator,
-  IndexGenerator,
-  RawGenerator
-} from '../../generators'
-
-async function main() {
-  const logger = new Logger()
-  const logFile = new File('generators.log')
-
-  logger.info('loading data from api...')
-  await loadData()
-
-  logger.info('loading streams...')
-  const streamsStorage = new Storage(STREAMS_DIR)
-  const parser = new PlaylistParser({
-    storage: streamsStorage
-  })
-  const files = await streamsStorage.list('**/*.m3u')
-  let streams = await parser.parse(files)
-  const totalStreams = streams.count()
-  logger.info(`found ${totalStreams} streams`)
-
-  logger.info('generating raw/...')
-  await new RawGenerator({ streams, logFile }).generate()
-
-  logger.info('sorting streams...')
-  streams = streams.sortBy(
-    [
-      (stream: Stream) => stream.getId(),
-      (stream: Stream) => stream.getVerticalResolution(),
-      (stream: Stream) => stream.label
-    ],
-    ['asc', 'desc', 'desc']
-  )
-
-  logger.info('filtering streams...')
-  streams = streams.uniqBy((stream: Stream) => stream.getId() || uniqueId())
-
-  const { categories, countries, subdivisions, cities, regions } = data
-
-  logger.info('generating categories/...')
-  await new CategoriesGenerator({ categories, streams, logFile }).generate()
-
-  logger.info('generating languages/...')
-  await new LanguagesGenerator({ streams, logFile }).generate()
-
-  logger.info('generating countries/...')
-  await new CountriesGenerator({
-    countries,
-    streams,
-    logFile
-  }).generate()
-
-  logger.info('generating subdivisions/...')
-  await new SubdivisionsGenerator({
-    subdivisions,
-    streams,
-    logFile
-  }).generate()
-
-  logger.info('generating cities/...')
-  await new CitiesGenerator({
-    cities,
-    streams,
-    logFile
-  }).generate()
-
-  logger.info('generating regions/...')
-  await new RegionsGenerator({
-    streams,
-    regions,
-    logFile
-  }).generate()
-
-  logger.info('generating sources/...')
-  await new SourcesGenerator({ streams, logFile }).generate()
-
-  logger.info('generating index.m3u...')
-  await new IndexGenerator({ streams, logFile }).generate()
-
-  logger.info('generating index.category.m3u...')
-  await new IndexCategoryGenerator({ streams, logFile }).generate()
-
-  logger.info('generating index.country.m3u...')
-  await new IndexCountryGenerator({
-    streams,
-    logFile
-  }).generate()
-
-  logger.info('generating index.language.m3u...')
-  await new IndexLanguageGenerator({ streams, logFile }).generate()
-
-  logger.info('saving generators.log...')
-  const logStorage = new Storage(LOGS_DIR)
-  logStorage.saveFile(logFile)
-}
-
-main()
+EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV FHD (HEVC)
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/112675.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/56222.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48563.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV 2 FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48505.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV 2
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48504.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV 3 FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48565.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV 3
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48506.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA FHD (HEVC)
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109316.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="http
