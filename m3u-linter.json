@@ -1,1 +1,171 @@
-M+ Los 2000 
+ 
+#EXTM3U
+#EXTINF:-1 tvg-name="====== ESPANA ======" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/spain/flag-button-round-250.png" group-title="ESPAÑA: TDT",====== ESPANA ======
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/12852.ts
+#EXTINF:-1 tvg-name="====== TDT ======" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/81o4rqD4s4L.png" group-title="ESPAÑA: TDT",====== TDT ======
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/8949.ts
+#EXTINF:-1 tvg-name="ES: STAR TVE FHD" tvg-id="Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPAÑA: TDT",ES: STAR TVE FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/19756.ts
+#EXTINF:-1 tvg-name="ES: STAR TVE HD" tvg-id="Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPAÑA: TDT",ES: STAR TVE HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21738.ts
+#EXTINF:-1 tvg-name="ES: TVE FHD" tvg-id="tveintamerica.es" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TVEI_color.png" group-title="ESPAÑA: TDT",ES: TVE FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/10951.ts
+#EXTINF:-1 tvg-name="ES: TVE HD" tvg-id="clantve.es" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TVEI_color.png" group-title="ESPAÑA: TDT",ES: TVE HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/17167.ts
+#EXTINF:-1 tvg-name="ES: LA 1 FHD" tvg-id="La 1 HD" tvg-logo="https://miguia.tv/logos/la-1.png" group-title="ESPAÑA: TDT",ES: LA 1 FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1099.ts
+#EXTINF:-1 tvg-name="ES: LA 1 HD" tvg-id="La 1 HD" tvg-logo="https://miguia.tv/logos/la-1.png" group-title="ESPAÑA: TDT",ES: LA 1 HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1023.ts
+#EXTINF:-1 tvg-name="ES: LA 1" tvg-id="La 1 HD" tvg-logo="https://miguia.tv/logos/la-1.png" group-title="ESPAÑA: TDT",ES: LA 1
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/885.ts
+#EXTINF:-1 tvg-name="ES: LA 2 FHD" tvg-id="La 2" tvg-logo="https://miguia.tv/logos/la-2.png" group-title="ESPAÑA: TDT",ES: LA 2 FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1100.ts
+#EXTINF:-1 tvg-name="ES: La 2 HD" tvg-id="La 2" tvg-logo="https://miguia.tv/logos/la-2.png" group-title="ESPAÑA: TDT",ES: La 2 HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1024.ts
+#EXTINF:-1 tvg-name="ES: LA 2" tvg-id="La 2" tvg-logo="https://miguia.tv/logos/la-2.png" group-title="ESPAÑA: TDT",ES: LA 2
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/886.ts
+#EXTINF:-1 tvg-name="ES: ANTENA 3 FHD" tvg-id="Antena 3 HD" tvg-logo="https://miguia.tv/logos/antena-3.png" group-title="ESPAÑA: TDT",ES: ANTENA 3 FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1101.ts
+#EXTINF:-1 tvg-name="ES: ANTENA 3 HD" tvg-id="Antena 3 HD" tvg-logo="https://miguia.tv/logos/antena-3.png" group-title="ESPAÑA: TDT",ES: ANTENA 3 HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1026.ts
+#EXTINF:-1 tvg-name="ES: ANTENA 3" tvg-id="Antena 3 HD" tvg-logo="https://miguia.tv/logos/antena-3.png" group-title="ESPAÑA: TDT",ES: ANTENA 3
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/896.ts
+#EXTINF:-1 tvg-name="ES: CUATRO FHD" tvg-id="Cuatro HD" tvg-logo="https://miguia.tv/logos/cuatro.png" group-title="ESPAÑA: TDT",ES: CUATRO FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1102.ts
+#EXTINF:-1 tvg-name="ES: CUATRO HD" tvg-id="Cuatro HD" tvg-logo="https://miguia.tv/logos/cuatro.png" group-title="ESPAÑA: TDT",ES: CUATRO HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1027.ts
+#EXTINF:-1 tvg-name="ES: CUATRO" tvg-id="Cuatro HD" tvg-logo="https://miguia.tv/logos/cuatro.png" group-title="ESPAÑA: TDT",ES: CUATRO
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/891.ts
+#EXTINF:-1 tvg-name="ES: TELECINCO FHD" tvg-id="Telecinco HD" tvg-logo="https://miguia.tv/logos/telecinco.png" group-title="ESPAÑA: TDT",ES: TELECINCO FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1103.ts
+#EXTINF:-1 tvg-name="ES: TELECINCO HD" tvg-id="Telecinco HD" tvg-logo="https://miguia.tv/logos/telecinco.png" group-title="ESPAÑA: TDT",ES: TELECINCO HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1028.ts
+#EXTINF:-1 tvg-name="ES: TELECINCO" tvg-id="Telecinco HD" tvg-logo="https://miguia.tv/logos/telecinco.png" group-title="ESPAÑA: TDT",ES: TELECINCO
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/897.ts
+#EXTINF:-1 tvg-name="ES: LA SEXTA FHD" tvg-id="La Sexta HD" tvg-logo="https://miguia.tv/logos/la-sexta.png" group-title="ESPAÑA: TDT",ES: LA SEXTA FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1104.ts
+#EXTINF:-1 tvg-name="ES: LA SEXTA HD" tvg-id="La Sexta HD" tvg-logo="https://miguia.tv/logos/la-sexta.png" group-title="ESPAÑA: TDT",ES: LA SEXTA HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1029.ts
+#EXTINF:-1 tvg-name="ES: LA SEXTA" tvg-id="La Sexta HD" tvg-logo="https://miguia.tv/logos/la-sexta.png" group-title="ESPAÑA: TDT",ES: LA SEXTA
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/892.ts
+#EXTINF:-1 tvg-name="ES: FDF FHD" tvg-id="Factoría de Ficción" tvg-logo="https://miguia.tv/logos/fdf.png" group-title="ESPAÑA: TDT",ES: FDF FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21730.ts
+#EXTINF:-1 tvg-name="ES: FDF HD" tvg-id="Factoría de Ficción" tvg-logo="https://miguia.tv/logos/fdf.png" group-title="ESPAÑA: TDT",ES: FDF HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/13051.ts
+#EXTINF:-1 tvg-name="ES: FDF" tvg-id="Factoría de Ficción" tvg-logo="https://miguia.tv/logos/fdf.png" group-title="ESPAÑA: TDT",ES: FDF
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/913.ts
+#EXTINF:-1 tvg-name="ES: NEOX FHD" tvg-id="Neox" tvg-logo="https://miguia.tv/logos/neox.png" group-title="ESPAÑA: TDT",ES: NEOX FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21728.ts
+#EXTINF:-1 tvg-name="ES: NEOX HD" tvg-id="Neox" tvg-logo="https://miguia.tv/logos/neox.png" group-title="ESPAÑA: TDT",ES: NEOX HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1071.ts
+#EXTINF:-1 tvg-name="ES: NEOX" tvg-id="Neox" tvg-logo="https://miguia.tv/logos/neox.png" group-title="ESPAÑA: TDT",ES: NEOX
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/914.ts
+#EXTINF:-1 tvg-name="ES: DIVINITY FHD" tvg-id="Divinity" tvg-logo="https://miguia.tv/logos/divinity.png" group-title="ESPAÑA: TDT",ES: DIVINITY FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21732.ts
+#EXTINF:-1 tvg-name="ES: DIVINITY HD" tvg-id="Divinity" tvg-logo="https://miguia.tv/logos/divinity.png" group-title="ESPAÑA: TDT",ES: DIVINITY HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1076.ts
+#EXTINF:-1 tvg-name="ES: DIVINITY" tvg-id="Divinity" tvg-logo="https://miguia.tv/logos/divinity.png" group-title="ESPAÑA: TDT",ES: DIVINITY
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/949.ts
+#EXTINF:-1 tvg-name="ES: NOVA FHD" tvg-id="Nova" tvg-logo="https://miguia.tv/logos/nova.png" group-title="ESPAÑA: TDT",ES: NOVA FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21729.ts
+#EXTINF:-1 tvg-name="ES: NOVA HD" tvg-id="Nova" tvg-logo="https://miguia.tv/logos/nova.png" group-title="ESPAÑA: TDT",ES: NOVA HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1072.ts
+#EXTINF:-1 tvg-name="ES: NOVA" tvg-id="Nova" tvg-logo="https://miguia.tv/logos/nova.png" group-title="ESPAÑA: TDT",ES: NOVA
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/945.ts
+#EXTINF:-1 tvg-name="ES: DKISS FHD" tvg-id="DKISS" tvg-logo="https://miguia.tv/logos/dkiss.png" group-title="ESPAÑA: TDT",ES: DKISS FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21733.ts
+#EXTINF:-1 tvg-name="ES: DKISS HD" tvg-id="DKISS" tvg-logo="https://miguia.tv/logos/dkiss.png" group-title="ESPAÑA: TDT",ES: DKISS HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1061.ts
+#EXTINF:-1 tvg-name="ES: DKISS" tvg-id="DKISS" tvg-logo="https://miguia.tv/logos/dkiss.png" group-title="ESPAÑA: TDT",ES: DKISS
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/8000.ts
+#EXTINF:-1 tvg-name="ES: MEGA FHD" tvg-id="Mega" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEGA.png" group-title="ESPAÑA: TDT",ES: MEGA FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21727.ts
+#EXTINF:-1 tvg-name="ES: MEGA HD" tvg-id="Mega" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEGA.png" group-title="ESPAÑA: TDT",ES: MEGA HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/7956.ts
+#EXTINF:-1 tvg-name="ES: MEGA" tvg-id="Mega" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEGA.png" group-title="ESPAÑA: TDT",ES: MEGA
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1141.ts
+#EXTINF:-1 tvg-name="ES: ENERGY FHD" tvg-id="Energy" tvg-logo="https://miguia.tv/logos/energy.png" group-title="ESPAÑA: TDT",ES: ENERGY FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21731.ts
+#EXTINF:-1 tvg-name="ES: ENERGY HD" tvg-id="Energy" tvg-logo="https://miguia.tv/logos/energy.png" group-title="ESPAÑA: TDT",ES: ENERGY HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1073.ts
+#EXTINF:-1 tvg-name="ES: ENERGY" tvg-id="Energy" tvg-logo="https://miguia.tv/logos/energy.png" group-title="ESPAÑA: TDT",ES: ENERGY
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/946.ts
+#EXTINF:-1 tvg-name="ES: BE MAD FHD" tvg-id="Be Mad" tvg-logo="https://miguia.tv/logos/be-mad-tv.png" group-title="ESPAÑA: TDT",ES: BE MAD FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/19770.ts
+#EXTINF:-1 tvg-name="ES: BE MAD HD" tvg-id="Be Mad" tvg-logo="https://miguia.tv/logos/be-mad-tv.png" group-title="ESPAÑA: TDT",ES: BE MAD HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1132.ts
+#EXTINF:-1 tvg-name="ES: BE MAD " tvg-id="Be Mad" tvg-logo="https://miguia.tv/logos/be-mad-tv.png" group-title="ESPAÑA: TDT",ES: BE MAD 
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1074.ts
+#EXTINF:-1 tvg-name="ES: TRECE FHD" tvg-id="TRECE" tvg-logo="https://miguia.tv/logos/trece.png" group-title="ESPAÑA: TDT",ES: TRECE FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/953.ts
+#EXTINF:-1 tvg-name="ES: TRECE HD" tvg-id="TRECE" tvg-logo="https://miguia.tv/logos/trece.png" group-title="ESPAÑA: TDT",ES: TRECE HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/22060.ts
+#EXTINF:-1 tvg-name="ES: TRECE" tvg-id="TRECE" tvg-logo="https://miguia.tv/logos/trece.png" group-title="ESPAÑA: TDT",ES: TRECE
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/15710.ts
+#EXTINF:-1 tvg-name="ES: TEN FHD" tvg-id="Ten" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/ten-tv.png" group-title="ESPAÑA: TDT",ES: TEN FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21633.ts
+#EXTINF:-1 tvg-name="ES: TEN HD" tvg-id="Ten" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/ten-tv.png" group-title="ESPAÑA: TDT",ES: TEN HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21632.ts
+#EXTINF:-1 tvg-name="ES: TEN" tvg-id="Ten" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/ten-tv.png" group-title="ESPAÑA: TDT",ES: TEN
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/16682.ts
+#EXTINF:-1 tvg-name="ES: EWTN FHD" tvg-id="EWTN" tvg-logo="https://cdn.mitvstatic.com/channels/pe_ewtn_m.png" group-title="ESPAÑA: TDT",ES: EWTN FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21631.ts
+#EXTINF:-1 tvg-name="ES: EWTN HD" tvg-id="EWTN" tvg-logo="https://cdn.mitvstatic.com/channels/pe_ewtn_m.png" group-title="ESPAÑA: TDT",ES: EWTN HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/19229.ts
+#EXTINF:-1 tvg-name="ES: EL TORO HD" tvg-id="El Toro TV" tvg-logo="https://miguia.tv/logos/el-toro-tv.png" group-title="ESPAÑA: TDT",ES: EL TORO HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/9031.ts
+#EXTINF:-1 tvg-name="====== ESPANA =======" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/spain/flag-button-round-250.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",====== ESPANA =======
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/13478.ts
+#EXTINF:-1 tvg-name="====== LOCALES & AUTONOMICOS ======" tvg-logo="https://i0.wp.com/www.periodismo.com/wp-content/subid/webtv-tele.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",====== LOCALES & AUTONOMICOS ======
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/13388.ts
+#EXTINF:-1 tvg-name="ES: TV CANARIAS FHD" tvg-id="TV Canaria" tvg-logo="https://rtvc.es/archivos/2021/03/RTVC272.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: TV CANARIAS FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/22152.ts
+#EXTINF:-1 tvg-name="ES: iHOLA PLAY HD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/hola-play-en-vivo-online.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: iHOLA PLAY HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20051.ts
+#EXTINF:-1 tvg-name="ES: EMPORDA TV 2 FHD" tvg-logo="https://iteleflix.com/archivos/Logo-Emporda-TV-1.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: EMPORDA TV 2 FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20052.ts
+#EXTINF:-1 tvg-name="ES: PIERA TV FHD" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: PIERA TV FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20048.ts
+#EXTINF:-1 tvg-name="ES: VINX TV FHD" tvg-logo="https://media.tvup.cloud/canales/color_lg_645b7c9c992862876e81fcdb.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: VINX TV FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20029.ts
+#EXTINF:-1 tvg-name="ES: TAC 12 HD" tvg-logo="https://media.tvup.cloud/canales/color_lg_618bac9b0cf6f10021217b45.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: TAC 12 HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20017.ts
+#EXTINF:-1 tvg-name="ES: GUADA TV FHD" tvg-logo="https://i.imgur.com/YaDNsYN.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: GUADA TV FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20014.ts
+#EXTINF:-1 tvg-name="ES: VO TV FHD" tvg-id="Extremadura.TV" tvg-logo="https://votv.cat/wp-content/uploads/2022/12/VOTV-mainlogo-260.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: VO TV FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/8940.ts
+#EXTINF:-1 tvg-name="ES: CANAL 4 TELEVISIO HD" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ee9ef4068808e0075a18ea0.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: CANAL 4 TELEVISIO HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20015.ts
+#EXTINF:-1 tvg-name="ES: ARTEQUATRE TV " tvg-logo="https://www.artequatre.com/wp-content/uploads/2024/04/web-logo-nuevo.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: ARTEQUATRE TV 
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/19888.ts
+#EXTINF:-1 tvg-name="ES: FIBWI HD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/Fibwi-TV-en-DIRECTO-Online-.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: FIBWI HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/19889.ts
+#EXTINF:-1 tvg-name="ES: GOIENA HD" tvg-logo="https://goiena.eus/static/img/logoa.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: GOIENA HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/19892.ts
+#EXTINF:-1 tvg-name="ES: IDEASEN 5 MINUTOS HD" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: IDEASEN 5 MINUTOS HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20050.ts
+#EXTINF:-1 tvg-name="ES: AHORA TV HD" tvg-logo="https://storage.googleapis.com/proceso-storage/atv/Ahora%20TV%20-%20Logo%20Original.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: AHORA TV HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/19896.ts
+#EXTINF:-1 tvg-name="ES: SANROQUE TV FHD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/Canal-San-Roque-TV-en-DIRECTO-Online-en-vivo.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: SANROQUE TV FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/19897.ts
+#EXTINF:-1 tvg-name="ES: CANAL COIN FHD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Canal-Coin-en-DIRECTO-Online-.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: CANAL COIN FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/19898.ts
+#EXTINF:-1 tvg-name="ES: TEVECAN 9 HD" tvg-logo="https://static.wixstatic.com/media/4d3432_610170cea6c747a986bbea4137f5c15f~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/mosca%20logo%209_transparente.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: TEVECAN 9 HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20046.ts
+#EXTINF:-1 tvg-name="ES: IB 3 HD" tvg-logo="https://miguia.tv/logos/ib3.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: IB 3 HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20047.ts
+#EXTINF:-1 tvg-name="ES: LA ONDA 15 TV HD" tvg-logo="https://media.tvup.cloud/canales/color_lg_63c679168dcf980022d96090.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: LA ONDA 15 TV HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20030.ts
+#EXTINF:-1 tvg-name="ES: ANDORRA TV HD" tvg-logo="https://www.andorramania.net/images/sites/press/tv-andorra-televisio.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: ANDORRA TV HD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/19418.ts
+#EXTINF:-1 tvg-name="ES: 7 TV SEVILLA FHD" tvg-logo="https://iteleflix.com/archivos/Logo-7-TV-Sevilla-1.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: 7 TV SEVILLA FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/16674.ts
+#EXTINF:-1 tvg-name="ES: 7 TV CORDOBA FHD" tvg-logo="https://iteleflix.com/archivos/Logo-7-TV-Cordoba-Onda-Mezquita-1.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: 7 TV CORDOBA FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/16676.ts
+#EXTINF:-1 tvg-name="ES: 7 TV MALAGA FHD" tvg-logo="https://iteleflix.com/archivos/Logo-7-TV-Malaga-1.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: 7 TV MALAGA FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/16679.ts
+#EXTINF:-1 tvg-name="ES: 7 TV ALJARAFE FHD" tvg-logo="https://iteleflix.com/archivos/7TV-Aljarafe-en-directo.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: 7 TV ALJARAFE FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/16673.ts
+#EXTINF:-1 tvg-name="ES: 7 TV CADIZ FHD" tvg-logo="https://iteleflix.com/archivos/Logo-7-TV-Cadiz-Costa-Noroeste-1.png" group-title="ESPAÑA: LOCALES & AUTONOMICOS",ES: 7 TV CADIZ FHD
+http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/16675.ts
+#EXTINF:-1 tvg-name="ES: 7 TV JAEN FHD" tvg-logo="https://iteleflix.com/archivos/Logo-7-TV-Jaen-1.png" group-title="ESPAÑA: LOCALES & AU
