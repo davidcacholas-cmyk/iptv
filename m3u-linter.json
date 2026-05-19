@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-name="|ES| SQUIRREL FHD" tvg-id="Disney Channel HD" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBi82QgVYu4Cor6HZxVWp2jX7aRSXiZ35R_yIhiNyL9Ng7OjfrqRouLOOZyqVjmDhdE.png" group-title="ES| TDT",|ES| SQUIRREL FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48470.ts
@@ -425,6 +426,10 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458496.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461591.ts
 #EXTINF:-1 tvg-name="|ES| BBC Series SD (ES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BBC_Film.svg tvg-country=ES" group-title="ES| CINE",|ES| BBC Series SD (ES)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461590.ts
+#EXTINF:-1 tvg-name="VinTV FHD" tvg-id="VinTV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="ES| CINE",VinTV FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113016.ts
+#EXTINF:-1 tvg-name="VinTV HD" tvg-id="VinTV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="ES| CINE",VinTV HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113015.ts
 #EXTINF:-1 tvg-name="CANAL FLIXOLé 1 HD" tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="ES| CINE FLIXOLÉ",CANAL FLIXOLé 1 HD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301539
 #EXTINF:-1 tvg-name="CANAL FLIXOLé 1 SD" tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="ES| CINE FLIXOLÉ",CANAL FLIXOLé 1 SD
@@ -1061,9 +1066,5 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48477.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48476.ts
 #EXTINF:-1 tvg-name="|ES| NICK JR" tvg-id="Nick JR" tvg-logo="http://logo.solanaflix.com/images/logos/4f03339017aa8caddffc93575f75f6d8.png" group-title="ES| INFANTIL",|ES| NICK JR
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48478.ts
-#EXTINF:-1 tvg-name="|ES| amc Western FHD" tvg-id="VinTV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="ES| INFANTIL",|ES| amc Western FHD
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113016.ts
-#EXTINF:-1 tvg-name="|ES| amc Western" tvg-id="VinTV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="ES| INFANTIL",|ES| amc Western
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113015.ts
 #EXTINF:-1 tvg-name="|ES| DUCK TV" tvg-logo="https://noos.vip/images/72b6581acc839b106bc92e8b21d6313a.png" group-title="ES| INFANTIL",|ES| DUCK TV
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/164823.ts
