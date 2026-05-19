@@ -667,7 +667,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48674.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48638.ts
 #EXTINF:-1 tvg-name="|ES| CANAL SUR ANDALUCÍA" tvg-id="Canal Sur Andalucía" tvg-logo="https://noos.vip/logo/ES/canalsura.png" group-title="ES - TDT",|ES| CANAL SUR ANDALUCÍA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48666.ts
-#EXTINF:-1 tvg-name="|ES| tvg HD" tvg-id="tvg"- tvg " group-title="ES - TDT",|ES| Galicia TV HD
+#EXTINF:-1 tvg-name="|ES| tvg HD" tvg-id="tvg"- "tvg" group-title="ES - TDT",|ES| Galicia TV HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110576.ts
 #EXTINF:-1 tvg-name="|ES| tvg TV 2 HD" tvg-id="tvg 2"- TV Galicia" tvg-logo="https://i.ibb.co/2jtvMq0/TVG-GALICIA-2.png" group-title="ES - TDT",|ES| Galicia TV 2 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110577.ts
