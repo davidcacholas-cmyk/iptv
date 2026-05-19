@@ -545,9 +545,9 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48494.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48493.ts
 #EXTINF:-1 tvg-name="|ES| CAZAVISION" tvg-id="Cazavisión" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMpPgjitgmT16d0a9wn-SSyT-REjfH_gnj7cXqX3KpXwA.png" group-title="DOCUMENTALES",|ES| CAZAVISION
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109250.ts
-#EXTINF:-1 tvg-name="|ES| BBC Earth FHD" tvg-id="BBC Earth" tvg-logo=" tvg-name=" group-title="DOCUMENTALES",|ES| BBC Earth FHD (ES)
+#EXTINF:-1 tvg-name=" BBC Earth FHD" tvg-id="BBC Earth" tvg-logo=" tvg-name=" group-title="DOCUMENTALES",|ES| BBC Earth FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461595.ts
-#EXTINF:-1 tvg-name="|ES| BBC Earth SD" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="DOCUMENTALES",|ES| BBC Earth SD (ES)
+#EXTINF:-1 tvg-name=" BBC Earth SD" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="DOCUMENTALES",|ES| Earth SD 
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461594.ts
 #EXTINF:-1 tvg-name="|ES| DreamWorks FHD" tvg-id="Dreamworks HD" tvg-logo="http://logo.solanaflix.com/images/logos/5ed7fed512a482bd3a8d048699453af7.png" group-title="INFANTIL",|ES| DreamWorks FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/64410.ts
