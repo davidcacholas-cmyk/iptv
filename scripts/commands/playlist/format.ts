@@ -381,17 +381,17 @@ http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301541
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301542
 #EXTINF:-1 tvg-id="Canal FlixOlé 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX2" group-title="★ CINE ★",CANAL FLIXOLé 2 SD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301543
-#EXTINF:-1 tvg-id="M+ Los 2000" tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/04/movistar-plus-logo-1024x576.jpeg" group-title="★ CINE ★",M+ POPUP1 FHD
+#EXTINF:-1 tvg-id="M+ Los 2000" tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/04/movistar-plus-logo-1024x576.jpeg" group-title="★ CINE ★",M+ Los 2000 FHD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/162574
-#EXTINF:-1 tvg-id="M+ Los 2000" tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/04/movistar-plus-logo-1024x576.jpeg" group-title="★ CINE ★",M+ POPUP1 HD
+#EXTINF:-1 tvg-id="M+ Los 2000" tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/04/movistar-plus-logo-1024x576.jpeg" group-title="★ CINE ★",M+ Los 2000 HD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/162575
-#EXTINF:-1 tvg-id="M+ Los 2000" tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/04/movistar-plus-logo-1024x576.jpeg" group-title="★ CINE ★",M+ POPUP1  SD
+#EXTINF:-1 tvg-id="M+ Los 2000" tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/04/movistar-plus-logo-1024x576.jpeg" group-title="★ CINE ★",M+ Los 2000SD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/162576
-#EXTINF:-1 tvg-id="M+ top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBCEAR.png" group-title="★ CINE ★",M+ COMEDIA ESPANA FHD
+#EXTINF:-1 tvg-id="M+ top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBCEAR.png" group-title="★ CINE ★",M+top comedia española FHD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301545
-#EXTINF:-1 tvg-id="M+ top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBCEAR.png" group-title="★ CINE ★",M+ COMEDIA ESPANA HD
+#EXTINF:-1 tvg-id="M+ top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBCEAR.png" group-title="★ CINE ★",M+ top comedia española HD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301546
-#EXTINF:-1 tvg-id="M+ top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBCEAR.png" group-title="★ CINE ★",M+ COMEDIA ESPANA SD
+#EXTINF:-1 tvg-id="M+ top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBCEAR.png" group-title="★ CINE ★",M+ M+ top comedia española SD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301547
 #EXTINF:-1 tvg-id="SkyShowtime" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SKYSHO.png" group-title="★ SERIES ★",SKY SHOWTIME 1 FHD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/162643
