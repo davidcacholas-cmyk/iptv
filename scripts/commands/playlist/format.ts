@@ -541,7 +541,7 @@ http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/191
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/192
 #EXTINF:-1 tvg-id="Odisea" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="★ DOCUMENTALES ★",ODISEA SD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/193
-#EXTINF:-1 tvg-id="SELEKT" tvg-logo="https://amcselekt.es/static/img/tuamc/og_logo.png" group-title="★ DOCUMENTALES ★",AMC Selekt TV HD
+#EXTINF:-1 tvg-id="amc selekt" tvg-logo="https://amcselekt.es/static/img/tuamc/og_logo.png" group-title="★ DOCUMENTALES ★",AMC Selekt TV HD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/194
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="★ DOCUMENTALES ★",DMAX FHD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/195
