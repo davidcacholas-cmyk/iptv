@@ -1,4 +1,4 @@
-#EXTM3U
+7#EXTM3U
 #EXTINF:-1 tvg-name="|ES| M+ LALIGA TV FHD (HEVC)" tvg-id="M+ LaLiga TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="FUTBOL",|ES| M+ LALIGA TV FHD (HEVC)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/112675.ts
 #EXTINF:-1 tvg-name="|ES| M+ LALIGA TV FHD" tvg-id="M+ LaLiga TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="FUTBOL",|ES| M+ LALIGA TV FHD
@@ -535,7 +535,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48482.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48484.ts
 #EXTINF:-1 tvg-name="|ES| NATIONAL GEOGRAPHIC" tvg-id="National Geographic HD" tvg-logo="http://logo.solanaflix.com/images/logos/a94b5b322eaf66d0fc5018d10280ec57.png" group-title="DOCUMENTALES",|ES| NATIONAL GEOGRAPHIC
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48483.ts
-#EXTINF:-1 tvg-name="|ES| NATIONAL GEOGRAFIC WILD FHD" tvg-id="Nat WILD HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCmr8hEgRwbmp10Y-Nm7DmqVJ7n0J9drEbyyye-pH_rmQ.png" group-title="DOCUMENTALES",|ES| NATIONAL GEOGRAFIC WILD FHD
+#EXTINF:-1 tvg-name="|ES| NATIONAL GEOGRAFIC WILD FHD" tvg-id="Nat WILD HD" tvg-logo="http://logo.solanaflix.com/images/logos/33c0eb9393902f872b58e16b0e6cb4b7.png" group-title="DOCUMENTALES",|ES| NATIONAL GEOGRAFIC WILD FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48486.ts
 #EXTINF:-1 tvg-name="|ES| NATIONAL GEOGRAFIC WILD" tvg-id="Nat Geo Wild HD" tvg-logo="http://logo.solanaflix.com/images/logos/33c0eb9393902f872b58e16b0e6cb4b7.png" group-title="DOCUMENTALES",|ES| NATIONAL GEOGRAFIC WILD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48485.ts
