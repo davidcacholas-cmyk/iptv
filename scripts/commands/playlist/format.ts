@@ -535,7 +535,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48482.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48484.ts
 #EXTINF:-1 tvg-name="|ES| NATIONAL GEOGRAPHIC" tvg-id="National Geographic HD" tvg-logo="http://logo.solanaflix.com/images/logos/a94b5b322eaf66d0fc5018d10280ec57.png" group-title="ES - CULTURA",|ES| NATIONAL GEOGRAPHIC
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48483.ts
-#EXTINF:-1 tvg-name="|ES| NATIONAL GEOGRAFIC WILD FHD" tvg-id="NG WILD HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCmr8hEgRwbmp10Y-Nm7DmqVJ7n0J9drEbyyye-pH_rmQ.png" group-title="ES - CULTURA",|ES| NATIONAL GEOGRAFIC WILD FHD
+#EXTINF:-1 tvg-name="|ES| NATIONAL GEOGRAFIC WILD FHD" tvg-id="Nat WILD HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCmr8hEgRwbmp10Y-Nm7DmqVJ7n0J9drEbyyye-pH_rmQ.png" group-title="ES - CULTURA",|ES| NATIONAL GEOGRAFIC WILD FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48486.ts
 #EXTINF:-1 tvg-name="|ES| NATIONAL GEOGRAFIC WILD" tvg-id="Nat Geo Wild HD" tvg-logo="http://logo.solanaflix.com/images/logos/33c0eb9393902f872b58e16b0e6cb4b7.png" group-title="ES - CULTURA",|ES| NATIONAL GEOGRAFIC WILD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48485.ts
@@ -545,9 +545,9 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48494.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48493.ts
 #EXTINF:-1 tvg-name="|ES| CAZAVISION" tvg-id="Cazavisión" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMpPgjitgmT16d0a9wn-SSyT-REjfH_gnj7cXqX3KpXwA.png" group-title="ES - CULTURA",|ES| CAZAVISION
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109250.ts
-#EXTINF:-1 tvg-name="|ES| BBC Earth FHD (ES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="ES - CULTURA",|ES| BBC Earth FHD (ES)
+#EXTINF:-1 tvg-name="|ES| BBC Earth FHD (ES)" tvg-id="BBC Earth* tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="ES - CULTURA",|ES| BBC Earth FHD (ES)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461595.ts
-#EXTINF:-1 tvg-name="|ES| BBC Earth SD (ES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="ES - CULTURA",|ES| BBC Earth SD (ES)
+#EXTINF:-1 tvg-name="|ES| BBC Earth SD (ES)" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="ES - CULTURA",|ES| BBC Earth SD (ES)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461594.ts
 #EXTINF:-1 tvg-name="|ES| DreamWorks FHD" tvg-id="Dreamworks HD" tvg-logo="http://logo.solanaflix.com/images/logos/5ed7fed512a482bd3a8d048699453af7.png" group-title="ES - NINOS",|ES| DreamWorks FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/64410.ts
@@ -607,7 +607,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48420.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48426.ts
 #EXTINF:-1 tvg-name="|ES| 24 HORAS" tvg-id="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="ES - TDT",|ES| 24 HORAS
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48395.ts
-#EXTINF:-1 tvg-name="|ES| FDF FHD" tvg-id="FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="ES - TDT",|ES| FDF FHD
+#EXTINF:-1 tvg-name="|ES| Factoría de Ficción FHD" tvg-id="Factoría de Ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="ES - TDT",|ES| Factoría de Ficción FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48452.ts
 #EXTINF:-1 tvg-name="|ES| A3SERIES FHD" tvg-id="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Atreseries.png" group-title="ES - TDT",|ES| A3SERIES FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48454.ts
@@ -667,9 +667,9 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48674.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48638.ts
 #EXTINF:-1 tvg-name="|ES| CANAL SUR ANDALUCÍA" tvg-id="Canal Sur Andalucía" tvg-logo="https://noos.vip/logo/ES/canalsura.png" group-title="ES - TDT",|ES| CANAL SUR ANDALUCÍA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48666.ts
-#EXTINF:-1 tvg-name="|ES| tvg HD" tvg-id="TVG - TV Galicia" group-title="ES - TDT",|ES| Galicia TV HD
+#EXTINF:-1 tvg-name="|ES| tvg HD" tvg-id="tvg"- tvg " group-title="ES - TDT",|ES| Galicia TV HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110576.ts
-#EXTINF:-1 tvg-name="|ES| tvg TV 2 HD" tvg-id="TVG - TV Galicia" tvg-logo="https://i.ibb.co/2jtvMq0/TVG-GALICIA-2.png" group-title="ES - TDT",|ES| Galicia TV 2 HD
+#EXTINF:-1 tvg-name="|ES| tvg TV 2 HD" tvg-id="tvg 2"- TV Galicia" tvg-logo="https://i.ibb.co/2jtvMq0/TVG-GALICIA-2.png" group-title="ES - TDT",|ES| Galicia TV 2 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110577.ts
 #EXTINF:-1 tvg-name="|ES| TVG Infantil HD" group-title="ES - TDT",|ES| TVG Infantil HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110578.ts
