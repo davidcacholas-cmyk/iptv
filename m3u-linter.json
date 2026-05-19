@@ -545,3 +545,14 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461911.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461912.ts
 #EXTINF:-1 tvg-name="|ES| 24 HORAS FHD" tvg-id="24h HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="ES - TDT",|ES| 24 HORAS FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461913.ts
+EXTINF:-1 tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="Canal FlixOlé",CANAL FLIXOLé 1 FHD
+http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301540
+#EXTINF:-1 tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="Canal FlixOlé",CANAL FLIXOLé 1 HD
+http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301539
+#EXTINF:-1 tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="Canal FlixOlé",CANAL FLIXOLé 1 SD
+http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301538
+#EXTINF:-1 tvg-id="Canal FlixOlé 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX2" group-title="Canal FlixOlé",CANAL FLIXOLé 2 FHD
+http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301541
+#EXTINF:-1 tvg-id="Canal FlixOlé 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX2" group-title="Canal FlixOlé",CANAL FLIXOLé 2 HD
+http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301542
+#EXTINF:-1 tvg-id="Canal FlixOlé 2" tvg-logo="https://
