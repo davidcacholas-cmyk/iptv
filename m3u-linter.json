@@ -279,11 +279,11 @@ http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/162550
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/162551
 #EXTINF:-1 tvg-name="M+ HITS SD" tvg-id="M+ Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/250px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="★ CINE ★",M+ HITS SD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/162552
-#EXTINF:-1 tvg-name="SQUIRREL DOS FHD" tvg-id="Paramount Network" tvg-logo="https://i.postimg.cc/7hNQMXmz/Squirrel-Dos.png" group-title="★ CINE ★",SQUIRREL DOS FHD
+#EXTINF:-1 tvg-name="SQUIRREL DOS FHD" tvg-id="squirrel 2" tvg-logo="https://i.postimg.cc/7hNQMXmz/Squirrel-Dos.png" group-title="★ CINE ★",SQUIRREL DOS FHD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/162607
-#EXTINF:-1 tvg-name="SQUIRREL DOS HD" tvg-id="Paramount Network" tvg-logo="https://i.postimg.cc/7hNQMXmz/Squirrel-Dos.png" group-title="★ CINE ★",SQUIRREL DOS HD
+#EXTINF:-1 tvg-name="SQUIRREL DOS HD" tvg-id="squirrel 2" tvg-logo="https://i.postimg.cc/7hNQMXmz/Squirrel-Dos.png" group-title="★ CINE ★",SQUIRREL DOS HD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/162608
-#EXTINF:-1 tvg-name="SQUIRREL DOS SD" tvg-id="Paramount Network" tvg-logo="https://i.postimg.cc/7hNQMXmz/Squirrel-Dos.png" group-title="★ CINE ★",SQUIRREL DOS SD
+#EXTINF:-1 tvg-name="SQUIRREL DOS SD" tvg-id="squirrel 2" tvg-logo="https://i.postimg.cc/7hNQMXmz/Squirrel-Dos.png" group-title="★ CINE ★",SQUIRREL DOS SD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/162609
 #EXTINF:-1 tvg-name="AXN MOVIES FHD" tvg-id="AXN Movies HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="★ CINE ★",AXN MOVIES FHD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/162604
@@ -381,17 +381,17 @@ http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301541
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301542
 #EXTINF:-1 tvg-name="CANAL FLIXOLé 2 SD" tvg-id="Canal FlixOlé 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX2" group-title="★ CINE ★",CANAL FLIXOLé 2 SD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301543
-#EXTINF:-1 tvg-name="M+ top comedia española " tvg-id="top comedia española " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBCEAR.png" group-title="★ CINE ★",M+ top comedia española 
+#EXTINF:-1 tvg-name="M+ top comedia española " tvg-id="top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBCEAR.png" group-title="★ CINE ★",M+ top comedia española 
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301545
-#EXTINF:-1 tvg-name="M+ top comedia española " tvg-id="top comedia española " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBCEAR.png" group-title="★ CINE ★",M+ top comedia española 
+#EXTINF:-1 tvg-name="M+ top comedia española " tvg-id="top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBCEAR.png" group-title="★ CINE ★",M+ top comedia española 
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301546
-#EXTINF:-1 tvg-name="M+ top comedia española " tvg-id="top comedia española " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBCEAR.png" group-title="★ CINE ★",M+ top comedia española 
+#EXTINF:-1 tvg-name="M+ top comedia española " tvg-id="top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBCEAR.png" group-title="★ CINE ★",M+ top comedia española 
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301547
-#EXTINF:-1 tvg-name="M+ Los 2000 FHD" tvg-id="M+ Los 2000 " tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/04/movistar-plus-logo-1024x576.jpeg" group-title="★ CINE ★",M+ Los 2000 FHD
+#EXTINF:-1 tvg-name="M+ Los 2000 FHD" tvg-id="M+ Los 2000" tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/04/movistar-plus-logo-1024x576.jpeg" group-title="★ CINE ★",M+ Los 2000 FHD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/162574
-#EXTINF:-1 tvg-name="M+ Los 2000 " tvg-id="M+ Los 2000 " tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/04/movistar-plus-logo-1024x576.jpeg" group-title="★ CINE ★",M+ Los 2000 
+#EXTINF:-1 tvg-name="M+ Los 2000 " tvg-id="M+ Los 2000" tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/04/movistar-plus-logo-1024x576.jpeg" group-title="★ CINE ★",M+ Los 2000 SD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/162576
-#EXTINF:-1 tvg-name="M+ Los 2000  HD" tvg-id="M+ Los 2000 " tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/04/movistar-plus-logo-1024x576.jpeg" group-title="★ CINE ★",M+ Los 2000  HD
+#EXTINF:-1 tvg-name="M+ Los 2000  HD" tvg-id="M+ Los 2000" tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/04/movistar-plus-logo-1024x576.jpeg" group-title="★ CINE ★",M+ Los 2000  HD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/162575
 #EXTINF:-1 tvg-name="SKY SHOWTIME 1 FHD" tvg-id="SkyShowtime" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SKYSHO.png" group-title="★ SERIES ★",SKY SHOWTIME 1 FHD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/162643
