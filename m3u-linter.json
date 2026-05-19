@@ -189,7 +189,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113017.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113018.ts
 #EXTINF:-1 tvg-name="|ES| DKISS" tvg-id="DKISS" tvg-logo="http://logo.solanaflix.com/images/logos/ea8965a16fc2667103961d8f646c5cfb.png" group-title="ES - ESTILO DE VIDA",|ES| DKISS
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48453.ts
-#EXTINF:-1 tvg-name="|ES| AMC CRIME HD" tvg-id="CRINV" tvg-logo="http://logo.solanaflix.com/images/logos/54923f7550a0a91f5e67dd049b97f51d.png" group-title="ES - ESTILO DE VIDA",|ES| CRIMEN MAS+ INVESTIGACION
+#EXTINF:-1 tvg-name="|ES| AMC CRIME HD" tvg-id="amc crime" tvg-logo="http://logo.solanaflix.com/images/logos/54923f7550a0a91f5e67dd049b97f51d.png" group-title="ES - ESTILO DE VIDA",|ES| CRIMEN MAS+ INVESTIGACION
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48458.ts
 #EXTINF:-1 tvg-name="|ES| DECASA UHD (4K) - En pruebas" tvg-id="Decasa" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSQJ_KeF7LT3A8yL9zybbRe.png" group-title="ES - ESTILO DE VIDA",|ES| DECASA UHD (4K) - En pruebas
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113618.ts
@@ -283,7 +283,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48477.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48476.ts
 #EXTINF:-1 tvg-name="|ES| NICK JR" tvg-id="Nick JR" tvg-logo="http://logo.solanaflix.com/images/logos/4f03339017aa8caddffc93575f75f6d8.png" group-title="ES - NIÑOS",|ES| NICK JR
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48478.ts
-#EXTINF:-1 tvg-name="|ES| VinTV D" tvg-id="VinTV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="ES - NIÑOS",|ES| VinTV FHD
+#EXTINF:-1 tvg-name="|ES| VinTV " tvg-id="VinTV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="ES - NIÑOS",|ES| VinTV FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113016.ts
 #EXTINF:-1 tvg-name="|ES| VinTV" tvg-id="VinTV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="ES - NIÑOS",|ES| VinTV
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113015.ts
