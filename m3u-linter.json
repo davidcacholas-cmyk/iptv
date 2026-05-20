@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-name="====== ESPANA ======" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/spain/flag-button-round-250.png" group-title="ESPAÑA: TDT",====== ESPANA ======
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/12852.ts
@@ -359,9 +360,9 @@ http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/22064.ts
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/22294.ts
 #EXTINF:-1 tvg-name="m+ Los 2000" tvg-id="m+ Los 2000" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MTIME.png" group-title="ESPAÑA: CINE & SERIES",m+ Los 2000
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/22295.ts
-#EXTINF:-1 tvg-name="M+ top comedia española" tvg-id="top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBBC.png" group-title="ESPAÑA: CINE & SERIES",M+ top comedia española
+#EXTINF:-1 tvg-name="M+ top comedia española" tvg-id="m+ top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBBC.png" group-title="ESPAÑA: CINE & SERIES",M+ top comedia española
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/15477.ts
-#EXTINF:-1 tvg-name="M+ top comedia española" tvg-id="top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBBC.png" group-title="ESPAÑA: CINE & SERIES",M+ top comedia española
+#EXTINF:-1 tvg-name="M+ top comedia española" tvg-id="m+top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBBC.png" group-title="ESPAÑA: CINE & SERIES",M+ top comedia española
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/15478.ts
 #EXTINF:-1 tvg-name="ES: ESTRENOS I POR M+ FHD" tvg-id="M+ Estrenos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png" group-title="ESPAÑA: CINE & SERIES",ES: ESTRENOS I POR M+ FHD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1118.ts
