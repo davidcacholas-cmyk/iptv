@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-name="====== ESPANA ======" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/spain/flag-button-round-250.png" group-title="ESPAÑA: TDT",====== ESPANA ======
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/12852.ts
@@ -513,13 +514,13 @@ http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20068.ts
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20069.ts
 #EXTINF:-1 tvg-name="ES: ORO TV HD" tvg-id="La 1 HD" tvg-logo="https://static.wixstatic.com/media/e139b5_e96291bb2be3479a97fe5719718c8bb5~mv2.png/v1/crop/x_0,y_30,w_1080,h_1021/fill/w_280,h_264,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Oro_TV_Logo.png" group-title="ESPAÑA: CINE & SERIES",ES: ORO TV HD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/19492.ts
-#EXTINF:-1 tvg-name="ES: MY TIME FHD" tvg-logo="https://up6.cc/2024/09/172725560720581.png" group-title="ESPAÑA: CINE & SERIES",ES: MY TIME FHD
+#EXTINF:-1 tvg-name="ES: MY TIME FHD" tvg-id="MY TIME" tvg-logo="https://up6.cc/2024/09/172725560720581.png" group-title="ESPAÑA: CINE & SERIES",ES: MY TIME FHD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/22871.ts
-#EXTINF:-1 tvg-name="ES: MY TIME HD" tvg-logo="https://up6.cc/2024/09/172725560720581.png" group-title="ESPAÑA: CINE & SERIES",ES: MY TIME HD
+#EXTINF:-1 tvg-name="ES: MY TIME HD" tvg-id="MY TIME" tvg-logo="https://up6.cc/2024/09/172725560720581.png" group-title="ESPAÑA: CINE & SERIES",ES: MY TIME HD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/22872.ts
-#EXTINF:-1 tvg-name="ES: CLASSIC MANIA FHD" tvg-logo="https://paraproblar.b-cdn.net/images/classicMania-512.png" group-title="ESPAÑA: CINE & SERIES",ES: CLASSIC MANIA FHD
+#EXTINF:-1 tvg-name="ES: CLASSIC MANIA FHD" tvg-id="CLASSIC MANIA" tvg-logo="https://paraproblar.b-cdn.net/images/classicMania-512.png" group-title="ESPAÑA: CINE & SERIES",ES: CLASSIC MANIA FHD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20193.ts
-#EXTINF:-1 tvg-name="ES: TODO PASION FHD" tvg-logo="https://media.tvup.cloud/canales/color_lg_68ed080f18549f63c2c541e8_1763553329707.png" group-title="ESPAÑA: CINE & SERIES",ES: TODO PASION FHD
+#EXTINF:-1 tvg-name="ES: TODO PASION FHD" tvg-id="TODO PASION" tvg-logo="https://media.tvup.cloud/canales/color_lg_68ed080f18549f63c2c541e8_1763553329707.png" group-title="ESPAÑA: CINE & SERIES",ES: TODO PASION FHD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/26380.ts
 #EXTINF:-1 tvg-name="ES: ACONTRA+ CINE FHD" tvg-id="La 1 HD" tvg-logo="https://images.eu-west-1.prod.magine.com/i/salavirtualdecine/l/97612f74-3e7a-4df1-a6fc-3c617cb6d0aa.png" group-title="ESPAÑA: CINE & SERIES",ES: ACONTRA+ CINE FHD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21861.ts
@@ -561,7 +562,7 @@ http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/23919.ts
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/23920.ts
 #EXTINF:-1 tvg-name="ES: BBC THREE" tvg-logo="https://www.pngfind.com/pngs/m/248-2484090_file-bbc-three-svg-bbc-three-logo-png.png" group-title="ESPAÑA: ENTRETENIMIENTO",ES: BBC THREE
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/27180.ts
-#EXTINF:-1 tvg-name="ES: COCINA FAMILIA FHD" tvg-logo="https://vivaespaña.tv/user/upload/source/logocf.png" group-title="ESPAÑA: ENTRETENIMIENTO",ES: COCINA FAMILIA FHD
+#EXTINF:-1 tvg-name="ES: COCINA FAMILIA FHD" tvg-id="COCINA FAMILIA" tvg-logo="https://vivaespaña.tv/user/upload/source/logocf.png" group-title="ESPAÑA: ENTRETENIMIENTO",ES: COCINA FAMILIA FHD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/22270.ts
 #EXTINF:-1 tvg-name="ES: INFAST FHD" tvg-logo="https://media.tvup.cloud/canales/color_lg_67a0a8b17668774da52152b5_1739963810034.png" group-title="ESPAÑA: ENTRETENIMIENTO",ES: INFAST FHD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/26379.ts
@@ -647,9 +648,9 @@ http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/16683.ts
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/16684.ts
 #EXTINF:-1 tvg-name="ES: VIN TV" tvg-id="La 1 HD" tvg-logo="https://miguia.tv/logos/vintv.png" group-title="ESPAÑA: ENTRETENIMIENTO",ES: VIN TV
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/16685.ts
-#EXTINF:-1 tvg-name="ES: GOL PLAY FHD" tvg-id="La 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="ESPAÑA: ENTRETENIMIENTO",ES: GOL PLAY FHD
+#EXTINF:-1 tvg-name="ES: GOL PLAY FHD" tvg-id="GOL PLAY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="ESPAÑA: ENTRETENIMIENTO",ES: GOL PLAY FHD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/5716.ts
-#EXTINF:-1 tvg-name="ES: GOL PLAY HD" tvg-id="La 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="ESPAÑA: ENTRETENIMIENTO",ES: GOL PLAY HD
+#EXTINF:-1 tvg-name="ES: GOL PLAY HD" tvg-id="GOL PLAY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="ESPAÑA: ENTRETENIMIENTO",ES: GOL PLAY HD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1093.ts
 #EXTINF:-1 tvg-name="ES: U-BEAT FHD" tvg-id="UBEAT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/UBEAT.png" group-title="ESPAÑA: ENTRETENIMIENTO",ES: U-BEAT FHD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/15737.ts
@@ -671,9 +672,9 @@ http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/6666.ts
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/23916.ts
 #EXTINF:-1 tvg-name="ES: BBC HISTORY HD" tvg-id="BBC History" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBHIS.png" group-title="ESPAÑA: DOCUMENTALES",ES: BBC HISTORY HD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/23917.ts
-#EXTINF:-1 tvg-name="ES: DVIAJE FHD" tvg-id="La 1 HD" tvg-logo="https://contenidostv.es/images/logos512/dviaje.png" group-title="ESPAÑA: DOCUMENTALES",ES: DVIAJE FHD
+#EXTINF:-1 tvg-name="ES: DVIAJE FHD" tvg-id="DVIAJE" tvg-logo="https://contenidostv.es/images/logos512/dviaje.png" group-title="ESPAÑA: DOCUMENTALES",ES: DVIAJE FHD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/22272.ts
-#EXTINF:-1 tvg-name="ES: DVIAJE HD" tvg-id="La 1 HD" tvg-logo="https://contenidostv.es/images/logos512/dviaje.png" group-title="ESPAÑA: DOCUMENTALES",ES: DVIAJE HD
+#EXTINF:-1 tvg-name="ES: DVIAJE HD" tvg-id="DVIAJE" tvg-logo="https://contenidostv.es/images/logos512/dviaje.png" group-title="ESPAÑA: DOCUMENTALES",ES: DVIAJE HD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/22273.ts
 #EXTINF:-1 tvg-name="ES: NATURE TIME FHD" tvg-id="NatureTime" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="ESPAÑA: DOCUMENTALES",ES: NATURE TIME FHD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/19189.ts
@@ -1011,165 +1012,7 @@ http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/887.ts
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/9044.ts
 #EXTINF:-1 tvg-name="ES: HISPAN TV" tvg-logo="https://www.shockya.com/news/wp-content/uploads/HispanTV-logo.png" group-title="ESPAÑA: NOTICIAS",ES: HISPAN TV
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/965.ts
-#EXTINF:-1 tvg-name="ES: DW FHD" tvg-id="La1.TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418huI7urFL.png" group-title="ESPAÑA: NOTICIAS",ES: DW FHD
+#EXTINF:-1 tvg-name="ES: DW FHD" tvg-id="DW" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418huI7urFL.png" group-title="ESPAÑA: NOTICIAS",ES: DW FHD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/9045.ts
 #EXTINF:-1 tvg-name="ES: CBN ESPANOL HD" tvg-logo="https://www.cbn.com/partners/video/img/live_channel/cbn-espanol-channel-thumb.png" group-title="ESPAÑA: NOTICIAS",ES: CBN ESPANOL HD
 http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/12815.ts
-#EXTINF:-1 tvg-name="======== ESPANA =========" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/spain/flag-button-round-250.png" group-title="ESPAÑA: DEPORTES",======== ESPANA =========
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/13485.ts
-#EXTINF:-1 tvg-name="======  DEPORTES  ======" tvg-logo="http://www.paliseul.be/culture-et-loisirs/2000px-all-sports-drawing.svg.png" group-title="ESPAÑA: DEPORTES",======  DEPORTES  ======
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/6671.ts
-#EXTINF:-1 tvg-name="ES: DAZN MOTOGP FHD" tvg-id="La 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png" group-title="ESPAÑA: DEPORTES",ES: DAZN MOTOGP FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/27340.ts
-#EXTINF:-1 tvg-name="ES: DAZN MOTOGP HD" tvg-id="DAZN MotoGP" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png" group-title="ESPAÑA: DEPORTES",ES: DAZN MOTOGP HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/27341.ts
-#EXTINF:-1 tvg-name="ES: DAZN BALONCESTO 1 FHD" tvg-logo="https://up6.cc/2025/10/176531918809271.png" group-title="ESPAÑA: DEPORTES",ES: DAZN BALONCESTO 1 FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/26467.ts
-#EXTINF:-1 tvg-name="ES: DAZN BALONCESTO 2 FHD" tvg-logo="https://up6.cc/2025/10/176531918809271.png" group-title="ESPAÑA: DEPORTES",ES: DAZN BALONCESTO 2 FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/26468.ts
-#EXTINF:-1 tvg-name="ES: DAZN BALONCESTO 3 FHD" tvg-logo="https://up6.cc/2025/10/176531918809271.png" group-title="ESPAÑA: DEPORTES",ES: DAZN BALONCESTO 3 FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/26469.ts
-#EXTINF:-1 tvg-name="ES: DAZN 1 FHD" tvg-id="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="ESPAÑA: DEPORTES",ES: DAZN 1 FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/10981.ts
-#EXTINF:-1 tvg-name="ES: DAZN 1 HD" tvg-id="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="ESPAÑA: DEPORTES",ES: DAZN 1 HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/10311.ts
-#EXTINF:-1 tvg-name="ES: DAZN 2 FHD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="ESPAÑA: DEPORTES",ES: DAZN 2 FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/10983.ts
-#EXTINF:-1 tvg-name="ES: DAZN 2 HD" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="ESPAÑA: DEPORTES",ES: DAZN 2 HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/10321.ts
-#EXTINF:-1 tvg-name="ES: DAZN 3 FHD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="ESPAÑA: DEPORTES",ES: DAZN 3 FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/2921.ts
-#EXTINF:-1 tvg-name="ES: DAZN 3 HD" tvg-id="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="ESPAÑA: DEPORTES",ES: DAZN 3 HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/11031.ts
-#EXTINF:-1 tvg-name="ES: DAZN 4 FHD" tvg-id="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="ESPAÑA: DEPORTES",ES: DAZN 4 FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/2922.ts
-#EXTINF:-1 tvg-name="ES: DAZN 4 HD" tvg-id="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="ESPAÑA: DEPORTES",ES: DAZN 4 HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/11032.ts
-#EXTINF:-1 tvg-name="ES: DAZN FORMULA 1 FHD" tvg-id="DAZN F1 HD" tvg-logo="https://miguia.tv/logos/dazn-f1.png" group-title="ESPAÑA: DEPORTES",ES: DAZN FORMULA 1 FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1163.ts
-#EXTINF:-1 tvg-name="ES: DAZN FORMULA 1 FHD (EXTRA)" tvg-id="DAZN F1 HD" tvg-logo="https://miguia.tv/logos/dazn-f1.png" group-title="ESPAÑA: DEPORTES",ES: DAZN FORMULA 1 FHD (EXTRA)
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/15193.ts
-#EXTINF:-1 tvg-name="ES: DAZN FORMULA 1 HD" tvg-id="DAZN F1 HD" tvg-logo="https://miguia.tv/logos/dazn-f1.png" group-title="ESPAÑA: DEPORTES",ES: DAZN FORMULA 1 HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/15482.ts
-#EXTINF:-1 tvg-name="ES: DAZN FORMULA 1 HD (EXTRA)" tvg-id="DAZN F1 HD" tvg-logo="https://miguia.tv/logos/dazn-f1.png" group-title="ESPAÑA: DEPORTES",ES: DAZN FORMULA 1 HD (EXTRA)
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1089.ts
-#EXTINF:-1 tvg-name="ES: MY PADEL FHD" tvg-id="My Padel TV" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MY_PADEL_TV_176x122.png" group-title="ESPAÑA: DEPORTES",ES: MY PADEL FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/22013.ts
-#EXTINF:-1 tvg-name="ES: MY PADEL HD" tvg-id="My Padel TV" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MY_PADEL_TV_176x122.png" group-title="ESPAÑA: DEPORTES",ES: MY PADEL HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/22014.ts
-#EXTINF:-1 tvg-name="ES: PANORAMA MOTOR FHD" tvg-logo="https://contenidostv.b-cdn.net/images/panoramaMotorNegro512.png" group-title="ESPAÑA: DEPORTES",ES: PANORAMA MOTOR FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20194.ts
-#EXTINF:-1 tvg-name="ES: FIGHT TIME FHD" tvg-id="Fight Time" tvg-logo="https://up6.cc/2023/01/167434852711341.png" group-title="ESPAÑA: DEPORTES",ES: FIGHT TIME FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20183.ts
-#EXTINF:-1 tvg-name="ES: FIGHT TIME HD" tvg-id="Fight Time" tvg-logo="https://up6.cc/2023/01/167434852711341.png" group-title="ESPAÑA: DEPORTES",ES: FIGHT TIME HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/16136.ts
-#EXTINF:-1 tvg-name="ES: HORSE TV FHD" tvg-id="Horse TV" tvg-logo="https://image.roku.com/developer_channels/prod/c934c84f3d2ea104f643d8c91cb912580e3271dd7b712418d10c543f00ae3caa.png" group-title="ESPAÑA: DEPORTES",ES: HORSE TV FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/22276.ts
-#EXTINF:-1 tvg-name="ES: HORSE TV HD" tvg-id="Horse TV" tvg-logo="https://image.roku.com/developer_channels/prod/c934c84f3d2ea104f643d8c91cb912580e3271dd7b712418d10c543f00ae3caa.png" group-title="ESPAÑA: DEPORTES",ES: HORSE TV HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/18818.ts
-#EXTINF:-1 tvg-name="ES: DBIKE FHD" tvg-id="DBike" tvg-logo="https://dbikechannel.es/wp-content/uploads/2024/04/logodbike2020.png" group-title="ESPAÑA: DEPORTES",ES: DBIKE FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/18771.ts
-#EXTINF:-1 tvg-name="ES: DBIKE HD" tvg-id="DBike" tvg-logo="https://dbikechannel.es/wp-content/uploads/2024/04/logodbike2020.png" group-title="ESPAÑA: DEPORTES",ES: DBIKE HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/18772.ts
-#EXTINF:-1 tvg-name="ES: MOTO ADV FHD" tvg-id="Moto ADV" tvg-logo="https://www.aircom.cat/wp-content/uploads/2021/11/canales-motoadv-removebg-preview.png" group-title="ESPAÑA: DEPORTES",ES: MOTO ADV FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/16479.ts
-#EXTINF:-1 tvg-name="ES: MOTO ADV HD" tvg-id="Moto ADV" tvg-logo="https://www.aircom.cat/wp-content/uploads/2021/11/canales-motoadv-removebg-preview.png" group-title="ESPAÑA: DEPORTES",ES: MOTO ADV HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/16480.ts
-#EXTINF:-1 tvg-name="ES: I #VAMOS I POR M+ FHD" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="ESPAÑA: DEPORTES",ES: I #VAMOS I POR M+ FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1157.ts
-#EXTINF:-1 tvg-name="ES: I #VAMOS I POR M+ HD" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="ESPAÑA: DEPORTES",ES: I #VAMOS I POR M+ HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1090.ts
-#EXTINF:-1 tvg-name="ES: I #VAMOS 2 I POR M+ FHD" tvg-id="La 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAM2SD.png" group-title="ESPAÑA: DEPORTES",ES: I #VAMOS 2 I POR M+ FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/19072.ts
-#EXTINF:-1 tvg-name="ES: I #VAMOS 2 I POR M+ HD" tvg-id="La 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAM2SD.png" group-title="ESPAÑA: DEPORTES",ES: I #VAMOS 2 I POR M+ HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/19073.ts
-#EXTINF:-1 tvg-name="ES: ELLAS  #VAMOS I POR M+ FHD" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="ESPAÑA: DEPORTES",ES: ELLAS  #VAMOS I POR M+ FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/14866.ts
-#EXTINF:-1 tvg-name="ES: ELLAS  #VAMOS I POR M+ HD" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="ESPAÑA: DEPORTES",ES: ELLAS  #VAMOS I POR M+ HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/15483.ts
-#EXTINF:-1 tvg-name="ES: EUROSPORT 1 FHD" tvg-id="Eurosport 1 HD" tvg-logo="https://miguia.tv/logos/eurosport-1.png" group-title="ESPAÑA: DEPORTES",ES: EUROSPORT 1 FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1164.ts
-#EXTINF:-1 tvg-name="ES: EUROSPORT 1 HD" tvg-id="Eurosport 1 HD" tvg-logo="https://miguia.tv/logos/eurosport-1.png" group-title="ESPAÑA: DEPORTES",ES: EUROSPORT 1 HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1098.ts
-#EXTINF:-1 tvg-name="ES: EUROSPORT 2 FHD" tvg-id="Eurosport 2" tvg-logo="https://miguia.tv/logos/eurosport-2.png" group-title="ESPAÑA: DEPORTES",ES: EUROSPORT 2 FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/9014.ts
-#EXTINF:-1 tvg-name="ES: EUROSPORT 2 HD" tvg-id="Eurosport 2" tvg-logo="https://miguia.tv/logos/eurosport-2.png" group-title="ESPAÑA: DEPORTES",ES: EUROSPORT 2 HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1005.ts
-#EXTINF:-1 tvg-name="ES: TELEDEPORTE FHD" tvg-id="Teledeporte" tvg-logo="https://miguia.tv/channels/big_162.png" group-title="ESPAÑA: DEPORTES",ES: TELEDEPORTE FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1160.ts
-#EXTINF:-1 tvg-name="ES: TELEDEPORTE HD" tvg-id="Teledeporte" tvg-logo="https://miguia.tv/channels/big_162.png" group-title="ESPAÑA: DEPORTES",ES: TELEDEPORTE HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1095.ts
-#EXTINF:-1 tvg-name="ES: DEPORTES I POR M+ FHD" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png" group-title="ESPAÑA: DEPORTES",ES: DEPORTES I POR M+ FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1161.ts
-#EXTINF:-1 tvg-name="ES: DEPORTES I POR M+ HD" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png" group-title="ESPAÑA: DEPORTES",ES: DEPORTES I POR M+ HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1096.ts
-#EXTINF:-1 tvg-name="ES: DEPORTES I POR M+" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png" group-title="ESPAÑA: DEPORTES",ES: DEPORTES I POR M+
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21867.ts
-#EXTINF:-1 tvg-name="ES: DEPORTES 2 I POR M+ FHD" tvg-id="M+ Deportes 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png" group-title="ESPAÑA: DEPORTES",ES: DEPORTES 2 I POR M+ FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1162.ts
-#EXTINF:-1 tvg-name="ES: DEPORTES 2 I POR M+ HD" tvg-id="M+ Deportes 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png" group-title="ESPAÑA: DEPORTES",ES: DEPORTES 2 I POR M+ HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/13063.ts
-#EXTINF:-1 tvg-name="ES: DEPORTES 3 I POR M+ FHD" tvg-id="M+ Deportes 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP2.png" group-title="ESPAÑA: DEPORTES",ES: DEPORTES 3 I POR M+ FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/18342.ts
-#EXTINF:-1 tvg-name="ES: DEPORTES 3 I POR M+ HD" tvg-id="M+ Deportes 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP2.png" group-title="ESPAÑA: DEPORTES",ES: DEPORTES 3 I POR M+ HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21869.ts
-#EXTINF:-1 tvg-name="ES: DEPORTES 4 I POR M+ FHD" tvg-id="M+ Deportes 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP3.png" group-title="ESPAÑA: DEPORTES",ES: DEPORTES 4 I POR M+ FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/18343.ts
-#EXTINF:-1 tvg-name="ES: DEPORTES 4 I POR M+ HD" tvg-id="M+ Deportes 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP3.png" group-title="ESPAÑA: DEPORTES",ES: DEPORTES 4 I POR M+ HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21870.ts
-#EXTINF:-1 tvg-name="ES: DEPORTES 5 I POR M+ FHD" tvg-id="M+ Deportes 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP11.png" group-title="ESPAÑA: DEPORTES",ES: DEPORTES 5 I POR M+ FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/18344.ts
-#EXTINF:-1 tvg-name="ES: DEPORTES 5 I POR M+ HD" tvg-id="M+ Deportes 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP11.png" group-title="ESPAÑA: DEPORTES",ES: DEPORTES 5 I POR M+ HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21871.ts
-#EXTINF:-1 tvg-name="ES: DEPORTES 6 I POR M+ FHD" tvg-id="M+ Deportes 6" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MULTI8.png" group-title="ESPAÑA: DEPORTES",ES: DEPORTES 6 I POR M+ FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/18345.ts
-#EXTINF:-1 tvg-name="ES: DEPORTES 6 I POR M+ HD" tvg-id="M+ Deportes 6" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MULTI8.png" group-title="ESPAÑA: DEPORTES",ES: DEPORTES 6 I POR M+ HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/13067.ts
-#EXTINF:-1 tvg-name="ES: DEPORTES 7 I POR M+ FHD" tvg-id="M+ Deportes 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MULTI6.png" group-title="ESPAÑA: DEPORTES",ES: DEPORTES 7 I POR M+ FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1013.ts
-#EXTINF:-1 tvg-name="ES: DEPORTES 7 I POR M+ HD" tvg-id="M+ Deportes 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MULTI6.png" group-title="ESPAÑA: DEPORTES",ES: DEPORTES 7 I POR M+ HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21873.ts
-#EXTINF:-1 tvg-name="ES: BARCA TV HD" tvg-logo="https://up6.cc/2025/07/175234142491761.png" group-title="ESPAÑA: DEPORTES",ES: BARCA TV HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/25346.ts
-#EXTINF:-1 tvg-name="ES: R. MADRID FHD" tvg-id="Real Madrid TV" tvg-logo="https://miguia.tv/logos/real-madrid-tv.png" group-title="ESPAÑA: DEPORTES",ES: R. MADRID FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/12849.ts
-#EXTINF:-1 tvg-name="ES: R. MADRID HD" tvg-id="Real Madrid TV" tvg-logo="https://miguia.tv/logos/real-madrid-tv.png" group-title="ESPAÑA: DEPORTES",ES: R. MADRID HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1002.ts
-#EXTINF:-1 tvg-name="ES: BETIS TV FHD" tvg-id="Betis TV" tvg-logo="https://miguia.tv/logos/betis-tv.png" group-title="ESPAÑA: DEPORTES",ES: BETIS TV FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1094.ts
-#EXTINF:-1 tvg-name="ES: BETIS TV HD" tvg-id="Betis TV" tvg-logo="https://miguia.tv/logos/betis-tv.png" group-title="ESPAÑA: DEPORTES",ES: BETIS TV HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/21630.ts
-#EXTINF:-1 tvg-name="ES: BEIN SPORTS XTRA N FHD" tvg-id="beIN SPORTS XTRA ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="ESPAÑA: DEPORTES",ES: BEIN SPORTS XTRA N FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1080.ts
-#EXTINF:-1 tvg-name="ES: BEIN SPORTS XTRA N HD" tvg-id="beIN SPORTS XTRA ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="ESPAÑA: DEPORTES",ES: BEIN SPORTS XTRA N HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/10970.ts
-#EXTINF:-1 tvg-name="ES: GOLF I POR M+ FHD" tvg-id="M+ Golf HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="ESPAÑA: DEPORTES",ES: GOLF I POR M+ FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1159.ts
-#EXTINF:-1 tvg-name="ES: GOLF I POR M+ HD" tvg-id="M+ Golf HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="ESPAÑA: DEPORTES",ES: GOLF I POR M+ HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/1092.ts
-#EXTINF:-1 tvg-name="ES: GOLF 2 I POR M+ FHD" tvg-id="M+ Golf 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF2.png" group-title="ESPAÑA: DEPORTES",ES: GOLF 2 I POR M+ FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/17813.ts
-#EXTINF:-1 tvg-name="ES: GOLF 2 I POR M+ HD" tvg-id="M+ Golf 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF2.png" group-title="ESPAÑA: DEPORTES",ES: GOLF 2 I POR M+ HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/17814.ts
-#EXTINF:-1 tvg-name="ES: ESPORT 3 FHD" tvg-id="Esport 3" tvg-logo="https://img.ccma.cat/multimedia/png/9/9/1619526053499.png" group-title="ESPAÑA: DEPORTES",ES: ESPORT 3 FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/16101.ts
-#EXTINF:-1 tvg-name="ES: ESPORT 3 HD" tvg-id="Esport 3" tvg-logo="https://img.ccma.cat/multimedia/png/9/9/1619526053499.png" group-title="ESPAÑA: DEPORTES",ES: ESPORT 3 HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/16426.ts
-#EXTINF:-1 tvg-name="======== EN: DEPORTES INGLES ==========" group-title="ESPAÑA: DEPORTES",======== EN: DEPORTES INGLES ==========
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/18285.ts
-#EXTINF:-1 tvg-name="EN: RALLY TV FHD" tvg-id="DE | Rally TV" tvg-logo="https://images.wrc.com/images/logo/logoRallyTv1.png" group-title="ESPAÑA: DEPORTES",EN: RALLY TV FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20073.ts
-#EXTINF:-1 tvg-name="EN: RALLY TV HD" tvg-id="DE | Rally TV" tvg-logo="https://images.wrc.com/images/logo/logoRallyTv1.png" group-title="ESPAÑA: DEPORTES",EN: RALLY TV HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/22065.ts
-#EXTINF:-1 tvg-name="EN: WORLD OF FREE SPORTS FHD" tvg-id="World of Freesports" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/176x122-WorldOfFreesports-blackbckg.png" group-title="ESPAÑA: DEPORTES",EN: WORLD OF FREE SPORTS FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/22016.ts
-#EXTINF:-1 tvg-name="EN: FIGHT SPORT HD" tvg-id="FightSports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png" group-title="ESPAÑA: DEPORTES",EN: FIGHT SPORT HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/20195.ts
-#EXTINF:-1 tvg-name="EN: REDBUL TV FHD" tvg-id="Red Bull TV GER" tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png" group-title="ESPAÑA: DEPORTES",EN: REDBUL TV FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/15444.ts
-#EXTINF:-1 tvg-name="EN: NBA FHD" tvg-logo="https://w7.pngwing.com/pngs/126/557/png-transparent-nba-logo-2005u201306-nba-season-orlando-magic-the-nba-finals-logo-nba-professional-basketball-logo-free-logo-design-template-text-wedding-logo-thumbnail.png" group-title="ESPAÑA: DEPORTES",EN: NBA FHD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/15459.ts
-#EXTINF:-1 tvg-name="EN: NBA HD" tvg-logo="https://w7.pngwing.com/pngs/126/557/png-transparent-nba-logo-2005u201306-nba-season-orlando-magic-the-nba-finals-logo-nba-professional-basketball-logo-free-logo-design-template-text-wedding-logo-thumbnail.png" group-title="ESPAÑA: DEPORTES",EN: NBA HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/15458.ts
-#EXTINF:-1 tvg-name="EN: TENNIS CHANNEL HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tennischannel.png" group-title="ESPAÑA: DEPORTES",EN: TENNIS CHANNEL HD
-http://0919981e.moodle.oze-demo.fr:8080/live/HKtsN5NfSd9C/fGpamYDgCHS3/18284.ts
