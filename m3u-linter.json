@@ -1,4 +1,4 @@
-#EXTINF:-1
+#EXTM3U
 #EXTINF:-1 tvg-name="|ES| M+ LALIGA TV FHD (HEVC)" tvg-id="M+ LaLiga TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV FHD (HEVC)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/112675.ts
 #EXTINF:-1 tvg-name="|ES| M+ LALIGA TV FHD" tvg-id="M+ LaLiga TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV FHD
@@ -601,7 +601,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/162122.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/162149.ts
 #EXTINF:-1 tvg-name="|ES| ACONTRA+" tvg-id="acontra+" tvg-logo="https://pbs.twimg.com/media/GMaO0_wXgAIgVEl?format=jpg&name=large" group-title="ES - CINE",|ES| ACONTRA+
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/164965.ts
-#EXTINF:-1 tvg-name="|ES| M+ Los 2000 HD (1080P)" tvg-id="Los 2000" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="ES - CINE",|ES| M+ Los 2000 HD (1080P)
+#EXTINF:-1 tvg-name="|ES| M+ Los 2000 HD (1080P)" tvg-id="m+ Los 2000" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="ES - CINE",|ES| M+ Los 2000 HD (1080P)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440983.ts
 #EXTINF:-1 tvg-name="|ES| M+ Los 2000 HD (720P)" tvg-id="M+ Los 2000" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="ES - CINE",|ES| M+ Los 2000 HD (720P)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440984.ts
@@ -625,7 +625,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/114290.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458461.ts
 #EXTINF:-1 tvg-name="|ES| M+ INDIE SD" tvg-id="M+ Indie HD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54BOT9Yxnj_on14iz0kYLD-lxl_pXaADSuNzwp42zr5-c.png" group-title="ES - CINE",|ES| M+ INDIE SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458462.ts
-#EXTINF:-1 tvg-name="|ES| M+ SKYSHOWTIME FHD" tvg-id="SkyShowtime" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="ES - CINE",|ES| M+ SKYSHOWTIME FHD
+#EXTINF:-1 tvg-name="|ES| M+ SKYSHOWTIME 1 FHD" tvg-id="SkyShowtime 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="ES - CINE",|ES| M+ SKYSHOWTIME 1 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/438083.ts
 #EXTINF:-1 tvg-name="|ES| M+ SHOWTIME 1 HD" tvg-id="SkyShowtime 1" tvg-logo="http://trastras.eu:2083/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WxcPAFcVAw5AIRtM2cYalgg.png" group-title="ES - CINE",|ES| M+ SHOWTIME 1 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458463.ts
