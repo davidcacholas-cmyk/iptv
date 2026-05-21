@@ -12,7 +12,7 @@ http://kksetdivice.ooguy.com:8080/Duenaip28/7u3exuh2Hx/162466
 http://kksetdivice.ooguy.com:8080/Duenaip28/7u3exuh2Hx/162467
 #EXTINF:-1 tvg-name="LA 2 HD" tvg-id="La 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="★ GENERALISTAS ★",LA 2 HD
 http://kksetdivice.ooguy.com:8080/Duenaip28/7u3exuh2Hx/162468
-#EXTINF:-1 tvg-name="LA 2 SD" tvg-id="La 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="★ GENERALISTAS ★",LA 2 SD
+#EXTINF:-1 tvg-name="LA 2 SD" tvg-id="L" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="★ GENERALISTAS ★",LA 2 SD
 http://kksetdivice.ooguy.com:8080/Duenaip28/7u3exuh2Hx/162469
 #EXTINF:-1 tvg-name="LA 2 SD (Móvil)" tvg-id="La 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="★ GENERALISTAS ★",LA 2 SD (Móvil)
 http://kksetdivice.ooguy.com:8080/Duenaip28/7u3exuh2Hx/162470
@@ -278,11 +278,11 @@ http://kksetdivice.ooguy.com:8080/Duenaip28/7u3exuh2Hx/162550
 http://kksetdivice.ooguy.com:8080/Duenaip28/7u3exuh2Hx/162551
 #EXTINF:-1 tvg-name="M+ HITS SD" tvg-id="M+ Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/250px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="★ CINE ★",M+ HITS SD
 http://kksetdivice.ooguy.com:8080/Duenaip28/7u3exuh2Hx/162552
-#EXTINF:-1 tvg-name="SQUIRREL DOS FHD" tvg-id="Paramount Network" tvg-logo="https://i.postimg.cc/7hNQMXmz/Squirrel-Dos.png" group-title="★ CINE ★",SQUIRREL DOS FHD
+#EXTINF:-1 tvg-name="SQUIRREL DOS FHD" tvg-id="SQUIRREL DOS" tvg-logo="https://i.postimg.cc/7hNQMXmz/Squirrel-Dos.png" group-title="★ CINE ★",SQUIRREL DOS FHD
 http://kksetdivice.ooguy.com:8080/Duenaip28/7u3exuh2Hx/162607
-#EXTINF:-1 tvg-name="SQUIRREL DOS HD" tvg-id="Paramount Network" tvg-logo="https://i.postimg.cc/7hNQMXmz/Squirrel-Dos.png" group-title="★ CINE ★",SQUIRREL DOS HD
+#EXTINF:-1 tvg-name="SQUIRREL DOS HD" tvg-id="SQUIRREL DOS" tvg-logo="https://i.postimg.cc/7hNQMXmz/Squirrel-Dos.png" group-title="★ CINE ★",SQUIRREL DOS HD
 http://kksetdivice.ooguy.com:8080/Duenaip28/7u3exuh2Hx/162608
-#EXTINF:-1 tvg-name="SQUIRREL DOS SD" tvg-id="Paramount Network" tvg-logo="https://i.postimg.cc/7hNQMXmz/Squirrel-Dos.png" group-title="★ CINE ★",SQUIRREL DOS SD
+#EXTINF:-1 tvg-name="SQUIRREL DOS SD" tvg-id="SQUIRREL DOS" tvg-logo="https://i.postimg.cc/7hNQMXmz/Squirrel-Dos.png" group-title="★ CINE ★",SQUIRREL DOS SD
 http://kksetdivice.ooguy.com:8080/Duenaip28/7u3exuh2Hx/162609
 #EXTINF:-1 tvg-name="AXN MOVIES FHD" tvg-id="AXN Movies HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="★ CINE ★",AXN MOVIES FHD
 http://kksetdivice.ooguy.com:8080/Duenaip28/7u3exuh2Hx/162604
