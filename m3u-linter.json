@@ -5,6 +5,12 @@ http://vpn.onair8k.xyz:80/37203d04a2/ff51bfc2aaf5/1510757
 http://vpn.onair8k.xyz:80/37203d04a2/ff51bfc2aaf5/119011
 #EXTINF:-1 tvg-name="LALIGA TV BAR" tvg-id="LALIGA TV BAR" tvg-logo="http://rv.fluxhdebit.biz:8080/images/logo/channel/la_liga_es.png" group-title="LA LIGA TV BAR",LALIGA TV BAR
 http://vpn.onair8k.xyz:80/37203d04a2/ff51bfc2aaf5/107591
+#EXTINF:-1 tvg-name="|ES| LALIGA TV BAR FHD - HEVC" tvg-id="LaLiga TV BAR" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="FUTBOL",|ES| LALIGA TV BAR FHD - HEVC
+http://vpn.onair8k.xyz:80/37203d04a2/ff51bfc2aaf5/915236
+#EXTINF:-1 tvg-name="LALIGA TV BAR HD" tvg-id="LALIGA TV BAR HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="FUTBOL",LALIGA TV BAR HD
+http://vpn.onair8k.xyz:80/37203d04a2/ff51bfc2aaf5/107591
+#EXTINF:-1 tvg-name="|ES| LALIGA TV BAR" tvg-id="LaLiga TV BAR" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="FUTBOL",|ES| LALIGA TV BAR
+http://454958.solanaflix.com/live/TV-57086384/554464003669/101682.ts
 #EXTINF:-1 tvg-name="La.Liga.Bar" tvg-id="La.Liga.Bar" tvg-logo="http://rv.fluxhdebit.biz:8080/images/logo/channel/la_liga_es.png" group-title="FUTBOL",La.Liga.Bar
 http://line.dece24.biz:8080/80:47:86:2e:59:e7/12345678/4614
 #EXTINF:-1 tvg-name="|ES| M+ LALIGA TV FHD (HEVC)" tvg-id="M+ LaLiga TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="FUTBOL",|ES| M+ LALIGA TV FHD (HEVC)
@@ -51,10 +57,6 @@ http://454958.solanaflix.com/live/TV-57086384/554464003669/440974.ts
 http://454958.solanaflix.com/live/TV-57086384/554464003669/444569.ts
 #EXTINF:-1 tvg-name="|ES| M+ Copa Del Rey" tvg-logo="http://evojumeke.teamcdn.in:80/images/KvSFqnVxJemSa_1q-FmLCH1H_yvdeZ80qHxg5wzpUwgkp5-YD_cYGDtRAATy7HArRd_IThK4OfL11vHq3bBnJQ.png" group-title="FUTBOL",|ES| M+ Copa Del Rey
 http://454958.solanaflix.com/live/TV-57086384/554464003669/440975.ts
-#EXTINF:-1 tvg-name="|ES| LALIGA TV BAR FHD - HEVC" tvg-id="LaLiga TV BAR" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/tv-bar-temporada23-24.png" group-title="FUTBOL",|ES| LALIGA TV BAR FHD - HEVC
-http://454958.solanaflix.com/live/TV-57086384/554464003669/101681.ts
-#EXTINF:-1 tvg-name="|ES| LALIGA TV BAR" tvg-id="LaLiga TV BAR" tvg-logo="https://noos.vip/logo/ES/laligatvbar.png" group-title="FUTBOL",|ES| LALIGA TV BAR
-http://454958.solanaflix.com/live/TV-57086384/554464003669/101682.ts
 #EXTINF:-1 tvg-name="|ES| SKY SPORTS LALIGA FHD" tvg-logo="http://trastras.eu:2083/images/dCqmAAGSAeGukxXbersiICJ6QtHtAt4CuGSzuXw5LsjA4c9ZgYAxFmtUy4ZZXsK-JynuRNCWmJjMwEviIh7NB_qouw2Y_3qrk-7E6Wn46eOMhZQo9C1Vr9lvLuhAkb_8_XyuklSPCTdiALsGelvRkQ.jpg" group-title="FUTBOL",|ES| SKY SPORTS LALIGA FHD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/445398.ts
 #EXTINF:-1 tvg-name="|ES| SKY SPORTS LALIGA HD" tvg-logo="http://trastras.eu:2083/images/dCqmAAGSAeGukxXbersiICJ6QtHtAt4CuGSzuXw5LsjA4c9ZgYAxFmtUy4ZZXsK-JynuRNCWmJjMwEviIh7NB_qouw2Y_3qrk-7E6Wn46eOMhZQo9C1Vr9lvLuhAkb_8_XyuklSPCTdiALsGelvRkQ.jpg" group-title="FUTBOL",|ES| SKY SPORTS LALIGA HD
@@ -175,8 +177,6 @@ http://454958.solanaflix.com/live/TV-57086384/554464003669/48543.ts
 http://454958.solanaflix.com/live/TV-57086384/554464003669/460097.ts
 #EXTINF:-1 tvg-name="|ES| Top Barca TV" tvg-id="Top Barça" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2024/10/image_O.jpeg" group-title="FUTBOL",|ES| Top Barca TV
 http://454958.solanaflix.com/live/TV-57086384/554464003669/460098.ts
-#EXTINF:-1 tvg-name="La.Liga.Bar" tvg-id="La.Liga.Bar" tvg-logo="http://rv.fluxhdebit.biz:8080/images/logo/channel/la_liga_es.png" group-title="FUTBOL",La.Liga.Bar
-http://line.dece24.biz:8080/80:47:86:2e:59:e7/12345678/4614
 #EXTINF:-1 tvg-name="DAZN BUNDESLIGA 1 HD" tvg-id="DAZN Bundesliga" tvg-logo="http://evojumeke.teamcdn.in:80/images/6b28bd6746095b25d0dff923a06c3334.png" group-title="DAZN EVENTOS",DAZN BUNDESLIGA 1 HD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/439283.ts
 #EXTINF:-1 tvg-name="DAZN BUNDESLIGA 2 HD" tvg-id="DAZN Baloncesto 2" tvg-logo="http://evojumeke.teamcdn.in:80/images/6b28bd6746095b25d0dff923a06c3334.png" group-title="DAZN EVENTOS",DAZN BUNDESLIGA 2 HD
