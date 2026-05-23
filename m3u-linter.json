@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 #EXTINF:-1 tvg-name="LALIGA TV BAR FHD" tvg-id="LALIGA TV BAR FHD" tvg-logo="http://rv.fluxhdebit.biz:8080/images/logo/channel/la_liga_es.png" group-title="LA LIGA TV BAR",LALIGA TV BAR FHD
 http://vpn.onair8k.xyz:80/37203d04a2/ff51bfc2aaf5/1510757
 #EXTINF:-1 tvg-name="LALIGA TV BAR HEVC" tvg-id="LALIGA TV BAR" tvg-logo="http://rv.fluxhdebit.biz:8080/images/logo/channel/la_liga_es.png" group-title="LA LIGA TV BAR",LALIGA TV BAR HEVC
