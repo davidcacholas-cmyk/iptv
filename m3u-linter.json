@@ -511,15 +511,15 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109482.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48407.ts
 #EXTINF:-1 tvg-name="|ES| M+ CLÁSICO FHD" tvg-id="M+ Clásicos HD" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="CINE",|ES| M+ CLÁSICO FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109248.ts
-#EXTINF:-1 tvg-name="|ES| M+ CLASICOS" tvg-id="M+ Clásicos HD" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="CINE",|ES| M+ CLASICOS
+#EXTINF:-1 tvg-name="|ES| M+ CLÁSICOS" tvg-id="M+ Clásicos HD" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="CINE",|ES| M+ CLÁSICOS
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109249.ts
 #EXTINF:-1 tvg-name="|ES| M+ Hits FHD" tvg-id="M+ Hits HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" group-title="CINE",|ES| M+ Hits FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48428.ts
 #EXTINF:-1 tvg-name="|ES| M+ Hits" tvg-id="M+hits" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" group-title="CINE",|ES| M+ Hits
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48427.ts
-#EXTINF:-1 tvg-name="|ES| M+ comedia española FHD" tvg-id="M+ top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MMUSIC.png" group-title="CINE",|ES| M+ comedia española FHD
+#EXTINF:-1 tvg-name="|ES| M+ comedia española" tvg-id="M+ top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MMUSIC.png" group-title="CINE",|ES| M+ comedia española
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/149908.ts
-#EXTINF:-1 tvg-name="|ES| M+ comedia española HD" tvg-id="Top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MMUSIC.png" group-title="CINE",|ES| M+ comedia española HD
+#EXTINF:-1 tvg-name="|ES| M+ comedia española" tvg-id="Top comedia española" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MMUSIC.png" group-title="CINE",|ES| M+ comedia española
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/149909.ts
 #EXTINF:-1 tvg-name="|ES| HOLLYWOOD FHD" tvg-id="Canal Hollywood HD" tvg-logo="http://logo.solanaflix.com/images/logos/08f97a2cf9e4533df2046db62aa85fee.png" group-title="CINE",|ES| HOLLYWOOD FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48411.ts
@@ -603,7 +603,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/162149.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/164965.ts
 #EXTINF:-1 tvg-name="M+ Los 2000 HD" tvg-id="M+ Los 2000" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ Los 2000 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440983.ts
-#EXTINF:-1 tvg-name="M+ Los 2000 HD (720P)" tvg-id="M+ Los 2000" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ Los 2000 HD (720P)
+#EXTINF:-1 tvg-name="M+ Los 2000 HD" tvg-id="M+ Los 2000" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ Los 2000 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440984.ts
 #EXTINF:-1 tvg-name="M+ Los 2000 SD" tvg-id="M+ Los 2000" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ Los 2000 SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440985.ts
@@ -1845,4 +1845,3 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461422.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461420.ts
-
