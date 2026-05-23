@@ -665,25 +665,25 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444576.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444575.ts
 #EXTINF:-1 tvg-name="|ES| AMC BREAK FHD" tvg-logo="http://logo.solanaflix.com/images/logos/09b63f2f502e2ce8121bbdbf420d63f4.png" group-title="ESTILO DE VIDA",|ES| AMC BREAK FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48489.ts
-#EXTINF:-1 tvg-name="|ES| AMC CRIME FHD" tvg-id="AMC Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO4KHWbOGjF5pB0e4wr3F31zbPvPOCqwYypT1dcHrKg1uG_SdzWFwsOgtg_KhqFVTzA&usqp=CAU" group-title="ESTILO DE VIDA",|ES| AMC CRIME FHD
+#EXTINF:-1 tvg-name="AMC CRIME FHD" tvg-id="AMC Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO4KHWbOGjF5pB0e4wr3F31zbPvPOCqwYypT1dcHrKg1uG_SdzWFwsOgtg_KhqFVTzA&usqp=CAU" group-title="ESTILO DE VIDA",AMC CRIME FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113023.ts
-#EXTINF:-1 tvg-name="|ES| AMC CRIME SD" tvg-id="AMC Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO4KHWbOGjF5pB0e4wr3F31zbPvPOCqwYypT1dcHrKg1uG_SdzWFwsOgtg_KhqFVTzA&usqp=CAU" group-title="ESTILO DE VIDA",|ES| AMC CRIME SD
+#EXTINF:-1 tvg-name="AMC CRIME SD" tvg-id="AMC Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO4KHWbOGjF5pB0e4wr3F31zbPvPOCqwYypT1dcHrKg1uG_SdzWFwsOgtg_KhqFVTzA&usqp=CAU" group-title="ESTILO DE VIDA",AMC CRIME SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113022.ts
+#EXTINF:-1 tvg-name="amc crime" tvg-id="amc crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO4KHWbOGjF5pB0e4wr3F31zbPvPOCqwYypT1dcHrKg1uG_SdzWFwsOgtg_KhqFVTzA&usqp=CAU" group-title="ESTILO DE VIDA",amc crime
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48458.ts
 #EXTINF:-1 tvg-name="|ES| Amc Break HD" tvg-id="AMC Break" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png" group-title="ESTILO DE VIDA",|ES| Amc Break HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113017.ts
 #EXTINF:-1 tvg-name="|ES| AMC BREAK" tvg-id="AMC Break" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/04/picon_amc_break_amarillo_transparente.png?fit=440%2C264&ssl=1" group-title="ESTILO DE VIDA",|ES| AMC BREAK
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113018.ts
 #EXTINF:-1 tvg-name="|ES| DKISS" tvg-id="DKISS" tvg-logo="http://logo.solanaflix.com/images/logos/ea8965a16fc2667103961d8f646c5cfb.png" group-title="ESTILO DE VIDA",|ES| DKISS
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48453.ts
-#EXTINF:-1 tvg-name="amc crime" tvg-id="amc crime" tvg-logo="http://logo.solanaflix.com/images/logos/54923f7550a0a91f5e67dd049b97f51d.png" group-title="ESTILO DE VIDA",amc crime
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48458.ts
 #EXTINF:-1 tvg-name="|ES| DECASA UHD (4K) - En pruebas" tvg-id="Decasa" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSQJ_KeF7LT3A8yL9zybbRe.png" group-title="ESTILO DE VIDA",|ES| DECASA UHD (4K) - En pruebas
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113618.ts
 #EXTINF:-1 tvg-name="|ES| AMC LIVING FHD" tvg-id="AMC Living" tvg-logo="http://logo.solanaflix.com/images/logos/424a4384855f790861dfaabfcb49e83e.png" group-title="ESTILO DE VIDA",|ES| AMC LIVING FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48460.ts
 #EXTINF:-1 tvg-name="|ES| AMC LIVING" tvg-id="AMC Living" tvg-logo="http://logo.solanaflix.com/images/logos/424a4384855f790861dfaabfcb49e83e.png" group-title="ESTILO DE VIDA",|ES| AMC LIVING
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48459.ts
-#EXTINF:-1 tvg-name="|ES| CANAL COCINA UHD (4K) - En pruebas" tvg-id="Canal Cocina" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zNHCljyn_RfF5eC70iu4duryYxA9BnQ5AEVpZdxAuIVfw.png" group-title="ESTILO DE VIDA",|ES| CANAL COCINA UHD (4K) - En pruebas
+#EXTINF:-1 tvg-name="CANAL COCINA 4K" tvg-id="Canal Cocina" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zNHCljyn_RfF5eC70iu4duryYxA9BnQ5AEVpZdxAuIVfw.png" group-title="ESTILO DE VIDA",CANAL COCINA 4K
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113616.ts
 #EXTINF:-1 tvg-name="|ES| CANAL COCINA FHD" tvg-id="Canal Cocina" tvg-logo="http://logo.solanaflix.com/images/logos/382879a07b1b6aca3b35d29128c90584.png" group-title="ESTILO DE VIDA",|ES| CANAL COCINA FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48462.ts
@@ -769,9 +769,9 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48477.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48476.ts
 #EXTINF:-1 tvg-name="|ES| NICK JR" tvg-id="Nick JR" tvg-logo="http://logo.solanaflix.com/images/logos/4f03339017aa8caddffc93575f75f6d8.png" group-title="NIÑOS",|ES| NICK JR
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48478.ts
-#EXTINF:-1 tvg-name="|ES| EnFamilia FHD" tvg-id="Enfamilia" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="NIÑOS",|ES| EnFamilia FHD
+#EXTINF:-1 tvg-name="|ES| vintv FHD" tvg-id="vinttv" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="NIÑOS",|ES| vintv FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113016.ts
-#EXTINF:-1 tvg-name="|ES| EnFamilia" tvg-id="Enfamilia" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="NIÑOS",|ES| EnFamilia
+#EXTINF:-1 tvg-name="vintv" tvg-id="vintv" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="NIÑOS",vintv
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113015.ts
 #EXTINF:-1 tvg-name="|ES| DUCK TV" tvg-logo="https://noos.vip/images/72b6581acc839b106bc92e8b21d6313a.png" group-title="NIÑOS",|ES| DUCK TV
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/164823.ts
@@ -1845,3 +1845,4 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461422.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461420.ts
+
