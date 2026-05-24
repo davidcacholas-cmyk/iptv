@@ -25,7 +25,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48391.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48394.ts
 #EXTINF:-1 tvg-name="|ES| LA SEXTA" tvg-id="La Sexta HD" tvg-logo="http://logo.solanaflix.com/images/logos/97068a83d9ad701cff04ada6ede87b43.png" group-title="TDT",|ES| LA SEXTA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48393.ts
-#EXTINF:-1 tvg-name="|ES| SQUIRREL FHD" tvg-id="Disney Channel HD" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBi82QgVYu4Cor6HZxVWp2jX7aRSXiZ35R_yIhiNyL9Ng7OjfrqRouLOOZyqVjmDhdE.png" group-title="TDT",|ES| SQUIRREL FHD
+#EXTINF:-1 tvg-name="SQUIRREL FHD" tvg-id="squirrel" group-title="TDT",SQUIRREL FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48470.ts
 #EXTINF:-1 tvg-name="squirrel 2 FHD" tvg-id="squirrel 2" tvg-logo="http://logo.solanaflix.com/images/logos/12a171a4c616f398c636128fefe9f620.png" group-title="TDT",squirrel 2 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48420.ts
@@ -35,7 +35,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48419.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48426.ts
 #EXTINF:-1 tvg-name="|ES| 24 HORAS" tvg-id="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="TDT",|ES| 24 HORAS
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48395.ts
-#EXTINF:-1 tvg-name="|ES| FDF FHD" tvg-id="FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="TDT",|ES| FDF FHD
+#EXTINF:-1 tvg-name="factoría de ficción FHD" tvg-id="factoría de ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="TDT",factoría de ficción FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48452.ts
 #EXTINF:-1 tvg-name="|ES| A3SERIES FHD" tvg-id="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Atreseries.png" group-title="TDT",|ES| A3SERIES FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48454.ts
@@ -251,7 +251,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458470.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458497.ts
 #EXTINF:-1 tvg-name="|ES| A3SERIES HD" tvg-id="Atreseries HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Atreseries.png" group-title="TDT",|ES| A3SERIES HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461911.ts
-#EXTINF:-1 tvg-name="|ES| FDF" tvg-id="factoría de ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="TDT",|ES| FDF
+#EXTINF:-1 tvg-name="factoría de ficción FDF" tvg-id="factoría de ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="TDT",factoría de ficción FDF
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461912.ts
 #EXTINF:-1 tvg-name="|ES| 24 HORAS FHD" tvg-id="24h HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="TDT",|ES| 24 HORAS FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461913.ts
@@ -1845,4 +1845,5 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461422.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461420.ts
+
 
