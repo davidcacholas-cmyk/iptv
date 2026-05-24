@@ -475,7 +475,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/111201.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/111202.ts
 #EXTINF:-1 tvg-name="F1TV | F1 ONBOARD Valtteri Bottas" tvg-logo="s:1:/images/24a7e9ec5f9db00ac0c6c36b28821c7f.jpg" group-title="FORMULA 1",F1TV | F1 ONBOARD Valtteri Bottas
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/111203.ts
-#EXTINF:-1 tvg-name="|ES| BBC series FHD" tvg-id="BBC series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="CINE",|ES| BBC series FHD
+#EXTINF:-1 tvg-name="| BBC series FHD" tvg-id="BBC series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="CINE",| BBC series FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444572.ts
 #EXTINF:-1 tvg-name="|ES| BBC series SD" tvg-id="BBC series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="CINE",|ES| BBC series SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444571.ts
@@ -591,7 +591,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113011.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113014.ts
 #EXTINF:-1 tvg-name="|ES| CINE FEEL GOOD HD" tvg-logo="https://wiki2023.mundoplus.tv/lib/exe/fetch.php?w=144&h=108&tok=57421c&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fcinefeelgood.png" group-title="CINE",|ES| CINE FEEL GOOD HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/162088.ts
-#EXTINF:-1 tvg-name="|ES| CINES VERDI TV HD" tvg-logo="https://madrid.cines-verdi.com/storage/app/media/cinesverditv.jpg" group-title="CINE",|ES| CINES VERDI TV HD
+#EXTINF:-1 tvg-name="|ES| CINES VERDI TV HD" tvg-id="verdi" tvg-logo="https://madrid.cines-verdi.com/storage/app/media/cinesverditv.jpg" group-title="CINE",|ES| CINES VERDI TV HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/162093.ts
 #EXTINF:-1 tvg-name="|ES| CINE CLASICO FHD" group-title="CINE",|ES| CINE CLASICO FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/162097.ts
@@ -1845,4 +1845,3 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461422.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461420.ts
-
