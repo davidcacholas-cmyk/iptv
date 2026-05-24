@@ -777,11 +777,11 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113015.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/164823.ts
 #EXTINF:-1 tvg-name="|ES| SQUIRREL FHD" tvg-id="Disney Channel HD" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBi82QgVYu4Cor6HZxVWp2jX7aRSXiZ35R_yIhiNyL9Ng7OjfrqRouLOOZyqVjmDhdE.png" group-title="TDT",|ES| SQUIRREL FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48470.ts
-#EXTINF:-1 tvg-name="LA 1 4K" tvg-id="La 1 UHD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",LA 1 4K
+#EXTINF:-1 tvg-name="prueba" tvg-id="La 1 UHD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",prueba
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113615.ts
-#EXTINF:-1 tvg-name="|ES| LA 1 FHD" tvg-id="La 1 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",|ES| LA 1 FHD
+#EXTINF:-1 tvg-name="prueba" tvg-id="La 1 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",prueba
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48384.ts
-#EXTINF:-1 tvg-name="|ES| LA 1" tvg-id="La 1 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",|ES| LA 1
+#EXTINF:-1 tvg-name="prueva" tvg-id="La 1 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",prueva
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48383.ts
 #EXTINF:-1 tvg-name="|ES| LA 2 FHD" tvg-id="La 2" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" group-title="TDT",|ES| LA 2 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48386.ts
@@ -1845,4 +1845,5 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461422.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461420.ts
+
 
