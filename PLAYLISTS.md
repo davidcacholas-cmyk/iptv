@@ -259,7 +259,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461913.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444578.ts
 #EXTINF:-1 tvg-name="|ES| BBC History SD" tvg-id="BBC History" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="CULTURA",|ES| BBC History SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444577.ts
-#EXTINF:-1 tvg-name="|ES| M+ DOCUMENTALES FHD" tvg-id="M+ Documentales HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="CULTURA",|ES| M+ DOCUMENTALES FHD
+#EXTINF:-1 tvg-name="M+ DOCUMENTALES FHD" tvg-id="M+ Documentales HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg" group-title="CULTURA",M+ DOCUMENTALES FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/114289.ts
 #EXTINF:-1 tvg-name="|ES| HISTORIA FHD" tvg-id="Historia" tvg-logo="http://logo.solanaflix.com/images/logos/1e4e034406cd2444557b1986321d4be4.png" group-title="CULTURA",|ES| HISTORIA FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48480.ts
@@ -291,11 +291,11 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109250.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461595.ts
 #EXTINF:-1 tvg-name="|ES| BBC Earth SD (ES)" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="CULTURA",|ES| BBC Earth SD (ES)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461594.ts
-#EXTINF:-1 tvg-name="HBO Max Avances HD (1080P)" tvg-id="HBO Max Avances HD" tvg-logo="https://closinglogogroup.fandom.com/wiki/File:HBO_Max_(Alt).svg" group-title="CULTURA",HBO Max Avances HD (1080P)
+#EXTINF:-1 tvg-name="HBO Max Avances FHD" tvg-id="HBO Max Avances HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg" group-title="CULTURA",HBO Max Avances FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440980.ts
-#EXTINF:-1 tvg-name="HBO Max Avances HD" tvg-id="HBO Max Avances HD" tvg-logo="https://closinglogogroup.fandom.com/wiki/File:HBO_Max_(Alt).svg" group-title="CULTURA",HBO Max Avances HD
+#EXTINF:-1 tvg-name="HBO Max Avances HD" tvg-id="HBO Max Avances HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg" group-title="CULTURA",HBO Max Avances HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440981.ts
-#EXTINF:-1 tvg-name="HBO Max Avances SD" tvg-logo="https://closinglogogroup.fandom.com/wiki/File:HBO_Max_(Alt).svg" group-title="CULTURA",HBO Max Avances SD
+#EXTINF:-1 tvg-name="HBO Max Avances SD" group-title="CULTURA",HBO Max Avances SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440982.ts
 #EXTINF:-1 tvg-name="| BBC series FHD" tvg-id="BBC series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="CINE",| BBC series FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444572.ts
@@ -1845,5 +1845,4 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461422.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461420.ts
-
 
