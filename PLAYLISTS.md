@@ -291,6 +291,12 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109250.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461595.ts
 #EXTINF:-1 tvg-name="|ES| BBC Earth SD (ES)" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="CULTURA",|ES| BBC Earth SD (ES)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461594.ts
+#EXTINF:-1 tvg-name="HBO Max Avances HD (1080P)" tvg-id="HBO Max Avances HD" tvg-logo="https://closinglogogroup.fandom.com/wiki/File:HBO_Max_(Alt).svg" group-title="CULTURA",HBO Max Avances HD (1080P)
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440980.ts
+#EXTINF:-1 tvg-name="HBO Max Avances HD" tvg-id="HBO Max Avances HD" tvg-logo="https://closinglogogroup.fandom.com/wiki/File:HBO_Max_(Alt).svg" group-title="CULTURA",HBO Max Avances HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440981.ts
+#EXTINF:-1 tvg-name="HBO Max Avances SD" tvg-logo="https://closinglogogroup.fandom.com/wiki/File:HBO_Max_(Alt).svg" group-title="CULTURA",HBO Max Avances SD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440982.ts
 #EXTINF:-1 tvg-name="| BBC series FHD" tvg-id="BBC series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="CINE",| BBC series FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444572.ts
 #EXTINF:-1 tvg-name="|ES| BBC series SD" tvg-id="BBC series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="CINE",|ES| BBC series SD
@@ -423,12 +429,6 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440983.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440984.ts
 #EXTINF:-1 tvg-name="M+ Los 2000 SD" tvg-id="M+ Los 2000" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ Los 2000 SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440985.ts
-#EXTINF:-1 tvg-name="HBO Max Avances HD (1080P)" tvg-id="HBO Max Avances HD" tvg-logo="https://f-de-film.com/wp-content/uploads/2024/09/maxavances_logo_mp.jpg?w=1280&h=720&crop=1" group-title="CINE",HBO Max Avances HD (1080P)
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440980.ts
-#EXTINF:-1 tvg-name="HBO Max Avances HD" tvg-id="HBO Max Avances HD" tvg-logo="https://f-de-film.com/wp-content/uploads/2024/09/maxavances_logo_mp.jpg?w=1280&h=720&crop=1" group-title="CINE",HBO Max Avances HD
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440981.ts
-#EXTINF:-1 tvg-name="HBO Max Avances SD" tvg-logo="https://f-de-film.com/wp-content/uploads/2024/09/maxavances_logo_mp.jpg?w=1280&h=720&crop=1" group-title="CINE",HBO Max Avances SD
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440982.ts
 #EXTINF:-1 tvg-name="|ES| STAR" tvg-id="STAR Channel HD" tvg-logo="https://pics.filmaffinity.com/star-153397291560362-nm_200.jpg" group-title="CINE",|ES| STAR
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/445383.ts
 #EXTINF:-1 tvg-name="|ES| STAR HD" tvg-id="STAR Channel HD" tvg-logo="https://pics.filmaffinity.com/star-153397291560362-nm_200.jpg" group-title="CINE",|ES| STAR HD
@@ -1845,4 +1845,5 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461422.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461420.ts
+
 
