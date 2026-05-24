@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-name="LA 1 4k" tvg-id="La 1" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",LA 1 4k
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113615.ts
@@ -9,6 +10,10 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48383.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48386.ts
 #EXTINF:-1 tvg-name="|ES| LA 2" tvg-id="La 2" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" group-title="TDT",|ES| LA 2
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48385.ts
+#EXTINF:-1 tvg-name="TVG HD" tvg-id="tvg" group-title="TDT",TVG HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110576.ts
+#EXTINF:-1 tvg-name="TVG 2 HD" tvg-id="tvg 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/TVG2_Logo.svg" group-title="TDT",TVG 2 HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110577.ts
 #EXTINF:-1 tvg-name="|ES| ANTENA 3 FHD" tvg-id="Antena 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM-GXO-ob4ITnzDuXwG9gS1YBFlSrR-rBcriPrxCNL5Nw.png" group-title="TDT",|ES| ANTENA 3 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48388.ts
 #EXTINF:-1 tvg-name="|ES| ANTENA 3" tvg-id="Antena 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM-GXO-ob4ITnzDuXwG9gS1YBFlSrR-rBcriPrxCNL5Nw.png" group-title="TDT",|ES| ANTENA 3
@@ -95,10 +100,6 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48674.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48638.ts
 #EXTINF:-1 tvg-name="|ES| CANAL SUR ANDALUCÍA" tvg-id="Canal Sur Andalucía" tvg-logo="https://noos.vip/logo/ES/canalsura.png" group-title="TDT",|ES| CANAL SUR ANDALUCÍA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48666.ts
-#EXTINF:-1 tvg-name="TVG HD" tvg-id="tvg" group-title="TDT",TVG HD
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110576.ts
-#EXTINF:-1 tvg-name="TVG 2 HD" tvg-id="tvg 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/TVG2_Logo.svg" group-title="TDT",TVG 2 HD
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110577.ts
 #EXTINF:-1 tvg-name="|ES| TVG Infantil HD" group-title="TDT",|ES| TVG Infantil HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110578.ts
 #EXTINF:-1 tvg-name="|ES| TVG Musigal HD" group-title="TDT",|ES| TVG Musigal HD
