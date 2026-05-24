@@ -97,7 +97,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48638.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48666.ts
 #EXTINF:-1 tvg-name="TVG HD" tvg-id="tvg" group-title="TDT",TVG HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110576.ts
-#EXTINF:-1 tvg-name="TVG 2 HD" tvg-id="tvg 2" group-title="TDT",TVG 2 HD
+#EXTINF:-1 tvg-name="TVG 2 HD" tvg-id="tvg 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/TVG2_Logo.svg" group-title="TDT",TVG 2 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110577.ts
 #EXTINF:-1 tvg-name="|ES| TVG Infantil HD" group-title="TDT",|ES| TVG Infantil HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110578.ts
@@ -251,7 +251,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458470.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458497.ts
 #EXTINF:-1 tvg-name="|ES| A3SERIES HD" tvg-id="Atreseries HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Atreseries.png" group-title="TDT",|ES| A3SERIES HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461911.ts
-#EXTINF:-1 tvg-name="factoría de ficción FDF" tvg-id="factoría de ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="TDT",factoría de ficción FDF
+#EXTINF:-1 tvg-name="factoría de ficción FHD" tvg-id="factoría de ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="TDT",factoría de ficción FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461912.ts
 #EXTINF:-1 tvg-name="|ES| 24 HORAS FHD" tvg-id="24h HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="TDT",|ES| 24 HORAS FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461913.ts
@@ -1845,5 +1845,3 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461422.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461420.ts
-
-
