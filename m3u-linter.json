@@ -727,11 +727,11 @@ http://454958.solanaflix.com/live/TV-57086384/554464003669/461593.ts
 http://454958.solanaflix.com/live/TV-57086384/554464003669/461592.ts
 #EXTINF:-1 tvg-name="|ES| M+ CERO FHD" tvg-id="M+ Cero" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/0_por_Movistar_Plus%2B_2022_logo.svg" group-title="ESTILO DE VIDA",|ES| M+ CERO FHD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/462270.ts
-#EXTINF:-1 tvg-name="|ES| BBC History FHD" tvg-id="BBC HISTORY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="CULTURA",|ES| BBC History FHD
+#EXTINF:-1 tvg-name="BBC History FHD" tvg-id="BBC HISTORY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="CULTURA",BBC History FHD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/444578.ts
-#EXTINF:-1 tvg-name="|ES| BBC History SD" tvg-id="BBC History" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="CULTURA",|ES| BBC History SD
+#EXTINF:-1 tvg-name="BBC History SD" tvg-id="BBC History" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="CULTURA",BBC History SD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/444577.ts
-#EXTINF:-1 tvg-name="|ES| M+ DOCUMENTALES FHD" tvg-id="M+ Documentales HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="CULTURA",|ES| M+ DOCUMENTALES FHD
+#EXTINF:-1 tvg-name="M+ DOCUMENTALES FHD" tvg-id="M+ Documentales HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="CULTURA",M+ DOCUMENTALES FHD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/114289.ts
 #EXTINF:-1 tvg-name="|ES| HISTORIA FHD" tvg-id="Historia" tvg-logo="http://logo.solanaflix.com/images/logos/1e4e034406cd2444557b1986321d4be4.png" group-title="CULTURA",|ES| HISTORIA FHD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/48480.ts
@@ -739,11 +739,11 @@ http://454958.solanaflix.com/live/TV-57086384/554464003669/48480.ts
 http://454958.solanaflix.com/live/TV-57086384/554464003669/48479.ts
 #EXTINF:-1 tvg-name="|ES| DISCOVERY CHANNEL FHD" tvg-id="Discovery" tvg-logo="http://logo.solanaflix.com/images/logos/a4a3ecd7e4d08a420123ca06b36e3673.png" group-title="CULTURA",|ES| DISCOVERY CHANNEL FHD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/48481.ts
-#EXTINF:-1 tvg-name="|ES| ODISEA UHD (4K) - En pruebas" tvg-id="ODISEHD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zNhS1S-0cygRZetBq6Z6_C4.png" group-title="CULTURA",|ES| ODISEA UHD (4K) - En pruebas
+#EXTINF:-1 tvg-name="ODISEA 4K" tvg-id="odisea" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zNhS1S-0cygRZetBq6Z6_C4.png" group-title="CULTURA",ODISEA 4K
 http://454958.solanaflix.com/live/TV-57086384/554464003669/113617.ts
-#EXTINF:-1 tvg-name="|ES| ODISEA FHD" tvg-id="Odisea" tvg-logo="http://jumeke.teamcdn.in:80/images/804400d12460e6c8b90e57decc160801.png" group-title="CULTURA",|ES| ODISEA FHD
+#EXTINF:-1 tvg-name="ODISEA FHD" tvg-id="Odisea" tvg-logo="http://jumeke.teamcdn.in:80/images/804400d12460e6c8b90e57decc160801.png" group-title="CULTURA",ODISEA FHD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/110575.ts
-#EXTINF:-1 tvg-name="|ES| ODISEA" tvg-logo="http://logo.solanaflix.com/images/logos/52b70868846523bdd40fbee724601f08.png" group-title="CULTURA",|ES| ODISEA
+#EXTINF:-1 tvg-name="ODISEA" tvg-id="odisea" tvg-logo="http://logo.solanaflix.com/images/logos/52b70868846523bdd40fbee724601f08.png" group-title="CULTURA",ODISEA
 http://454958.solanaflix.com/live/TV-57086384/554464003669/48482.ts
 #EXTINF:-1 tvg-name="|ES| NATIONAL GEOGRAPHIC FHD" tvg-id="National Geographic HD" tvg-logo="http://logo.solanaflix.com/images/logos/c7b80593b3725b0fcca4f645f6430b7a.png" group-title="CULTURA",|ES| NATIONAL GEOGRAPHIC FHD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/48484.ts
@@ -2197,4 +2197,5 @@ http://454958.solanaflix.com/live/TV-57086384/554464003669/461422.ts
 http://454958.solanaflix.com/live/TV-57086384/554464003669/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://454958.solanaflix.com/live/TV-57086384/554464003669/461420.ts
+
 
