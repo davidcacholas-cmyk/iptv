@@ -513,7 +513,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113019.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113020.ts
 #EXTINF:-1 tvg-name="IBERALIA 100% PESCA HD" tvg-id="Iberalia pesca" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=5fc201&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fiberaliapesca.png" group-title="ESTILO DE VIDA",IBERALIA 100% PESCA HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113021.ts
-#EXTINF:-1 tvg-name="AMC WESTERN FHD" tvg-id="amc western" group-title="ESTILO DE VIDA",AMC WESTERN FHD
+#EXTINF:-1 tvg-name="AMC WESTERN FHD" tvg-id="amc western" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/fa/AMC_Western_%282026-.n.v.%29.png/revision/latest?cb=20260209201322" group-title="ESTILO DE VIDA",AMC WESTERN FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113024.ts
 #EXTINF:-1 tvg-name="ESCAPA TV FHD" tvg-id="Escapa TV" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/h/2/xescapatv.jpg.pagespeed.ic.6t2uVghNjg.jpg" group-title="ESTILO DE VIDA",ESCAPA TV FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113026.ts
@@ -1845,4 +1845,3 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461422.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461420.ts
-
