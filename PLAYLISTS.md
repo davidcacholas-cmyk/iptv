@@ -5,29 +5,29 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113615.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48384.ts
 #EXTINF:-1 tvg-name="LA 1 HD" tvg-id="La 1" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",LA 1 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48383.ts
-#EXTINF:-1 tvg-name="|ES| LA 2 FHD" tvg-id="La 2" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" group-title="TDT",|ES| LA 2 FHD
+#EXTINF:-1 tvg-name="LA 2 FHD" tvg-id="La 2" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" group-title="TDT",LA 2 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48386.ts
-#EXTINF:-1 tvg-name="|ES| LA 2" tvg-id="La 2" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" group-title="TDT",|ES| LA 2
+#EXTINF:-1 tvg-name="LA 2" tvg-id="La 2" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" group-title="TDT",LA 2
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48385.ts
 #EXTINF:-1 tvg-name="TVG HD" tvg-id="tvg" group-title="TDT",TVG HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110576.ts
 #EXTINF:-1 tvg-name="TVG 2 HD" tvg-id="TVG2" tvg-logo="https://share.google/bCq6TJltMOlIVuukA" group-title="TDT",TVG 2 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110577.ts
-#EXTINF:-1 tvg-name="|ES| ANTENA 3 FHD" tvg-id="Antena 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM-GXO-ob4ITnzDuXwG9gS1YBFlSrR-rBcriPrxCNL5Nw.png" group-title="TDT",|ES| ANTENA 3 FHD
+#EXTINF:-1 tvg-name="ANTENA 3 FHD" tvg-id="Antena 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM-GXO-ob4ITnzDuXwG9gS1YBFlSrR-rBcriPrxCNL5Nw.png" group-title="TDT",ANTENA 3 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48388.ts
-#EXTINF:-1 tvg-name="|ES| ANTENA 3" tvg-id="Antena 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM-GXO-ob4ITnzDuXwG9gS1YBFlSrR-rBcriPrxCNL5Nw.png" group-title="TDT",|ES| ANTENA 3
+#EXTINF:-1 tvg-name="ANTENA 3" tvg-id="Antena 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM-GXO-ob4ITnzDuXwG9gS1YBFlSrR-rBcriPrxCNL5Nw.png" group-title="TDT",ANTENA 3
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48387.ts
-#EXTINF:-1 tvg-name="|ES| CUATRO FHD" tvg-id="Cuatro HD" tvg-logo="http://logo.solanaflix.com/images/logos/8803ac2e225904c7be8479d14e43878b.png" group-title="TDT",|ES| CUATRO FHD
+#EXTINF:-1 tvg-name="CUATRO FHD" tvg-id="Cuatro HD" tvg-logo="http://logo.solanaflix.com/images/logos/8803ac2e225904c7be8479d14e43878b.png" group-title="TDT",CUATRO FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48390.ts
-#EXTINF:-1 tvg-name="|ES| CUATRO" tvg-id="Cuatro HD" tvg-logo="http://logo.solanaflix.com/images/logos/8803ac2e225904c7be8479d14e43878b.png" group-title="TDT",|ES| CUATRO
+#EXTINF:-1 tvg-name="CUATRO" tvg-id="Cuatro HD" tvg-logo="http://logo.solanaflix.com/images/logos/8803ac2e225904c7be8479d14e43878b.png" group-title="TDT",CUATRO
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48389.ts
-#EXTINF:-1 tvg-name="|ES| TELECINCO FHD" tvg-id="Telecinco HD" tvg-logo="http://logo.solanaflix.com/images/logos/e84bf793645c7a574099fe935f3b6c53.png" group-title="TDT",|ES| TELECINCO FHD
+#EXTINF:-1 tvg-name="TELECINCO FHD" tvg-id="Telecinco HD" tvg-logo="http://logo.solanaflix.com/images/logos/e84bf793645c7a574099fe935f3b6c53.png" group-title="TDT",TELECINCO FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48392.ts
-#EXTINF:-1 tvg-name="|ES| TELECINCO" tvg-id="Telecinco HD" tvg-logo="http://logo.solanaflix.com/images/logos/07d25eb3c41b277d417b0614e8bda9ad.png" group-title="TDT",|ES| TELECINCO
+#EXTINF:-1 tvg-name="TELECINCO" tvg-id="Telecinco HD" tvg-logo="http://logo.solanaflix.com/images/logos/07d25eb3c41b277d417b0614e8bda9ad.png" group-title="TDT",TELECINCO
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48391.ts
-#EXTINF:-1 tvg-name="|ES| LA SEXTA FHD" tvg-id="La Sexta HD" tvg-logo="http://logo.solanaflix.com/images/logos/97068a83d9ad701cff04ada6ede87b43.png" group-title="TDT",|ES| LA SEXTA FHD
+#EXTINF:-1 tvg-name="LA SEXTA FHD" tvg-id="La Sexta HD" tvg-logo="http://logo.solanaflix.com/images/logos/97068a83d9ad701cff04ada6ede87b43.png" group-title="TDT",LA SEXTA FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48394.ts
-#EXTINF:-1 tvg-name="|ES| LA SEXTA" tvg-id="La Sexta HD" tvg-logo="http://logo.solanaflix.com/images/logos/97068a83d9ad701cff04ada6ede87b43.png" group-title="TDT",|ES| LA SEXTA
+#EXTINF:-1 tvg-name="LA SEXTA" tvg-id="La Sexta HD" tvg-logo="http://logo.solanaflix.com/images/logos/97068a83d9ad701cff04ada6ede87b43.png" group-title="TDT",LA SEXTA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48393.ts
 #EXTINF:-1 tvg-name="squirrel FHD" tvg-id="squirrel" group-title="TDT",squirrel FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48470.ts
@@ -35,39 +35,39 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48470.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48420.ts
 #EXTINF:-1 tvg-name="|ES| SOMOS FHD" tvg-id="Somos" tvg-logo="http://logo.solanaflix.com/images/logos/754c93154a5ac9bc754b8d57b6a2fd5d.png" group-title="TDT",|ES| SOMOS FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48419.ts
-#EXTINF:-1 tvg-name="|ES| MEGA FHD" tvg-id="Mega" tvg-logo="http://logo.solanaflix.com/images/logos/1504d6af583e9eb1f493ed6b4929ea84.png" group-title="TDT",|ES| MEGA FHD
+#EXTINF:-1 tvg-name="MEGA FHD" tvg-id="Mega" tvg-logo="http://logo.solanaflix.com/images/logos/1504d6af583e9eb1f493ed6b4929ea84.png" group-title="TDT",MEGA FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48426.ts
-#EXTINF:-1 tvg-name="|ES| 24 HORAS" tvg-id="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="TDT",|ES| 24 HORAS
+#EXTINF:-1 tvg-name="24 HORAS" tvg-id="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="TDT",24 HORAS
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48395.ts
 #EXTINF:-1 tvg-name="factoría de ficción FHD" tvg-id="factoría de ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="TDT",factoría de ficción FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48452.ts
-#EXTINF:-1 tvg-name="|ES| A3SERIES FHD" tvg-id="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Atreseries.png" group-title="TDT",|ES| A3SERIES FHD
+#EXTINF:-1 tvg-name="A3SERIES FHD" tvg-id="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Atreseries.png" group-title="TDT",A3SERIES FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48454.ts
-#EXTINF:-1 tvg-name="|ES| MEGA" tvg-id="Mega" tvg-logo="http://logo.solanaflix.com/images/logos/1504d6af583e9eb1f493ed6b4929ea84.png" group-title="TDT",|ES| MEGA
+#EXTINF:-1 tvg-name="MEGA" tvg-id="Mega" tvg-logo="http://logo.solanaflix.com/images/logos/1504d6af583e9eb1f493ed6b4929ea84.png" group-title="TDT",MEGA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48455.ts
-#EXTINF:-1 tvg-name="|ES| ENERGY FHD" tvg-id="Energy" tvg-logo="http://logo.solanaflix.com/images/logos/5efdde3d783f2d201d06e0a949eb1fd4.png" group-title="TDT",|ES| ENERGY FHD
+#EXTINF:-1 tvg-name="ENERGY FHD" tvg-id="Energy" tvg-logo="http://logo.solanaflix.com/images/logos/5efdde3d783f2d201d06e0a949eb1fd4.png" group-title="TDT",ENERGY FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48456.ts
-#EXTINF:-1 tvg-name="|ES| DIVINITY FHD" tvg-id="Divinity" tvg-logo="http://logo.solanaflix.com/images/logos/0d9e9bafc45fa91e81a9a89baa0e82bf.png" group-title="TDT",|ES| DIVINITY FHD
+#EXTINF:-1 tvg-name="DIVINITY FHD" tvg-id="Divinity" tvg-logo="http://logo.solanaflix.com/images/logos/0d9e9bafc45fa91e81a9a89baa0e82bf.png" group-title="TDT",DIVINITY FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48457.ts
-#EXTINF:-1 tvg-name="|ES| BEMAD FHD" tvg-id="Be Mad" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjN8j7H6V4zGwj_nXNSYJFSILS_nWi9QS-qIsH24rL73A.png" group-title="TDT",|ES| BEMAD FHD
+#EXTINF:-1 tvg-name="BEMAD FHD" tvg-id="Be Mad" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjN8j7H6V4zGwj_nXNSYJFSILS_nWi9QS-qIsH24rL73A.png" group-title="TDT",BEMAD FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48464.ts
-#EXTINF:-1 tvg-name="|ES| BEMAD" tvg-id="BeMad" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjN8j7H6V4zGwj_nXNSYJFSILS_nWi9QS-qIsH24rL73A.png" group-title="TDT",|ES| BEMAD
+#EXTINF:-1 tvg-name="BEMAD" tvg-id="BeMad" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjN8j7H6V4zGwj_nXNSYJFSILS_nWi9QS-qIsH24rL73A.png" group-title="TDT",BEMAD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48463.ts
-#EXTINF:-1 tvg-name="|ES| NEOX" tvg-id="Neox" tvg-logo="http://logo.solanaflix.com/images/logos/4337120eec924b379bacf60654411200.png" group-title="TDT",|ES| NEOX
+#EXTINF:-1 tvg-name="NEOX" tvg-id="Neox" tvg-logo="http://logo.solanaflix.com/images/logos/4337120eec924b379bacf60654411200.png" group-title="TDT",NEOX
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48465.ts
-#EXTINF:-1 tvg-name="|ES| NOVA" tvg-id="Nova" tvg-logo="http://logo.solanaflix.com/images/logos/5c2e1cebc605ff56e6283f2e21d26a3e.png" group-title="TDT",|ES| NOVA
+#EXTINF:-1 tvg-name="NOVA" tvg-id="Nova" tvg-logo="http://logo.solanaflix.com/images/logos/5c2e1cebc605ff56e6283f2e21d26a3e.png" group-title="TDT",NOVA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48466.ts
 #EXTINF:-1 tvg-name="|ES| CLAN FHD" tvg-id="Clan" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/clantv.png" group-title="TDT",|ES| CLAN FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48472.ts
 #EXTINF:-1 tvg-name="|ES| CLAN" tvg-id="Clan" tvg-logo="http://logo.solanaflix.com/images/logos/3c06f96b6f7bbdb97366dff76a00eca4.png" group-title="TDT",|ES| CLAN
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48471.ts
-#EXTINF:-1 tvg-name="|ES| DMAX FHD" tvg-id="DMAX" tvg-logo="http://logo.solanaflix.com/images/logos/26bfaabc8ab71544f153e910bcec2a31.png" group-title="TDT",|ES| DMAX FHD
+#EXTINF:-1 tvg-name="DMAX FHD" tvg-id="DMAX" tvg-logo="http://logo.solanaflix.com/images/logos/26bfaabc8ab71544f153e910bcec2a31.png" group-title="TDT",DMAX FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48487.ts
-#EXTINF:-1 tvg-name="|ES| TEN" tvg-id="Ten" tvg-logo="http://gatatv.site:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypdmc1iSrBzRovW8K3EJnr70XqMjuze8G4KKfN1IbveQQ.png" group-title="TDT",|ES| TEN
+#EXTINF:-1 tvg-name="TEN" tvg-id="Ten" tvg-logo="http://gatatv.site:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypdmc1iSrBzRovW8K3EJnr70XqMjuze8G4KKfN1IbveQQ.png" group-title="TDT",TEN
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48488.ts
 #EXTINF:-1 tvg-name="|ES| IBERALIA" tvg-id="Iberalia TV" tvg-logo="http://logo.solanaflix.com/images/logos/735ce065417968c0f63988ae76db2106.png" group-title="TDT",|ES| IBERALIA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48495.ts
-#EXTINF:-1 tvg-name="|ES| TRECE" tvg-id="TRECE" tvg-logo="http://fanc.tmsimg.com/assets/s87050_ll_h3_ab.png" group-title="TDT",|ES| TRECE
+#EXTINF:-1 tvg-name="TRECE" tvg-id="TRECE" tvg-logo="http://fanc.tmsimg.com/assets/s87050_ll_h3_ab.png" group-title="TDT",TRECE
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48550.ts
 #EXTINF:-1 tvg-name="|ES| TV3 CAT" tvg-id="TV3 Cat." tvg-logo="http://logo.solanaflix.com/images/logos/57b7c483603f8cd6c360455d05226b88.png" group-title="TDT",|ES| TV3 CAT
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/77777.ts
@@ -109,7 +109,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110580.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110581.ts
 #EXTINF:-1 tvg-name="|ES| TVG América HD" group-title="TDT",|ES| TVG América HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110582.ts
-#EXTINF:-1 tvg-name="|ES| Nova FHD" tvg-id="Nova" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRUrtOyb9itpP4AThCSdKi5K1d1Y8PrJ8HUQ10GLW40tA.png" group-title="TDT",|ES| Nova FHD
+#EXTINF:-1 tvg-name="Nova FHD" tvg-id="Nova" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRUrtOyb9itpP4AThCSdKi5K1d1Y8PrJ8HUQ10GLW40tA.png" group-title="TDT",Nova FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/139269.ts
 #EXTINF:-1 tvg-name="|ES| À Punt" tvg-id="À Punt" tvg-logo="http://logo.solanaflix.com/images/logos/Lnx2HeaL9ukGte3kRKGNshSbH8dCJSt01iSpChMbn05pZIBpSUYbVWFz7_ageC2VT526w2nPlHfXuM1WRJUc_VGphiCktX-09uxOamfkPqQ8uzjZC3NKdBfNjeT_K_Eu.jpg" group-title="TDT",|ES| À Punt
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/174842.ts
@@ -193,7 +193,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/366799.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/366800.ts
 #EXTINF:-1 tvg-name="|ES| Betevé CAT" tvg-id="betevé" tvg-logo="http://logo.solanaflix.com/images/logos/WdhAk-9Qy_-euyT8lBaGvks2w6l8bbh0mx5VxvgEOZ4oSUIYgex7dkpsXIGCFBmm.jpg" group-title="TDT",|ES| Betevé CAT
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/366801.ts
-#EXTINF:-1 tvg-name="|ES| Negocios TV HD" tvg-id="Negocios TV" tvg-logo="http://logo.solanaflix.com/images/logos/WxVmHot7T8vE8JOm2gmluM2e7wlOwkeC6XgHVgZDD1YdgJPliC5LCxNxFj06cQ4bbW2Wwe97n5b_bQnh-08VUt5JJeOhdDOHfX-KiYIlM5UznUU_RAUb4ho1qVB15cnuL7VOvZ7XNdzHI682pjf3IA.png" group-title="TDT",|ES| Negocios TV HD
+#EXTINF:-1 tvg-name="Negocios TV HD" tvg-id="Negocios TV" tvg-logo="http://logo.solanaflix.com/images/logos/WxVmHot7T8vE8JOm2gmluM2e7wlOwkeC6XgHVgZDD1YdgJPliC5LCxNxFj06cQ4bbW2Wwe97n5b_bQnh-08VUt5JJeOhdDOHfX-KiYIlM5UznUU_RAUb4ho1qVB15cnuL7VOvZ7XNdzHI682pjf3IA.png" group-title="TDT",Negocios TV HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/366802.ts
 #EXTINF:-1 tvg-name="|ES| Hispan TV" tvg-id="HispanTV.es" tvg-logo="http://logo.solanaflix.com/images/logos/1WnpSTqgr4A6WH2oEJw7Mq7YtMcxcs5qKV11fbD1d69JkaR5-wJ2gcYXbRc5mD8c98zFsN_CoPiWggZ_83IfyOyopbXjR5RA6pZ8axlr4KA.jpg" group-title="TDT",|ES| Hispan TV
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/366803.ts
@@ -249,23 +249,23 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458467.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458470.ts
 #EXTINF:-1 tvg-name="|ES| Veo7 FHD" tvg-id="VEO 7" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/aa/Veo7_logo.svg" group-title="TDT",|ES| Veo7 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458497.ts
-#EXTINF:-1 tvg-name="|ES| A3SERIES HD" tvg-id="Atreseries HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Atreseries.png" group-title="TDT",|ES| A3SERIES HD
+#EXTINF:-1 tvg-name="A3SERIES HD" tvg-id="Atreseries HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Atreseries.png" group-title="TDT",A3SERIES HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461911.ts
 #EXTINF:-1 tvg-name="factoría de ficción FHD" tvg-id="factoría de ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="TDT",factoría de ficción FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461912.ts
-#EXTINF:-1 tvg-name="|ES| 24 HORAS FHD" tvg-id="24h HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="TDT",|ES| 24 HORAS FHD
+#EXTINF:-1 tvg-name="24 HORAS FHD" tvg-id="24h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="TDT",24 HORAS FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461913.ts
-#EXTINF:-1 tvg-name="|ES| BBC History FHD" tvg-id="BBC history" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="CULTURA",|ES| BBC History FHD
+#EXTINF:-1 tvg-name="BBC History FHD" tvg-id="BBC history" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="CULTURA",BBC History FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444578.ts
-#EXTINF:-1 tvg-name="|ES| BBC History SD" tvg-id="BBC History" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="CULTURA",|ES| BBC History SD
+#EXTINF:-1 tvg-name="BBC History SD" tvg-id="BBC History" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="CULTURA",BBC History SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444577.ts
 #EXTINF:-1 tvg-name="M+ DOCUMENTALES FHD" tvg-id="M+ Documentales HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg" group-title="CULTURA",M+ DOCUMENTALES FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/114289.ts
-#EXTINF:-1 tvg-name="|ES| HISTORIA FHD" tvg-id="Historia" tvg-logo="http://logo.solanaflix.com/images/logos/1e4e034406cd2444557b1986321d4be4.png" group-title="CULTURA",|ES| HISTORIA FHD
+#EXTINF:-1 tvg-name="HISTORIA FHD" tvg-id="Historia" tvg-logo="http://logo.solanaflix.com/images/logos/1e4e034406cd2444557b1986321d4be4.png" group-title="CULTURA",HISTORIA FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48480.ts
-#EXTINF:-1 tvg-name="|ES| HISTORIA" tvg-id="Historia" tvg-logo="http://logo.solanaflix.com/images/logos/1e4e034406cd2444557b1986321d4be4.png" group-title="CULTURA",|ES| HISTORIA
+#EXTINF:-1 tvg-name="HISTORIA" tvg-id="Historia" tvg-logo="http://logo.solanaflix.com/images/logos/1e4e034406cd2444557b1986321d4be4.png" group-title="CULTURA",HISTORIA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48479.ts
-#EXTINF:-1 tvg-name="|ES| DISCOVERY CHANNEL FHD" tvg-id="Discovery" tvg-logo="http://logo.solanaflix.com/images/logos/a4a3ecd7e4d08a420123ca06b36e3673.png" group-title="CULTURA",|ES| DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL FHD" tvg-id="Discovery" tvg-logo="http://logo.solanaflix.com/images/logos/a4a3ecd7e4d08a420123ca06b36e3673.png" group-title="CULTURA",DISCOVERY CHANNEL FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48481.ts
 #EXTINF:-1 tvg-name="ODISEA 4K" tvg-id="odisea" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zNhS1S-0cygRZetBq6Z6_C4.png" group-title="CULTURA",ODISEA 4K
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113617.ts
@@ -273,23 +273,23 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113617.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110575.ts
 #EXTINF:-1 tvg-name="ODISEA" tvg-id="odisea" tvg-logo="http://logo.solanaflix.com/images/logos/52b70868846523bdd40fbee724601f08.png" group-title="CULTURA",ODISEA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48482.ts
-#EXTINF:-1 tvg-name="|ES| NATIONAL GEOGRAPHIC FHD" tvg-id="National Geographic HD" tvg-logo="http://logo.solanaflix.com/images/logos/c7b80593b3725b0fcca4f645f6430b7a.png" group-title="CULTURA",|ES| NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-id="National Geographic HD" tvg-logo="http://logo.solanaflix.com/images/logos/c7b80593b3725b0fcca4f645f6430b7a.png" group-title="CULTURA",NATIONAL GEOGRAPHIC FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48484.ts
 #EXTINF:-1 tvg-name="|ES| NATIONAL GEOGRAPHIC" tvg-id="National Geographic HD" tvg-logo="http://logo.solanaflix.com/images/logos/a94b5b322eaf66d0fc5018d10280ec57.png" group-title="CULTURA",|ES| NATIONAL GEOGRAPHIC
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48483.ts
-#EXTINF:-1 tvg-name="|ES| NATIONAL GEOGRAFIC WILD FHD" tvg-id="Nat geo WILD HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCmr8hEgRwbmp10Y-Nm7DmqVJ7n0J9drEbyyye-pH_rmQ.png" group-title="CULTURA",|ES| NATIONAL GEOGRAFIC WILD FHD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAFIC WILD FHD" tvg-id="Nat geo WILD HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCmr8hEgRwbmp10Y-Nm7DmqVJ7n0J9drEbyyye-pH_rmQ.png" group-title="CULTURA",NATIONAL GEOGRAFIC WILD FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48486.ts
-#EXTINF:-1 tvg-name="|ES| NATIONAL GEOGRAFIC WILD" tvg-id="Nat Geo Wild HD" tvg-logo="http://logo.solanaflix.com/images/logos/33c0eb9393902f872b58e16b0e6cb4b7.png" group-title="CULTURA",|ES| NATIONAL GEOGRAFIC WILD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAFIC WILD" tvg-id="Nat Geo Wild HD" tvg-logo="http://logo.solanaflix.com/images/logos/33c0eb9393902f872b58e16b0e6cb4b7.png" group-title="CULTURA",NATIONAL GEOGRAFIC WILD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48485.ts
-#EXTINF:-1 tvg-name="|ES| CAZA Y PESCA FHD" tvg-id="Caza y Pesca HD" tvg-logo="http://logo.solanaflix.com/images/logos/e09f3396e4422178ebb50a5820dfe5b4.png" group-title="CULTURA",|ES| CAZA Y PESCA FHD
+#EXTINF:-1 tvg-name="CAZA Y PESCA FHD" tvg-id="Caza y Pesca HD" tvg-logo="http://logo.solanaflix.com/images/logos/e09f3396e4422178ebb50a5820dfe5b4.png" group-title="CULTURA",CAZA Y PESCA FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48494.ts
-#EXTINF:-1 tvg-name="|ES| CAZA Y PESCA" tvg-id="Caza y Pesca HD" tvg-logo="http://logo.solanaflix.com/images/logos/d2bc2a6f29ffe9250fd8fc94f5b9774b.png" group-title="CULTURA",|ES| CAZA Y PESCA
+#EXTINF:-1 tvg-name="CAZA Y PESCA" tvg-id="Caza y Pesca HD" tvg-logo="http://logo.solanaflix.com/images/logos/d2bc2a6f29ffe9250fd8fc94f5b9774b.png" group-title="CULTURA",CAZA Y PESCA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48493.ts
-#EXTINF:-1 tvg-name="|ES| CAZAVISION" tvg-id="Cazavisión" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMpPgjitgmT16d0a9wn-SSyT-REjfH_gnj7cXqX3KpXwA.png" group-title="CULTURA",|ES| CAZAVISION
+#EXTINF:-1 tvg-name="CAZAVISION" tvg-id="Cazavisión" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMpPgjitgmT16d0a9wn-SSyT-REjfH_gnj7cXqX3KpXwA.png" group-title="CULTURA",CAZAVISION
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109250.ts
-#EXTINF:-1 tvg-name="|ES| BBC Earth FHD (ES)" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="CULTURA",|ES| BBC Earth FHD (ES)
+#EXTINF:-1 tvg-name="BBC Earth FHD" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="CULTURA",BBC Earth FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461595.ts
-#EXTINF:-1 tvg-name="|ES| BBC Earth SD (ES)" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="CULTURA",|ES| BBC Earth SD (ES)
+#EXTINF:-1 tvg-name="BBC Earth SD" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="CULTURA",BBC Earth SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461594.ts
 #EXTINF:-1 tvg-name="HBO Max Avances FHD" tvg-id="HBO Max Avances HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg" group-title="CULTURA",HBO Max Avances FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440980.ts
@@ -305,13 +305,13 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444572.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461590.ts
 #EXTINF:-1 tvg-name="BBC series SD" tvg-id="BBC series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="CINE",BBC series SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444571.ts
-#EXTINF:-1 tvg-name="|ES| M+ ORIGINALES FHD" tvg-id="M+ Originales HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MORIG.png" group-title="CINE",|ES| M+ ORIGINALES FHD
+#EXTINF:-1 tvg-name="M+ ORIGINALES FHD" tvg-id="M+ Originales HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MORIG.png" group-title="CINE",M+ ORIGINALES FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48398.ts
-#EXTINF:-1 tvg-name="|ES| M+ ORIGINALES" tvg-id="M+ Originales HD" tvg-logo="https://noos.vip/logo/ES/moriginales.png" group-title="CINE",|ES| M+ ORIGINALES
+#EXTINF:-1 tvg-name="M+ ORIGINALES" tvg-id="M+ Originales HD" tvg-logo="https://noos.vip/logo/ES/moriginales.png" group-title="CINE",M+ ORIGINALES
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48397.ts
-#EXTINF:-1 tvg-name="|ES| M+ ESTRENOS FHD" tvg-id="M+ Estrenos HD" tvg-logo="http://logo.solanaflix.com/images/logos/1455d278e2d60d507074e65cee44e58e.png" group-title="CINE",|ES| M+ ESTRENOS FHD
+#EXTINF:-1 tvg-name="M+ ESTRENOS FHD" tvg-id="M+ Estrenos HD" tvg-logo="http://logo.solanaflix.com/images/logos/1455d278e2d60d507074e65cee44e58e.png" group-title="CINE",M+ ESTRENOS FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48400.ts
-#EXTINF:-1 tvg-name="|ES| M+ Estrenos" tvg-id="M+ ESTRENOS HD" tvg-logo="http://logo.solanaflix.com/images/logos/1455d278e2d60d507074e65cee44e58e.png" group-title="CINE",|ES| M+ Estrenos
+#EXTINF:-1 tvg-name="M+ Estrenos" tvg-id="M+ ESTRENOS HD" tvg-logo="http://logo.solanaflix.com/images/logos/1455d278e2d60d507074e65cee44e58e.png" group-title="CINE",M+ Estrenos
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48399.ts
 #EXTINF:-1 tvg-name="Movistar Plus+ FHD" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="CINE",Movistar Plus+ FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/102334.ts
@@ -319,91 +319,91 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/102334.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/102335.ts
 #EXTINF:-1 tvg-name="Movistar Plus+ SD" tvg-id="Movistar Plus+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="CINE",Movistar Plus+ SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444570.ts
-#EXTINF:-1 tvg-name="|ES| M+ ACCION FHD" tvg-id="M+ Acción HD" tvg-logo="http://logo.solanaflix.com/images/logos/c4f6fdf24e4a5c55c4518342fa2d16f5.png" group-title="CINE",|ES| M+ ACCION FHD
+#EXTINF:-1 tvg-name="M+ ACCIÓN FHD" tvg-id="M+ Acción HD" tvg-logo="http://logo.solanaflix.com/images/logos/c4f6fdf24e4a5c55c4518342fa2d16f5.png" group-title="CINE",M+ ACCIÓN FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48402.ts
-#EXTINF:-1 tvg-name="|ES| M+ ACCION" tvg-id="M+ Acción HD" tvg-logo="http://logo.solanaflix.com/images/logos/d97fb24e0deabe8b47e780745e3161d4.png" group-title="CINE",|ES| M+ ACCION
+#EXTINF:-1 tvg-name="M+ ACCIÓN" tvg-id="M+ Acción HD" tvg-logo="http://logo.solanaflix.com/images/logos/d97fb24e0deabe8b47e780745e3161d4.png" group-title="CINE",M+ ACCIÓN
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48401.ts
-#EXTINF:-1 tvg-name="|ES| M+ COMEDIA FHD" tvg-id="M+ Comedia HD" tvg-logo="http://logo.solanaflix.com/images/logos/ddfdb0ccac6bbc67650fafdbde3a360d.png" group-title="CINE",|ES| M+ COMEDIA FHD
+#EXTINF:-1 tvg-name="M+ COMEDIA FHD" tvg-id="M+ Comedia HD" tvg-logo="http://logo.solanaflix.com/images/logos/ddfdb0ccac6bbc67650fafdbde3a360d.png" group-title="CINE",M+ COMEDIA FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48404.ts
-#EXTINF:-1 tvg-name="|ES| M+ COMEDIA" tvg-id="M+ Comedia HD" tvg-logo="http://logo.solanaflix.com/images/logos/a63b54980dfa8fbba4a7e596afb5e798.png" group-title="CINE",|ES| M+ COMEDIA
+#EXTINF:-1 tvg-name="M+ COMEDIA" tvg-id="M+ Comedia HD" tvg-logo="http://logo.solanaflix.com/images/logos/a63b54980dfa8fbba4a7e596afb5e798.png" group-title="CINE",M+ COMEDIA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48403.ts
-#EXTINF:-1 tvg-name="|ES| M+ DRAMA FHD" tvg-id="M+ DRAMA HD" tvg-logo="http://logo.solanaflix.com/images/logos/6a82846d38b09664c8fb65fed62d8d19.png" group-title="CINE",|ES| M+ DRAMA FHD
+#EXTINF:-1 tvg-name="M+ DRAMA FHD" tvg-id="M+ DRAMA HD" tvg-logo="http://logo.solanaflix.com/images/logos/6a82846d38b09664c8fb65fed62d8d19.png" group-title="CINE",M+ DRAMA FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48406.ts
-#EXTINF:-1 tvg-name="|ES| M+ DRAMA" tvg-id="M+ Drama HD" tvg-logo="http://logo.solanaflix.com/images/logos/12311ddb62355dff2654656fc1815614.png" group-title="CINE",|ES| M+ DRAMA
+#EXTINF:-1 tvg-name="M+ DRAMA" tvg-id="M+ Drama HD" tvg-logo="http://logo.solanaflix.com/images/logos/12311ddb62355dff2654656fc1815614.png" group-title="CINE",M+ DRAMA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48405.ts
-#EXTINF:-1 tvg-name="|ES|  M+ CINE ESPAÑOL FHD" tvg-id="M+ Cine Español" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="CINE",|ES|  M+ CINE ESPAÑOL FHD
+#EXTINF:-1 tvg-name="M+ CINE ESPAÑOL FHD" tvg-id="M+ Cine Español" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="CINE",M+ CINE ESPAÑOL FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109482.ts
-#EXTINF:-1 tvg-name="|ES| M+ CINE ESPAÑOL" tvg-id="M+ Cine Español" tvg-logo="http://logo.solanaflix.com/images/logos/a107aa2c3a55817e0ac524f4077f7806.png" group-title="CINE",|ES| M+ CINE ESPAÑOL
+#EXTINF:-1 tvg-name="M+ CINE ESPAÑOL" tvg-id="M+ Cine Español" tvg-logo="http://logo.solanaflix.com/images/logos/a107aa2c3a55817e0ac524f4077f7806.png" group-title="CINE",M+ CINE ESPAÑOL
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48407.ts
-#EXTINF:-1 tvg-name="|ES| M+ CLÁSICO FHD" tvg-id="M+ Clásicos HD" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="CINE",|ES| M+ CLÁSICO FHD
+#EXTINF:-1 tvg-name="M+ CLÁSICO FHD" tvg-id="M+ Clásicos HD" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="CINE",M+ CLÁSICO FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109248.ts
-#EXTINF:-1 tvg-name="|ES| M+ CLÁSICOS" tvg-id="M+ Clásicos HD" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="CINE",|ES| M+ CLÁSICOS
+#EXTINF:-1 tvg-name="M+ CLÁSICOS" tvg-id="M+ Clásicos HD" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="CINE",M+ CLÁSICOS
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109249.ts
-#EXTINF:-1 tvg-name="|ES| M+ Hits FHD" tvg-id="M+ Hits HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" group-title="CINE",|ES| M+ Hits FHD
+#EXTINF:-1 tvg-name="M+ Hits FHD" tvg-id="M+ Hits HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" group-title="CINE",M+ Hits FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48428.ts
-#EXTINF:-1 tvg-name="|ES| M+ Hits" tvg-id="M+hits" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" group-title="CINE",|ES| M+ Hits
+#EXTINF:-1 tvg-name="M+ Hits" tvg-id="M+hits" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" group-title="CINE",M+ Hits
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48427.ts
 #EXTINF:-1 tvg-name="M+ Orgullo FHD" tvg-id="M+ Orgullo" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MMUSIC.png" group-title="CINE",M+ Orgullo FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/149908.ts
 #EXTINF:-1 tvg-name="M+ Orgullo HD" tvg-id="M+ Orgullo" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MMUSIC.png" group-title="CINE",M+ Orgullo HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/149909.ts
-#EXTINF:-1 tvg-name="|ES| HOLLYWOOD FHD" tvg-id="Canal Hollywood HD" tvg-logo="http://logo.solanaflix.com/images/logos/08f97a2cf9e4533df2046db62aa85fee.png" group-title="CINE",|ES| HOLLYWOOD FHD
+#EXTINF:-1 tvg-name="HOLLYWOOD FHD" tvg-id="Canal Hollywood HD" tvg-logo="http://logo.solanaflix.com/images/logos/08f97a2cf9e4533df2046db62aa85fee.png" group-title="CINE",HOLLYWOOD FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48411.ts
-#EXTINF:-1 tvg-name="|ES| HOLLYWOOD" tvg-id="Canal Hollywood HD" tvg-logo="http://logo.solanaflix.com/images/logos/09a27e8761f96269efec9453d18dc660.png" group-title="CINE",|ES| HOLLYWOOD
+#EXTINF:-1 tvg-name="HOLLYWOOD" tvg-id="Canal Hollywood HD" tvg-logo="http://logo.solanaflix.com/images/logos/09a27e8761f96269efec9453d18dc660.png" group-title="CINE",HOLLYWOOD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48410.ts
-#EXTINF:-1 tvg-name="|ES| TCM FHD" tvg-id="TCM HD" tvg-logo="http://logo.solanaflix.com/images/logos/94f68ad1468ebfc8d0effa90f6a4f4c0.png" group-title="CINE",|ES| TCM FHD
+#EXTINF:-1 tvg-name="TCM FHD" tvg-id="TCM HD" tvg-logo="http://logo.solanaflix.com/images/logos/94f68ad1468ebfc8d0effa90f6a4f4c0.png" group-title="CINE",TCM FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48413.ts
-#EXTINF:-1 tvg-name="|ES| TCM" tvg-id="TCM HD" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBiVhzRvMEb1u6LNyOW093I4fqqtX7s8FR4dcRcOOqcESw.png" group-title="CINE",|ES| TCM
+#EXTINF:-1 tvg-name="TCM" tvg-id="TCM HD" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBiVhzRvMEb1u6LNyOW093I4fqqtX7s8FR4dcRcOOqcESw.png" group-title="CINE",TCM
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48412.ts
-#EXTINF:-1 tvg-name="|ES| SUNDANCE FHD" tvg-id="Sundance TV" tvg-logo="http://logo.solanaflix.com/images/logos/014dec09d30ae7a62daf5875bf2bcd62.png" group-title="CINE",|ES| SUNDANCE FHD
+#EXTINF:-1 tvg-name="SUNDANCE FHD" tvg-id="Sundance TV" tvg-logo="http://logo.solanaflix.com/images/logos/014dec09d30ae7a62daf5875bf2bcd62.png" group-title="CINE",SUNDANCE FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48415.ts
-#EXTINF:-1 tvg-name="|ES| SUNDANCE" tvg-id="Sundance TV" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2019/08/sundancetv-vector-logo.png" group-title="CINE",|ES| SUNDANCE
+#EXTINF:-1 tvg-name="SUNDANCE" tvg-id="Sundance TV" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2019/08/sundancetv-vector-logo.png" group-title="CINE",SUNDANCE
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48414.ts
-#EXTINF:-1 tvg-name="|ES| DARK FHD" tvg-id="DARK" tvg-logo="http://logo.solanaflix.com/images/logos/e9163bcafb4ddaa04be7b1f4842a42da.png" group-title="CINE",|ES| DARK FHD
+#EXTINF:-1 tvg-name="DARK FHD" tvg-id="DARK" tvg-logo="http://logo.solanaflix.com/images/logos/e9163bcafb4ddaa04be7b1f4842a42da.png" group-title="CINE",DARK FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/62202.ts
-#EXTINF:-1 tvg-name="|ES| DARK HD" tvg-logo="http://logo.testmyiptv.com/images/logos/e9163bcafb4ddaa04be7b1f4842a42da.png" group-title="CINE",|ES| DARK HD
+#EXTINF:-1 tvg-name="DARK HD" tvg-logo="http://logo.testmyiptv.com/images/logos/e9163bcafb4ddaa04be7b1f4842a42da.png" group-title="CINE",DARK HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/438665.ts
-#EXTINF:-1 tvg-name="|ES| Dark SD" tvg-id="DARK" tvg-logo="http://logo.solanaflix.com/images/logos/e9163bcafb4ddaa04be7b1f4842a42da.png" group-title="CINE",|ES| Dark SD
+#EXTINF:-1 tvg-name="Dark SD" tvg-id="DARK" tvg-logo="http://logo.solanaflix.com/images/logos/e9163bcafb4ddaa04be7b1f4842a42da.png" group-title="CINE",Dark SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/438702.ts
-#EXTINF:-1 tvg-name="|ES| CALLE 13 FHD" tvg-id="Calle 13 HD" tvg-logo="http://logo.solanaflix.com/images/logos/bec671b8f24c482c48416977a354c36a.png" group-title="CINE",|ES| CALLE 13 FHD
+#EXTINF:-1 tvg-name="CALLE 13 FHD" tvg-id="Calle 13 HD" tvg-logo="http://logo.solanaflix.com/images/logos/bec671b8f24c482c48416977a354c36a.png" group-title="CINE",CALLE 13 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48432.ts
-#EXTINF:-1 tvg-name="|ES| CALLE 13" tvg-id="Calle 13 HD" tvg-logo="http://logo.solanaflix.com/images/logos/bec671b8f24c482c48416977a354c36a.png" group-title="CINE",|ES| CALLE 13
+#EXTINF:-1 tvg-name="CALLE 13" tvg-id="Calle 13 HD" tvg-logo="http://logo.solanaflix.com/images/logos/bec671b8f24c482c48416977a354c36a.png" group-title="CINE",CALLE 13
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48431.ts
-#EXTINF:-1 tvg-name="|ES| STAR CHANNEL FHD" tvg-id="STAR Channel HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="CINE",|ES| STAR CHANNEL FHD
+#EXTINF:-1 tvg-name="STAR CHANNEL FHD" tvg-id="STAR Channel HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="CINE",STAR CHANNEL FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48434.ts
-#EXTINF:-1 tvg-name="|ES| STAR CHANNEL" tvg-id="STAR Channel" group-title="CINE",|ES| STAR CHANNEL
+#EXTINF:-1 tvg-name="STAR CHANNEL" tvg-id="STAR Channel" group-title="CINE",STAR CHANNEL
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48433.ts
-#EXTINF:-1 tvg-name="|ES| AXN FHD" tvg-id="AXN HD" tvg-logo="http://logo.solanaflix.com/images/logos/85fcdbfcd7e35d29c2c8efff3ea9df7e.png" group-title="CINE",|ES| AXN FHD
+#EXTINF:-1 tvg-name="AXN FHD" tvg-id="AXN HD" tvg-logo="http://logo.solanaflix.com/images/logos/85fcdbfcd7e35d29c2c8efff3ea9df7e.png" group-title="CINE",AXN FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48438.ts
-#EXTINF:-1 tvg-name="|ES| AXN" tvg-id="AXN HD" tvg-logo="http://logo.solanaflix.com/images/logos/c7bcbc671d54de0d717eb1663e1eea11.png" group-title="CINE",|ES| AXN
+#EXTINF:-1 tvg-name="AXN" tvg-id="AXN HD" tvg-logo="http://logo.solanaflix.com/images/logos/c7bcbc671d54de0d717eb1663e1eea11.png" group-title="CINE",AXN
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48437.ts
-#EXTINF:-1 tvg-name="|ES| AXN MOVIES FHD" tvg-id="AXN Movies HD" tvg-logo="http://logo.solanaflix.com/images/logos/0db1f8e3bae410631575704b703f45f0.png" group-title="CINE",|ES| AXN MOVIES FHD
+#EXTINF:-1 tvg-name="AXN MOVIES FHD" tvg-id="AXN Movies HD" tvg-logo="http://logo.solanaflix.com/images/logos/0db1f8e3bae410631575704b703f45f0.png" group-title="CINE",AXN MOVIES FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48440.ts
-#EXTINF:-1 tvg-name="|ES| AXN MOVIES" tvg-id="AXN Movies HD" tvg-logo="http://logo.solanaflix.com/images/logos/0db1f8e3bae410631575704b703f45f0.png" group-title="CINE",|ES| AXN MOVIES
+#EXTINF:-1 tvg-name="AXN MOVIES" tvg-id="AXN Movies HD" tvg-logo="http://logo.solanaflix.com/images/logos/0db1f8e3bae410631575704b703f45f0.png" group-title="CINE",AXN MOVIES
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48439.ts
-#EXTINF:-1 tvg-name="|ES| AMC FHD" tvg-id="AMC HD" tvg-logo="http://logo.solanaflix.com/images/logos/eba62e97568a6ee0c5a95ffba7b124c1.png" group-title="CINE",|ES| AMC FHD
+#EXTINF:-1 tvg-name="AMC FHD" tvg-id="AMC HD" tvg-logo="http://logo.solanaflix.com/images/logos/eba62e97568a6ee0c5a95ffba7b124c1.png" group-title="CINE",AMC FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48442.ts
-#EXTINF:-1 tvg-name="|ES| AMC" tvg-id="AMC HD" tvg-logo="http://logo.solanaflix.com/images/logos/68271f533c2ea1941772cdb2982b152d.png" group-title="CINE",|ES| AMC
+#EXTINF:-1 tvg-name="AMC" tvg-id="AMC HD" tvg-logo="http://logo.solanaflix.com/images/logos/68271f533c2ea1941772cdb2982b152d.png" group-title="CINE",AMC
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48441.ts
-#EXTINF:-1 tvg-name="|ES| AMC SELEKT FHD" tvg-id="SELEKT" tvg-logo="http://logo.solanaflix.com/images/logos/zDtAp_LLXHPRtEtzC_QvIcMe4Oh_LnhBAPkAlE_A38RaoohN4WbfdTlRt3xEJTUlSdNVDLsiHzAK4-kE_RX16s_Pw_YIDl2sV0wxbIb0NsD9LqTjV2XpFoY6fEpv64Wq.jpg" group-title="CINE",|ES| AMC SELEKT FHD
+#EXTINF:-1 tvg-name="AMC SELEKT FHD" tvg-id="SELEKT" tvg-logo="http://logo.solanaflix.com/images/logos/zDtAp_LLXHPRtEtzC_QvIcMe4Oh_LnhBAPkAlE_A38RaoohN4WbfdTlRt3xEJTUlSdNVDLsiHzAK4-kE_RX16s_Pw_YIDl2sV0wxbIb0NsD9LqTjV2XpFoY6fEpv64Wq.jpg" group-title="CINE",AMC SELEKT FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/150608.ts
-#EXTINF:-1 tvg-name="|ES| WARNER TV FHD" tvg-id="WARNER TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJkI6I_8vL_nPn6Yqnu6XNv_Drzt_pQJlz0AsBXjK__AnfFI4p-SxlZVYmHoTfr07yn_wUsWT-u49HpevRwfh9zA.png" group-title="CINE",|ES| WARNER TV FHD
+#EXTINF:-1 tvg-name="WARNER TV FHD" tvg-id="WARNER TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJkI6I_8vL_nPn6Yqnu6XNv_Drzt_pQJlz0AsBXjK__AnfFI4p-SxlZVYmHoTfr07yn_wUsWT-u49HpevRwfh9zA.png" group-title="CINE",WARNER TV FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48444.ts
-#EXTINF:-1 tvg-name="|ES| WARNER TV" tvg-id="Warner TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJkI6I_8vL_nPn6Yqnu6XNv_Drzt_pQJlz0AsBXjK__AnfFI4p-SxlZVYmHoTfr07yn_wUsWT-u49HpevRwfh9zA.png" group-title="CINE",|ES| WARNER TV
+#EXTINF:-1 tvg-name="WARNER TV" tvg-id="Warner TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJkI6I_8vL_nPn6Yqnu6XNv_Drzt_pQJlz0AsBXjK__AnfFI4p-SxlZVYmHoTfr07yn_wUsWT-u49HpevRwfh9zA.png" group-title="CINE",WARNER TV
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48443.ts
-#EXTINF:-1 tvg-name="|ES| SYFY FHD" tvg-id="SyFy HD" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjQ240BH71_8hlPT6Fo9C59m9-CcCEM6741fZI7X_fQDA.png" group-title="CINE",|ES| SYFY FHD
+#EXTINF:-1 tvg-name="SYFY FHD" tvg-id="SyFy HD" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjQ240BH71_8hlPT6Fo9C59m9-CcCEM6741fZI7X_fQDA.png" group-title="CINE",SYFY FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48446.ts
-#EXTINF:-1 tvg-name="|ES| SYFY" tvg-id="SyFy HD" tvg-logo="http://logo.solanaflix.com/images/logos/85470b41c4778a801cfc1c17387e9fd7.png" group-title="CINE",|ES| SYFY
+#EXTINF:-1 tvg-name="SYFY" tvg-id="SyFy HD" tvg-logo="http://logo.solanaflix.com/images/logos/85470b41c4778a801cfc1c17387e9fd7.png" group-title="CINE",SYFY
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48445.ts
-#EXTINF:-1 tvg-name="|ES| COSMOPOLITAN FHD" tvg-id="Cosmo HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="CINE",|ES| COSMOPOLITAN FHD
+#EXTINF:-1 tvg-name="COSMOPOLITAN FHD" tvg-id="Cosmo HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="CINE",COSMOPOLITAN FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48448.ts
-#EXTINF:-1 tvg-name="|ES| COSMO" tvg-id="Cosmo HD" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjuaGAWKRr_Ts34WdxrjmjD44JrFALcO8ftC2D8dW01gg.png" group-title="CINE",|ES| COSMO
+#EXTINF:-1 tvg-name="COSMO" tvg-id="Cosmo HD" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjuaGAWKRr_Ts34WdxrjmjD44JrFALcO8ftC2D8dW01gg.png" group-title="CINE",COSMO
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48447.ts
-#EXTINF:-1 tvg-name="|ES| COMEDY CENTRAL FHD" tvg-id="Comedy Central HD" tvg-logo="http://logo.solanaflix.com/images/logos/368ee045a76d8af7a0efa688e40838ed.png" group-title="CINE",|ES| COMEDY CENTRAL FHD
+#EXTINF:-1 tvg-name="COMEDY CENTRAL FHD" tvg-id="Comedy Central HD" tvg-logo="http://logo.solanaflix.com/images/logos/368ee045a76d8af7a0efa688e40838ed.png" group-title="CINE",COMEDY CENTRAL FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48450.ts
-#EXTINF:-1 tvg-name="|ES| COMEDY CENTRAL" tvg-id="Comedy Central HD" tvg-logo="http://logo.solanaflix.com/images/logos/7130d47fe203cc4be9948cb9c5c9a31e.png" group-title="CINE",|ES| COMEDY CENTRAL
+#EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-id="Comedy Central HD" tvg-logo="http://logo.solanaflix.com/images/logos/7130d47fe203cc4be9948cb9c5c9a31e.png" group-title="CINE",COMEDY CENTRAL
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48449.ts
-#EXTINF:-1 tvg-name="|ES| BOM CINE" tvg-id="BOM Cine" tvg-logo="https://www.grupogodo.com/wp-content/uploads/2016/12/bom-CINE-web.png" group-title="CINE",|ES| BOM CINE
+#EXTINF:-1 tvg-name="BOM CINE" tvg-id="BOM Cine" tvg-logo="https://www.grupogodo.com/wp-content/uploads/2016/12/bom-CINE-web.png" group-title="CINE",BOM CINE
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109247.ts
 #EXTINF:-1 tvg-name="|ES| RAKUTEN TV TOP 1 FHD" tvg-id="Bajo demanda" group-title="CINE",|ES| RAKUTEN TV TOP 1 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113009.ts
@@ -415,17 +415,17 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113008.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113011.ts
 #EXTINF:-1 tvg-name="|ES| KANAL D DRAMA" tvg-id="Vive Kanal D Drama" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nR4bpqT-bBzKXHIiB4bkXEJv2uPkCjX8u4EYNiWwwIwlw.png" group-title="CINE",|ES| KANAL D DRAMA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113014.ts
-#EXTINF:-1 tvg-name="|ES| CINE FEEL GOOD HD" tvg-logo="https://wiki2023.mundoplus.tv/lib/exe/fetch.php?w=144&h=108&tok=57421c&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fcinefeelgood.png" group-title="CINE",|ES| CINE FEEL GOOD HD
+#EXTINF:-1 tvg-name="CINE FEEL GOOD HD" tvg-id="Cine Feel Good" tvg-logo="https://wiki2023.mundoplus.tv/lib/exe/fetch.php?w=144&h=108&tok=57421c&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fcinefeelgood.png" group-title="CINE",CINE FEEL GOOD HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/162088.ts
-#EXTINF:-1 tvg-name="|ES| CINES VERDI TV HD" tvg-id="verdi" tvg-logo="https://madrid.cines-verdi.com/storage/app/media/cinesverditv.jpg" group-title="CINE",|ES| CINES VERDI TV HD
+#EXTINF:-1 tvg-name="cine verdi FHD" tvg-id="verdi" tvg-logo="https://madrid.cines-verdi.com/storage/app/media/cinesverditv.jpg" group-title="CINE",cine verdi FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/162093.ts
-#EXTINF:-1 tvg-name="|ES| CINE CLASICO FHD" group-title="CINE",|ES| CINE CLASICO FHD
+#EXTINF:-1 tvg-name="CINE CLASICO FHD" group-title="CINE",CINE CLASICO FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/162097.ts
 #EXTINF:-1 tvg-name="|ES| CANAL LAS ESTRELLAS" tvg-id="Canal de las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1920px-Las_Estrellas_logo_%282016%29.svg.png" group-title="CINE",|ES| CANAL LAS ESTRELLAS
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/162122.ts
 #EXTINF:-1 tvg-name="|ES| CORAZON" group-title="CINE",|ES| CORAZON
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/162149.ts
-#EXTINF:-1 tvg-name="|ES| ACONTRA+" tvg-id="acontra+" tvg-logo="https://pbs.twimg.com/media/GMaO0_wXgAIgVEl?format=jpg&name=large" group-title="CINE",|ES| ACONTRA+
+#EXTINF:-1 tvg-name="ACONTRA+" tvg-id="acontra+" tvg-logo="https://pbs.twimg.com/media/GMaO0_wXgAIgVEl?format=jpg&name=large" group-title="CINE",ACONTRA+
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/164965.ts
 #EXTINF:-1 tvg-name="M+ vacaciones FHD" tvg-id="M+ vacaciones" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ vacaciones FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440983.ts
@@ -433,31 +433,31 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440983.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440984.ts
 #EXTINF:-1 tvg-name="M+ M+ vacaciones  SD" tvg-id="M+ vacaciones" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ M+ vacaciones  SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440985.ts
-#EXTINF:-1 tvg-name="|ES| STAR" tvg-id="STAR Channel HD" tvg-logo="https://pics.filmaffinity.com/star-153397291560362-nm_200.jpg" group-title="CINE",|ES| STAR
+#EXTINF:-1 tvg-name="STAR" tvg-id="STAR Channel HD" tvg-logo="https://pics.filmaffinity.com/star-153397291560362-nm_200.jpg" group-title="CINE",STAR
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/445383.ts
-#EXTINF:-1 tvg-name="|ES| STAR HD" tvg-id="STAR Channel HD" tvg-logo="https://pics.filmaffinity.com/star-153397291560362-nm_200.jpg" group-title="CINE",|ES| STAR HD
+#EXTINF:-1 tvg-name="STAR HD" tvg-id="STAR Channel HD" tvg-logo="https://pics.filmaffinity.com/star-153397291560362-nm_200.jpg" group-title="CINE",STAR HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/445381.ts
-#EXTINF:-1 tvg-name="|ES| STAR FHD" tvg-id="STAR Channel HD" tvg-logo="https://pics.filmaffinity.com/star-153397291560362-nm_200.jpg" group-title="CINE",|ES| STAR FHD
+#EXTINF:-1 tvg-name="STAR FHD" tvg-id="STAR Channel HD" tvg-logo="https://pics.filmaffinity.com/star-153397291560362-nm_200.jpg" group-title="CINE",STAR FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/445382.ts
-#EXTINF:-1 tvg-name="|ES| M+ INDIE FHD" tvg-id="M+ Indie HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MINDI.png" group-title="CINE",|ES| M+ INDIE FHD
+#EXTINF:-1 tvg-name="M+ INDIE FHD" tvg-id="M+ Indie HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MINDI.png" group-title="CINE",M+ INDIE FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/114290.ts
-#EXTINF:-1 tvg-name="|ES| M+ INDIE HD" tvg-id="M+ Indie HD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54BOT9Yxnj_on14iz0kYLD-lxl_pXaADSuNzwp42zr5-c.png" group-title="CINE",|ES| M+ INDIE HD
+#EXTINF:-1 tvg-name="M+ INDIE HD" tvg-id="M+ Indie HD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54BOT9Yxnj_on14iz0kYLD-lxl_pXaADSuNzwp42zr5-c.png" group-title="CINE",M+ INDIE HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458461.ts
-#EXTINF:-1 tvg-name="|ES| M+ INDIE SD" tvg-id="M+ Indie HD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54BOT9Yxnj_on14iz0kYLD-lxl_pXaADSuNzwp42zr5-c.png" group-title="CINE",|ES| M+ INDIE SD
+#EXTINF:-1 tvg-name="M+ INDIE SD" tvg-id="M+ Indie HD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54BOT9Yxnj_on14iz0kYLD-lxl_pXaADSuNzwp42zr5-c.png" group-title="CINE",M+ INDIE SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458462.ts
-#EXTINF:-1 tvg-name="|ES| M+ SKYSHOWTIME FHD" tvg-id="SkyShowtime" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="CINE",|ES| M+ SKYSHOWTIME FHD
+#EXTINF:-1 tvg-name="M+ SKYSHOWTIME FHD" tvg-id="SkyShowtime" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="CINE",M+ SKYSHOWTIME FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/438083.ts
-#EXTINF:-1 tvg-name="|ES| M+ SHOWTIME 1 HD" tvg-id="SkyShowtime 1" tvg-logo="http://trastras.eu:2083/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WxcPAFcVAw5AIRtM2cYalgg.png" group-title="CINE",|ES| M+ SHOWTIME 1 HD
+#EXTINF:-1 tvg-name="M+ SHOWTIME 1 HD" tvg-id="SkyShowtime 1" tvg-logo="http://trastras.eu:2083/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WxcPAFcVAw5AIRtM2cYalgg.png" group-title="CINE",M+ SHOWTIME 1 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458463.ts
-#EXTINF:-1 tvg-name="|ES| M+ SHOWTIME 1 SD" tvg-id="SkyShowtime 1" tvg-logo="http://trastras.eu:2083/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WxcPAFcVAw5AIRtM2cYalgg.png" group-title="CINE",|ES| M+ SHOWTIME 1 SD
+#EXTINF:-1 tvg-name="M+ SHOWTIME 1 SD" tvg-id="SkyShowtime 1" tvg-logo="http://trastras.eu:2083/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WxcPAFcVAw5AIRtM2cYalgg.png" group-title="CINE",M+ SHOWTIME 1 SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458464.ts
-#EXTINF:-1 tvg-name="|ES| XTRM FHD" tvg-id="XTRM" tvg-logo="http://logo.solanaflix.com/images/logos/760584d13f0c6712c5b7df4dc65c075e.png" group-title="CINE",|ES| XTRM FHD
+#EXTINF:-1 tvg-name="XTRM FHD" tvg-id="XTRM" tvg-logo="http://logo.solanaflix.com/images/logos/760584d13f0c6712c5b7df4dc65c075e.png" group-title="CINE",XTRM FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48418.ts
-#EXTINF:-1 tvg-name="|ES| XTRM HD" tvg-id="XTRM" tvg-logo="http://trastras.eu:2083/images/m5v_sIz8iBRSOUxf3E8w9MoWBRNIvETIqEhl9irioQ2RKNkZqZLuVrUbBf-xTT8MCD0BlFpsJngvY0MzUwYRuw.png" group-title="CINE",|ES| XTRM HD
+#EXTINF:-1 tvg-name="XTRM HD" tvg-id="XTRM" tvg-logo="http://trastras.eu:2083/images/m5v_sIz8iBRSOUxf3E8w9MoWBRNIvETIqEhl9irioQ2RKNkZqZLuVrUbBf-xTT8MCD0BlFpsJngvY0MzUwYRuw.png" group-title="CINE",XTRM HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458465.ts
-#EXTINF:-1 tvg-name="|ES| XTREM" tvg-id="XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="CINE",|ES| XTREM
+#EXTINF:-1 tvg-name="XTREM" tvg-id="XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="CINE",XTREM
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48417.ts
-#EXTINF:-1 tvg-name="|ES| VinTV FHD" tvg-id="Vintv" group-title="CINE",|ES| VinTV FHD
+#EXTINF:-1 tvg-name="VinTV FHD" tvg-id="Vintv" group-title="CINE",VinTV FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458495.ts
 #EXTINF:-1 tvg-name="VinTV SD" tvg-id="Vintv" group-title="CINE",VinTV SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458496.ts
@@ -471,55 +471,55 @@ http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301538
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301541
 #EXTINF:-1 tvg-name="Canal FlixOlé 2 HD" tvg-id="Canal FlixOlé 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX2" group-title="CINE",Canal FlixOlé 2 HD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301542
-#EXTINF:-1 tvg-name="|ES| BBC TopGear FHD" tvg-id="BBC Top Gear" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="ESTILO DE VIDA",|ES| BBC TopGear FHD
+#EXTINF:-1 tvg-name="BBC TopGear FHD" tvg-id="BBC Top Gear" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="ESTILO DE VIDA",BBC TopGear FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444574.ts
-#EXTINF:-1 tvg-name="|ES| BBC TopGear SD" tvg-id="BBC Top Gear" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="ESTILO DE VIDA",|ES| BBC TopGear SD
+#EXTINF:-1 tvg-name="BBC TopGear SD" tvg-id="BBC Top Gear" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="ESTILO DE VIDA",BBC TopGear SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444573.ts
 #EXTINF:-1 tvg-name="BBC Food FHD" tvg-id="BBC FOOD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBFOO.png" group-title="ESTILO DE VIDA",BBC Food FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444576.ts
 #EXTINF:-1 tvg-name="BBC Food SD" tvg-id="BBC Food" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBFOO.png" group-title="ESTILO DE VIDA",BBC Food SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444575.ts
-#EXTINF:-1 tvg-name="|ES| AMC BREAK FHD" tvg-logo="http://logo.solanaflix.com/images/logos/09b63f2f502e2ce8121bbdbf420d63f4.png" group-title="ESTILO DE VIDA",|ES| AMC BREAK FHD
+#EXTINF:-1 tvg-name="AMC BREAK FHD" tvg-logo="http://logo.solanaflix.com/images/logos/09b63f2f502e2ce8121bbdbf420d63f4.png" group-title="ESTILO DE VIDA",AMC BREAK FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48489.ts
 #EXTINF:-1 tvg-name="AMC CRIME FHD" tvg-id="AMC Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO4KHWbOGjF5pB0e4wr3F31zbPvPOCqwYypT1dcHrKg1uG_SdzWFwsOgtg_KhqFVTzA&usqp=CAU" group-title="ESTILO DE VIDA",AMC CRIME FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113023.ts
-#EXTINF:-1 tvg-name="AMC CRIME SD" tvg-id="AMC Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO4KHWbOGjF5pB0e4wr3F31zbPvPOCqwYypT1dcHrKg1uG_SdzWFwsOgtg_KhqFVTzA&usqp=CAU" group-title="ESTILO DE VIDA",AMC CRIME SD
+#EXTINF:-1 tvg-name="AMC CRIME HD" tvg-id="AMC Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO4KHWbOGjF5pB0e4wr3F31zbPvPOCqwYypT1dcHrKg1uG_SdzWFwsOgtg_KhqFVTzA&usqp=CAU" group-title="ESTILO DE VIDA",AMC CRIME HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113022.ts
-#EXTINF:-1 tvg-name="amc crime" tvg-id="amc crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO4KHWbOGjF5pB0e4wr3F31zbPvPOCqwYypT1dcHrKg1uG_SdzWFwsOgtg_KhqFVTzA&usqp=CAU" group-title="ESTILO DE VIDA",amc crime
+#EXTINF:-1 tvg-name="AMC CRIME SD" tvg-id="amc crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO4KHWbOGjF5pB0e4wr3F31zbPvPOCqwYypT1dcHrKg1uG_SdzWFwsOgtg_KhqFVTzA&usqp=CAU" group-title="ESTILO DE VIDA",AMC CRIME SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48458.ts
-#EXTINF:-1 tvg-name="|ES| Amc Break HD" tvg-id="AMC Break" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png" group-title="ESTILO DE VIDA",|ES| Amc Break HD
+#EXTINF:-1 tvg-name="Amc Break HD" tvg-id="AMC Break" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png" group-title="ESTILO DE VIDA",Amc Break HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113017.ts
-#EXTINF:-1 tvg-name="|ES| AMC BREAK" tvg-id="AMC Break" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/04/picon_amc_break_amarillo_transparente.png?fit=440%2C264&ssl=1" group-title="ESTILO DE VIDA",|ES| AMC BREAK
+#EXTINF:-1 tvg-name="AMC BREAK" tvg-id="AMC Break" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/04/picon_amc_break_amarillo_transparente.png?fit=440%2C264&ssl=1" group-title="ESTILO DE VIDA",AMC BREAK
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113018.ts
-#EXTINF:-1 tvg-name="|ES| DKISS" tvg-id="DKISS" tvg-logo="http://logo.solanaflix.com/images/logos/ea8965a16fc2667103961d8f646c5cfb.png" group-title="ESTILO DE VIDA",|ES| DKISS
+#EXTINF:-1 tvg-name="DKISS" tvg-id="DKISS" tvg-logo="http://logo.solanaflix.com/images/logos/ea8965a16fc2667103961d8f646c5cfb.png" group-title="ESTILO DE VIDA",DKISS
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48453.ts
-#EXTINF:-1 tvg-name="|ES| DECASA UHD (4K) - En pruebas" tvg-id="Decasa" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSQJ_KeF7LT3A8yL9zybbRe.png" group-title="ESTILO DE VIDA",|ES| DECASA UHD (4K) - En pruebas
+#EXTINF:-1 tvg-name="DECASA UHD (4K)" tvg-id="Decasa" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSQJ_KeF7LT3A8yL9zybbRe.png" group-title="ESTILO DE VIDA",DECASA UHD (4K)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113618.ts
-#EXTINF:-1 tvg-name="|ES| AMC LIVING FHD" tvg-id="AMC Living" tvg-logo="http://logo.solanaflix.com/images/logos/424a4384855f790861dfaabfcb49e83e.png" group-title="ESTILO DE VIDA",|ES| AMC LIVING FHD
+#EXTINF:-1 tvg-name="AMC LIVING FHD" tvg-id="AMC Living" tvg-logo="http://logo.solanaflix.com/images/logos/424a4384855f790861dfaabfcb49e83e.png" group-title="ESTILO DE VIDA",AMC LIVING FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48460.ts
-#EXTINF:-1 tvg-name="|ES| AMC LIVING" tvg-id="AMC Living" tvg-logo="http://logo.solanaflix.com/images/logos/424a4384855f790861dfaabfcb49e83e.png" group-title="ESTILO DE VIDA",|ES| AMC LIVING
+#EXTINF:-1 tvg-name="AMC LIVING" tvg-id="AMC Living" tvg-logo="http://logo.solanaflix.com/images/logos/424a4384855f790861dfaabfcb49e83e.png" group-title="ESTILO DE VIDA",AMC LIVING
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48459.ts
 #EXTINF:-1 tvg-name="CANAL COCINA 4K" tvg-id="Canal Cocina" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zNHCljyn_RfF5eC70iu4duryYxA9BnQ5AEVpZdxAuIVfw.png" group-title="ESTILO DE VIDA",CANAL COCINA 4K
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113616.ts
-#EXTINF:-1 tvg-name="|ES| CANAL COCINA FHD" tvg-id="Canal Cocina" tvg-logo="http://logo.solanaflix.com/images/logos/382879a07b1b6aca3b35d29128c90584.png" group-title="ESTILO DE VIDA",|ES| CANAL COCINA FHD
+#EXTINF:-1 tvg-name="CANAL COCINA FHD" tvg-id="Canal Cocina" tvg-logo="http://logo.solanaflix.com/images/logos/382879a07b1b6aca3b35d29128c90584.png" group-title="ESTILO DE VIDA",CANAL COCINA FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48462.ts
-#EXTINF:-1 tvg-name="|ES| CANAL COCINA" tvg-id="Canal Cocina" tvg-logo="http://logo.solanaflix.com/images/logos/382879a07b1b6aca3b35d29128c90584.png" group-title="ESTILO DE VIDA",|ES| CANAL COCINA
+#EXTINF:-1 tvg-name="CANAL COCINA" tvg-id="Canal Cocina" tvg-logo="http://logo.solanaflix.com/images/logos/382879a07b1b6aca3b35d29128c90584.png" group-title="ESTILO DE VIDA",CANAL COCINA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48461.ts
-#EXTINF:-1 tvg-name="|ES| MY ZEN UHD (4K) (Multi-Audio) - En pruebas" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRAYPDF99_ROR3RJpBh31TCiwQFxlfLxjoOLrqxH6S-qw.png" group-title="ESTILO DE VIDA",|ES| MY ZEN UHD (4K) (Multi-Audio) - En pruebas
+#EXTINF:-1 tvg-name="MY ZEN UHD 4K" tvg-id="My Zen" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRAYPDF99_ROR3RJpBh31TCiwQFxlfLxjoOLrqxH6S-qw.png" group-title="ESTILO DE VIDA",MY ZEN UHD 4K
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113619.ts
 #EXTINF:-1 tvg-name="|ES| Iberalia Original HD" tvg-id="Iberalia TV" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPijNfZipA57xGm8OLPTOzz.png" group-title="ESTILO DE VIDA",|ES| Iberalia Original HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113019.ts
-#EXTINF:-1 tvg-name="|ES| IBERALIA 100% CAZA HD" tvg-id="Iberalia caza" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=bcf041&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fiberaliacaza.png" group-title="ESTILO DE VIDA",|ES| IBERALIA 100% CAZA HD
+#EXTINF:-1 tvg-name="IBERALIA 100% CAZA HD" tvg-id="Iberalia caza" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=bcf041&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fiberaliacaza.png" group-title="ESTILO DE VIDA",IBERALIA 100% CAZA HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113020.ts
-#EXTINF:-1 tvg-name="|ES| IBERALIA 100% PESCA HD" tvg-id="Iberalia pesca" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=5fc201&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fiberaliapesca.png" group-title="ESTILO DE VIDA",|ES| IBERALIA 100% PESCA HD
+#EXTINF:-1 tvg-name="IBERALIA 100% PESCA HD" tvg-id="Iberalia pesca" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=5fc201&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fiberaliapesca.png" group-title="ESTILO DE VIDA",IBERALIA 100% PESCA HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113021.ts
 #EXTINF:-1 tvg-name="AMC WESTERN FHD" tvg-id="amc western" group-title="ESTILO DE VIDA",AMC WESTERN FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113024.ts
-#EXTINF:-1 tvg-name="|ES| ESCAPA TV FHD" tvg-id="Escapa TV" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/h/2/xescapatv.jpg.pagespeed.ic.6t2uVghNjg.jpg" group-title="ESTILO DE VIDA",|ES| ESCAPA TV FHD
+#EXTINF:-1 tvg-name="ESCAPA TV FHD" tvg-id="Escapa TV" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/h/2/xescapatv.jpg.pagespeed.ic.6t2uVghNjg.jpg" group-title="ESTILO DE VIDA",ESCAPA TV FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113026.ts
 #EXTINF:-1 tvg-name="|ES| LOVE THE PLANET FHD" tvg-id="Love The Planet" tvg-logo="https://noos.vip/logo/FR/lovetheplanet.png" group-title="ESTILO DE VIDA",|ES| LOVE THE PLANET FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/164821.ts
-#EXTINF:-1 tvg-name="|ES| ESCAPA TV FHD" tvg-id="Escapa TV" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/h/2/xescapatv.jpg.pagespeed.ic.6t2uVghNjg.jpg" group-title="ESTILO DE VIDA",|ES| ESCAPA TV FHD
+#EXTINF:-1 tvg-name="ESCAPA TV FHD" tvg-id="Escapa TV" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/h/2/xescapatv.jpg.pagespeed.ic.6t2uVghNjg.jpg" group-title="ESTILO DE VIDA",ESCAPA TV FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/164822.ts
 #EXTINF:-1 tvg-name="|ES| TASTEMADE FHD" group-title="ESTILO DE VIDA",|ES| TASTEMADE FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/164825.ts
@@ -527,11 +527,11 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/164825.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/164962.ts
 #EXTINF:-1 tvg-name="|ES| CRIMENES REALES FHD" tvg-logo="https://media.licdn.com/dms/image/v2/D4E22AQHOkL52xLLX7w/feedshare-shrink_800/B4EZPAaFl9H0Ak-/0/1734099884963?e=2147483647&v=beta&t=6Ekq9I7aOsqqJj7Ce11_DfIaVD2HV8wf1ScgFy1GFrU" group-title="ESTILO DE VIDA",|ES| CRIMENES REALES FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/445388.ts
-#EXTINF:-1 tvg-name="|ES| BBC LifeStyle FHD (ES)" tvg-id="BBC LifeStyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/BBC_Lifestyle2.svg tvg-country=ES" group-title="ESTILO DE VIDA",|ES| BBC LifeStyle FHD (ES)
+#EXTINF:-1 tvg-name="BBC LifeStyle FHD" tvg-id="BBC LifeStyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/BBC_Lifestyle2.svg tvg-country=ES" group-title="ESTILO DE VIDA",BBC LifeStyle FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461593.ts
-#EXTINF:-1 tvg-name="|ES| BBC LifeStyle SD (ES)" tvg-id="BBC LifeStyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/BBC_Lifestyle2.svg tvg-country=ES" group-title="ESTILO DE VIDA",|ES| BBC LifeStyle SD (ES)
+#EXTINF:-1 tvg-name="BBC LifeStyle SD" tvg-id="BBC LifeStyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/BBC_Lifestyle2.svg tvg-country=ES" group-title="ESTILO DE VIDA",BBC LifeStyle SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461592.ts
-#EXTINF:-1 tvg-name="|ES| M+ CERO FHD" tvg-id="M+ Cero" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/0_por_Movistar_Plus%2B_2022_logo.svg" group-title="ESTILO DE VIDA",|ES| M+ CERO FHD
+#EXTINF:-1 tvg-name="M+ CERO FHD" tvg-id="M+ Cero" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/0_por_Movistar_Plus%2B_2022_logo.svg" group-title="ESTILO DE VIDA",M+ CERO FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/462270.ts
 #EXTINF:-1 tvg-name="|ES| M+ LALIGA TV FHD (HEVC)" tvg-id="M+ LaLiga TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="FUTBOL",|ES| M+ LALIGA TV FHD (HEVC)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/112675.ts
@@ -1025,7 +1025,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48477.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48476.ts
 #EXTINF:-1 tvg-name="|ES| NICK JR" tvg-id="Nick JR" tvg-logo="http://logo.solanaflix.com/images/logos/4f03339017aa8caddffc93575f75f6d8.png" group-title="NIÑOS",|ES| NICK JR
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48478.ts
-#EXTINF:-1 tvg-name="|ES| vintv FHD" tvg-id="vinttv" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="NIÑOS",|ES| vintv FHD
+#EXTINF:-1 tvg-name="vintv FHD" tvg-id="vinttv" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="NIÑOS",vintv FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113016.ts
 #EXTINF:-1 tvg-name="vintv" tvg-id="vintv" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="NIÑOS",vintv
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113015.ts
