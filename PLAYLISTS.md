@@ -291,11 +291,11 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109250.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461595.ts
 #EXTINF:-1 tvg-name="BBC Earth SD" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="CULTURA",BBC Earth SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461594.ts
-#EXTINF:-1 tvg-name="HBO Max Avances FHD" tvg-id="HBO Max Avances HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/HBO_Max_Logo_RGB_Iridescent_White.webp" group-title="CULTURA",HBO Max Avances FHD
+#EXTINF:-1 tvg-name="HBO Max Avances FHD" tvg-id="HBO Max Avances HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg" group-title="CULTURA",HBO Max Avances FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440980.ts
-#EXTINF:-1 tvg-name="HBO Max Avances HD" tvg-id="HBO Max Avances HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/HBO_Max_Logo_RGB_Iridescent_White.webp" group-title="CULTURA",HBO Max Avances HD
+#EXTINF:-1 tvg-name="HBO Max Avances HD" tvg-id="HBO Max Avances HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg" group-title="CULTURA",HBO Max Avances HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440981.ts
-#EXTINF:-1 tvg-name="HBO Max Avances SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/HBO_Max_Logo_RGB_Iridescent_White.webp" group-title="CULTURA",HBO Max Avances SD
+#EXTINF:-1 tvg-name="HBO Max Avances SD" group-title="CULTURA",HBO Max Avances SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440982.ts
 #EXTINF:-1 tvg-name="BBC Series FHD" tvg-id="BBC Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BBC_Film.svg tvg-country=ES" group-title="CINE",BBC Series FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461591.ts
@@ -343,7 +343,13 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109249.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48428.ts
 #EXTINF:-1 tvg-name="M+ Hits" tvg-id="M+hits" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" group-title="CINE",M+ Hits
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48427.ts
-#EXTINF:-1 tvg-name="M+ Orgullo FHD" tvg-id="M+ Orgullo" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MMUSIC.png" group-title="CINE",M+ Orgullo FHD
+#EXTINF:-1 tvg-name="M+ vacaciones FHD" tvg-id="M+ vacaciones" tvg-logo="https://share.google/ibXaITZ7xselPcb4F" group-title="CINE",M+ vacaciones FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440983.ts
+#EXTINF:-1 tvg-name="M+ M+ vacaciones  HD" tvg-id="M+ M+ vacaciones" tvg-logo="https://share.google/ibXaITZ7xselPcb4F" group-title="CINE",M+ M+ vacaciones  HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440984.ts
+#EXTINF:-1 tvg-name="M+ M+ vacaciones  SD" tvg-id="M+ vacaciones" tvg-logo="https://share.google/a5956y058puwnlwMz" group-title="CINE",M+ M+ vacaciones  SD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440985.ts
+#EXTINF:-1 tvg-name="M+ Orgullo FHD" tvg-id="M+ Orgullo" tvg-logo="https://share.google/a5956y058puwnlwMz" group-title="CINE",M+ Orgullo FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/149908.ts
 #EXTINF:-1 tvg-name="M+ Orgullo HD" tvg-id="M+ Orgullo" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MMUSIC.png" group-title="CINE",M+ Orgullo HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/149909.ts
@@ -385,7 +391,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48439.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48442.ts
 #EXTINF:-1 tvg-name="AMC" tvg-id="AMC HD" tvg-logo="http://logo.solanaflix.com/images/logos/68271f533c2ea1941772cdb2982b152d.png" group-title="CINE",AMC
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48441.ts
-#EXTINF:-1 tvg-name="AMC SELEKT FHD" tvg-id="SELEKT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Selekt_hungary_logo.svg/revision/latest?cb=20241028184952" group-title="CINE",AMC SELEKT FHD
+#EXTINF:-1 tvg-name="AMC SELEKT FHD" tvg-id="SELEKT" tvg-logo="http://logo.solanaflix.com/images/logos/zDtAp_LLXHPRtEtzC_QvIcMe4Oh_LnhBAPkAlE_A38RaoohN4WbfdTlRt3xEJTUlSdNVDLsiHzAK4-kE_RX16s_Pw_YIDl2sV0wxbIb0NsD9LqTjV2XpFoY6fEpv64Wq.jpg" group-title="CINE",AMC SELEKT FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/150608.ts
 #EXTINF:-1 tvg-name="WARNER TV FHD" tvg-id="WARNER TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJkI6I_8vL_nPn6Yqnu6XNv_Drzt_pQJlz0AsBXjK__AnfFI4p-SxlZVYmHoTfr07yn_wUsWT-u49HpevRwfh9zA.png" group-title="CINE",WARNER TV FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48444.ts
@@ -427,12 +433,6 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/162122.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/162149.ts
 #EXTINF:-1 tvg-name="ACONTRA+" tvg-id="acontra+" tvg-logo="https://pbs.twimg.com/media/GMaO0_wXgAIgVEl?format=jpg&name=large" group-title="CINE",ACONTRA+
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/164965.ts
-#EXTINF:-1 tvg-name="M+ vacaciones FHD" tvg-id="M+ vacaciones" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ vacaciones FHD
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440983.ts
-#EXTINF:-1 tvg-name="M+ M+ vacaciones  HD" tvg-id="M+ M+ vacaciones" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ M+ vacaciones  HD
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440984.ts
-#EXTINF:-1 tvg-name="M+ M+ vacaciones  SD" tvg-id="M+ vacaciones" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ M+ vacaciones  SD
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440985.ts
 #EXTINF:-1 tvg-name="STAR" tvg-id="STAR Channel HD" tvg-logo="https://pics.filmaffinity.com/star-153397291560362-nm_200.jpg" group-title="CINE",STAR
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/445383.ts
 #EXTINF:-1 tvg-name="STAR HD" tvg-id="STAR Channel HD" tvg-logo="https://pics.filmaffinity.com/star-153397291560362-nm_200.jpg" group-title="CINE",STAR HD
