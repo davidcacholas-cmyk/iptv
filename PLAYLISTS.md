@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 #EXTINF:-1 tvg-name="LA 1 4k" tvg-id="La 1" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",LA 1 4k
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113615.ts
 #EXTINF:-1 tvg-name="LA 1 FHD" tvg-id="La 1" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",LA 1 FHD
@@ -297,9 +297,13 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440980.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440981.ts
 #EXTINF:-1 tvg-name="HBO Max Avances SD" group-title="CULTURA",HBO Max Avances SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440982.ts
-#EXTINF:-1 tvg-name="| BBC series FHD" tvg-id="BBC series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="CINE",| BBC series FHD
+#EXTINF:-1 tvg-name="BBC Series FHD" tvg-id="BBC Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BBC_Film.svg tvg-country=ES" group-title="CINE",BBC Series FHD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461591.ts
+#EXTINF:-1 tvg-name="BBC series FHD" tvg-id="BBC series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="CINE",BBC series FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444572.ts
-#EXTINF:-1 tvg-name="|ES| BBC series SD" tvg-id="BBC series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="CINE",|ES| BBC series SD
+#EXTINF:-1 tvg-name="BBC Series SD" tvg-id="BBC Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BBC_Film.svg tvg-country=ES" group-title="CINE",BBC Series SD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461590.ts
+#EXTINF:-1 tvg-name="BBC series SD" tvg-id="BBC series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="CINE",BBC series SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444571.ts
 #EXTINF:-1 tvg-name="|ES| M+ ORIGINALES FHD" tvg-id="M+ Originales HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MORIG.png" group-title="CINE",|ES| M+ ORIGINALES FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48398.ts
@@ -457,10 +461,6 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48417.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458495.ts
 #EXTINF:-1 tvg-name="VinTV SD" tvg-id="Vintv" group-title="CINE",VinTV SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458496.ts
-#EXTINF:-1 tvg-name="|ES| BBC Series FHD (ES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BBC_Film.svg tvg-country=ES" group-title="CINE",|ES| BBC Series FHD (ES)
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461591.ts
-#EXTINF:-1 tvg-name="|ES| BBC Series SD (ES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BBC_Film.svg tvg-country=ES" group-title="CINE",|ES| BBC Series SD (ES)
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461590.ts
 #EXTINF:-1 tvg-name="Canal FlixOlé 1 FHD" tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="CINE",Canal FlixOlé 1 FHD
 http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301540
 #EXTINF:-1 tvg-name="Canal FlixOlé 1HD" tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="CINE",Canal FlixOlé 1HD
