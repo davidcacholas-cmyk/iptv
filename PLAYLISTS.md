@@ -385,7 +385,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48439.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48442.ts
 #EXTINF:-1 tvg-name="AMC" tvg-id="AMC HD" tvg-logo="http://logo.solanaflix.com/images/logos/68271f533c2ea1941772cdb2982b152d.png" group-title="CINE",AMC
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48441.ts
-#EXTINF:-1 tvg-name="AMC SELEKT FHD" tvg-id="SELEKT" tvg-logo="http://logo.solanaflix.com/images/logos/zDtAp_LLXHPRtEtzC_QvIcMe4Oh_LnhBAPkAlE_A38RaoohN4WbfdTlRt3xEJTUlSdNVDLsiHzAK4-kE_RX16s_Pw_YIDl2sV0wxbIb0NsD9LqTjV2XpFoY6fEpv64Wq.jpg" group-title="CINE",AMC SELEKT FHD
+#EXTINF:-1 tvg-name="AMC SELEKT FHD" tvg-id="SELEKT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Selekt_hungary_logo.svg/revision/latest?cb=20241028184952" group-title="CINE",AMC SELEKT FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/150608.ts
 #EXTINF:-1 tvg-name="WARNER TV FHD" tvg-id="WARNER TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJkI6I_8vL_nPn6Yqnu6XNv_Drzt_pQJlz0AsBXjK__AnfFI4p-SxlZVYmHoTfr07yn_wUsWT-u49HpevRwfh9zA.png" group-title="CINE",WARNER TV FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48444.ts
@@ -1845,4 +1845,3 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461422.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461420.ts
-
