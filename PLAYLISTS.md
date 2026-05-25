@@ -29,7 +29,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48391.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48394.ts
 #EXTINF:-1 tvg-name="|ES| LA SEXTA" tvg-id="La Sexta HD" tvg-logo="http://logo.solanaflix.com/images/logos/97068a83d9ad701cff04ada6ede87b43.png" group-title="TDT",|ES| LA SEXTA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48393.ts
-#EXTINF:-1 tvg-name="SQUIRREL FHD" tvg-id="squirrel" group-title="TDT",SQUIRREL FHD
+#EXTINF:-1 tvg-name="squirrel FHD" tvg-id="squirrel" group-title="TDT",squirrel FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48470.ts
 #EXTINF:-1 tvg-name="squirrel 2 FHD" tvg-id="squirrel 2" tvg-logo="http://logo.solanaflix.com/images/logos/12a171a4c616f398c636128fefe9f620.png" group-title="TDT",squirrel 2 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48420.ts
