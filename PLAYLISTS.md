@@ -291,11 +291,11 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109250.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461595.ts
 #EXTINF:-1 tvg-name="BBC Earth SD" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="CULTURA",BBC Earth SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461594.ts
-#EXTINF:-1 tvg-name="HBO Max Avances FHD" tvg-id="HBO Max Avances HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg" group-title="CULTURA",HBO Max Avances FHD
+#EXTINF:-1 tvg-name="HBO Max Avances FHD" tvg-id="HBO Max Avances HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/HBO_Max_Logo_RGB_Iridescent_White.webp" group-title="CULTURA",HBO Max Avances FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440980.ts
-#EXTINF:-1 tvg-name="HBO Max Avances HD" tvg-id="HBO Max Avances HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg" group-title="CULTURA",HBO Max Avances HD
+#EXTINF:-1 tvg-name="HBO Max Avances HD" tvg-id="HBO Max Avances HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/HBO_Max_Logo_RGB_Iridescent_White.webp" group-title="CULTURA",HBO Max Avances HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440981.ts
-#EXTINF:-1 tvg-name="HBO Max Avances SD" group-title="CULTURA",HBO Max Avances SD
+#EXTINF:-1 tvg-name="HBO Max Avances SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/HBO_Max_Logo_RGB_Iridescent_White.webp" group-title="CULTURA",HBO Max Avances SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440982.ts
 #EXTINF:-1 tvg-name="BBC Series FHD" tvg-id="BBC Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BBC_Film.svg tvg-country=ES" group-title="CINE",BBC Series FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461591.ts
@@ -1845,3 +1845,4 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461422.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461420.ts
+
