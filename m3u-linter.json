@@ -283,12 +283,16 @@ http://454958.solanaflix.com/live/TV-57086384/554464003669/48543.ts
 http://454958.solanaflix.com/live/TV-57086384/554464003669/460097.ts
 #EXTINF:-1 tvg-name="|ES| Top Barca TV" tvg-id="Top Barça" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2024/10/image_O.jpeg" group-title="FUTBOL",|ES| Top Barca TV
 http://454958.solanaflix.com/live/TV-57086384/554464003669/460098.ts
-#EXTINF:-1 tvg-name="LALIGA TV BAR FHD" tvg-id="LALIGA TV BAR FHD" tvg-logo="https://noos.vip/logo/ES/laligatvbar.png" group-title="FUTBOL",LALIGA TV BAR FHD
+#EXTINF:-1 tvg-name="LALIGA TV BAR FHD" tvg-id="LALIGA TV BAR FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png" group-title="FUTBOL",LALIGA TV BAR FHD
 http://vpn.onair8k.xyz:80/37203d04a2/ff51bfc2aaf5/119011
-#EXTINF:-1 tvg-name="LALIGA TV BAR FHD" tvg-id="LALIGA TV BAR FHD" tvg-logo="https://noos.vip/logo/ES/laligatvbar.png" group-title="FUTBOL",LALIGA TV BAR FHD
+#EXTINF:-1 tvg-name="LALIGA TV BAR FHD" tvg-id="LALIGA TV BAR FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png" group-title="FUTBOL",LALIGA TV BAR FHD
 http://vpn.onair8k.xyz:80/efe6d273e2/de8305d29f/119011
-#EXTINF:-1 tvg-name="LALIGA TV BAR FHD" tvg-id="LALIGA TV BAR FHD" tvg-logo="https://noos.vip/logo/ES/laligatvbar.png" group-title="FUTBOL",LALIGA TV BAR FHD
+#EXTINF:-1 tvg-name="LALIGA TV BAR FHD" tvg-id="LALIGA TV BAR FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png" group-title="FUTBOL",LALIGA TV BAR FHD
 http://vpn.onair8k.xyz:80/6c59314e45/cab196dee8ed/119004
+#EXTINF:-1 tvg-name="LIGA BAR FHD" tvg-id="LIGA BAR" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png" group-title="FUTBOL",LIGA BAR FHD
+http://vpn.onair8k.xyz:80/37203d04a2/ff51bfc2aaf5/1510757
+#EXTINF:-1 tvg-name="LIGA BAR FHD" tvg-id="LIGA BAR" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png" group-title="FUTBOL",LIGA BAR FHD
+http://vpn.onair8k.xyz:80/37203d04a2/ff51bfc2aaf5/119011
 #EXTINF:-1 tvg-name="DAZN BUNDESLIGA 1 HD" tvg-id="DAZN Bundesliga" tvg-logo="http://evojumeke.teamcdn.in:80/images/6b28bd6746095b25d0dff923a06c3334.png" group-title="DAZN EVENTOS",DAZN BUNDESLIGA 1 HD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/439283.ts
 #EXTINF:-1 tvg-name="DAZN BUNDESLIGA 2 HD" tvg-id="DAZN Baloncesto 2" tvg-logo="http://evojumeke.teamcdn.in:80/images/6b28bd6746095b25d0dff923a06c3334.png" group-title="DAZN EVENTOS",DAZN BUNDESLIGA 2 HD
