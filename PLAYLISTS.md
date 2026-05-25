@@ -309,11 +309,11 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48397.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48400.ts
 #EXTINF:-1 tvg-name="|ES| M+ Estrenos" tvg-id="M+ ESTRENOS HD" tvg-logo="http://logo.solanaflix.com/images/logos/1455d278e2d60d507074e65cee44e58e.png" group-title="CINE",|ES| M+ Estrenos
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48399.ts
-#EXTINF:-1 tvg-name="|ES|  Movistar Plus+ FHD - HEVC" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="CINE",|ES|  Movistar Plus+ FHD - HEVC
+#EXTINF:-1 tvg-name="Movistar Plus+ FHD" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="CINE",Movistar Plus+ FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/102334.ts
-#EXTINF:-1 tvg-name="|ES| Movistar Plus+ HD" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="CINE",|ES| Movistar Plus+ HD
+#EXTINF:-1 tvg-name="Movistar Plus+ HD" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="CINE",Movistar Plus+ HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/102335.ts
-#EXTINF:-1 tvg-name="|ES| Movistar Plus+ SD" tvg-id="Movistar Plus+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="CINE",|ES| Movistar Plus+ SD
+#EXTINF:-1 tvg-name="Movistar Plus+ SD" tvg-id="Movistar Plus+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="CINE",Movistar Plus+ SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444570.ts
 #EXTINF:-1 tvg-name="|ES| M+ ACCION FHD" tvg-id="M+ Acción HD" tvg-logo="http://logo.solanaflix.com/images/logos/c4f6fdf24e4a5c55c4518342fa2d16f5.png" group-title="CINE",|ES| M+ ACCION FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48402.ts
@@ -1845,4 +1845,3 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461422.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461420.ts
-
