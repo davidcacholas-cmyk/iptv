@@ -255,47 +255,47 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461911.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461912.ts
 #EXTINF:-1 tvg-name="24 HORAS FHD" tvg-id="24h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="TDT",24 HORAS FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461913.ts
-#EXTINF:-1 tvg-name="BBC History FHD" tvg-id="BBC history" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="CULTURA",BBC History FHD
+#EXTINF:-1 tvg-name="BBC History FHD" tvg-id="BBC history" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="DOCUMENTALES",BBC History FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444578.ts
-#EXTINF:-1 tvg-name="BBC History SD" tvg-id="BBC History" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="CULTURA",BBC History SD
+#EXTINF:-1 tvg-name="BBC History SD" tvg-id="BBC History" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="DOCUMENTALES",BBC History SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444577.ts
-#EXTINF:-1 tvg-name="M+ DOCUMENTALES FHD" tvg-id="M+ Documentales HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg" group-title="CULTURA",M+ DOCUMENTALES FHD
+#EXTINF:-1 tvg-name="M+ DOCUMENTALES FHD" tvg-id="M+ Documentales HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg" group-title="DOCUMENTALES",M+ DOCUMENTALES FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/114289.ts
-#EXTINF:-1 tvg-name="HISTORIA FHD" tvg-id="Historia" tvg-logo="http://logo.solanaflix.com/images/logos/1e4e034406cd2444557b1986321d4be4.png" group-title="CULTURA",HISTORIA FHD
+#EXTINF:-1 tvg-name="HISTORIA FHD" tvg-id="Historia" tvg-logo="http://logo.solanaflix.com/images/logos/1e4e034406cd2444557b1986321d4be4.png" group-title="DOCUMENTALES",HISTORIA FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48480.ts
-#EXTINF:-1 tvg-name="HISTORIA" tvg-id="Historia" tvg-logo="http://logo.solanaflix.com/images/logos/1e4e034406cd2444557b1986321d4be4.png" group-title="CULTURA",HISTORIA
+#EXTINF:-1 tvg-name="HISTORIA" tvg-id="Historia" tvg-logo="http://logo.solanaflix.com/images/logos/1e4e034406cd2444557b1986321d4be4.png" group-title="DOCUMENTALES",HISTORIA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48479.ts
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL FHD" tvg-id="Discovery" tvg-logo="http://logo.solanaflix.com/images/logos/a4a3ecd7e4d08a420123ca06b36e3673.png" group-title="CULTURA",DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL FHD" tvg-id="Discovery" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20151004060950&path-prefix=es" group-title="DOCUMENTALES",DISCOVERY CHANNEL FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48481.ts
-#EXTINF:-1 tvg-name="ODISEA 4K" tvg-id="odisea" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zNhS1S-0cygRZetBq6Z6_C4.png" group-title="CULTURA",ODISEA 4K
+#EXTINF:-1 tvg-name="ODISEA 4K" tvg-id="odisea" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zNhS1S-0cygRZetBq6Z6_C4.png" group-title="DOCUMENTALES",ODISEA 4K
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113617.ts
-#EXTINF:-1 tvg-name="ODISEA FHD" tvg-id="Odisea" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zNhS1S-0cygRZetBq6Z6_C4.png" group-title="CULTURA",ODISEA FHD
+#EXTINF:-1 tvg-name="ODISEA FHD" tvg-id="Odisea" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zNhS1S-0cygRZetBq6Z6_C4.png" group-title="DOCUMENTALES",ODISEA FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110575.ts
-#EXTINF:-1 tvg-name="ODISEA" tvg-id="odisea" tvg-logo="http://logo.solanaflix.com/images/logos/52b70868846523bdd40fbee724601f08.png" group-title="CULTURA",ODISEA
+#EXTINF:-1 tvg-name="ODISEA" tvg-id="odisea" tvg-logo="http://logo.solanaflix.com/images/logos/52b70868846523bdd40fbee724601f08.png" group-title="DOCUMENTALES",ODISEA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48482.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-id="National Geographic HD" tvg-logo="http://logo.solanaflix.com/images/logos/c7b80593b3725b0fcca4f645f6430b7a.png" group-title="CULTURA",NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-id="National Geographic HD" tvg-logo="http://logo.solanaflix.com/images/logos/c7b80593b3725b0fcca4f645f6430b7a.png" group-title="DOCUMENTALES",NATIONAL GEOGRAPHIC FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48484.ts
-#EXTINF:-1 tvg-name="|ES| NATIONAL GEOGRAPHIC" tvg-id="National Geographic HD" tvg-logo="http://logo.solanaflix.com/images/logos/a94b5b322eaf66d0fc5018d10280ec57.png" group-title="CULTURA",|ES| NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-name="|ES| NATIONAL GEOGRAPHIC" tvg-id="National Geographic HD" tvg-logo="http://logo.solanaflix.com/images/logos/a94b5b322eaf66d0fc5018d10280ec57.png" group-title="DOCUMENTALES",|ES| NATIONAL GEOGRAPHIC
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48483.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAFIC WILD FHD" tvg-id="Nat geo WILD HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCmr8hEgRwbmp10Y-Nm7DmqVJ7n0J9drEbyyye-pH_rmQ.png" group-title="CULTURA",NATIONAL GEOGRAFIC WILD FHD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAFIC WILD FHD" tvg-id="Nat geo WILD HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCmr8hEgRwbmp10Y-Nm7DmqVJ7n0J9drEbyyye-pH_rmQ.png" group-title="DOCUMENTALES",NATIONAL GEOGRAFIC WILD FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48486.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAFIC WILD" tvg-id="Nat Geo Wild HD" tvg-logo="http://logo.solanaflix.com/images/logos/33c0eb9393902f872b58e16b0e6cb4b7.png" group-title="CULTURA",NATIONAL GEOGRAFIC WILD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAFIC WILD" tvg-id="Nat Geo Wild HD" tvg-logo="http://logo.solanaflix.com/images/logos/33c0eb9393902f872b58e16b0e6cb4b7.png" group-title="DOCUMENTALES",NATIONAL GEOGRAFIC WILD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48485.ts
-#EXTINF:-1 tvg-name="CAZA Y PESCA FHD" tvg-id="Caza y Pesca HD" tvg-logo="http://logo.solanaflix.com/images/logos/e09f3396e4422178ebb50a5820dfe5b4.png" group-title="CULTURA",CAZA Y PESCA FHD
+#EXTINF:-1 tvg-name="CAZA Y PESCA FHD" tvg-id="Caza y Pesca HD" tvg-logo="http://logo.solanaflix.com/images/logos/e09f3396e4422178ebb50a5820dfe5b4.png" group-title="DOCUMENTALES",CAZA Y PESCA FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48494.ts
-#EXTINF:-1 tvg-name="CAZA Y PESCA" tvg-id="Caza y Pesca HD" tvg-logo="http://logo.solanaflix.com/images/logos/d2bc2a6f29ffe9250fd8fc94f5b9774b.png" group-title="CULTURA",CAZA Y PESCA
+#EXTINF:-1 tvg-name="CAZA Y PESCA" tvg-id="Caza y Pesca HD" tvg-logo="http://logo.solanaflix.com/images/logos/d2bc2a6f29ffe9250fd8fc94f5b9774b.png" group-title="DOCUMENTALES",CAZA Y PESCA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48493.ts
-#EXTINF:-1 tvg-name="CAZAVISION" tvg-id="Cazavisión" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMpPgjitgmT16d0a9wn-SSyT-REjfH_gnj7cXqX3KpXwA.png" group-title="CULTURA",CAZAVISION
+#EXTINF:-1 tvg-name="CAZAVISION" tvg-id="Cazavisión" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMpPgjitgmT16d0a9wn-SSyT-REjfH_gnj7cXqX3KpXwA.png" group-title="DOCUMENTALES",CAZAVISION
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109250.ts
-#EXTINF:-1 tvg-name="BBC Earth FHD" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="CULTURA",BBC Earth FHD
+#EXTINF:-1 tvg-name="BBC Earth FHD" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="DOCUMENTALES",BBC Earth FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461595.ts
-#EXTINF:-1 tvg-name="BBC Earth SD" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="CULTURA",BBC Earth SD
+#EXTINF:-1 tvg-name="BBC Earth SD" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="DOCUMENTALES",BBC Earth SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461594.ts
-#EXTINF:-1 tvg-name="HBO Max Avances FHD" tvg-id="HBO Max Avances HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg" group-title="CULTURA",HBO Max Avances FHD
+#EXTINF:-1 tvg-name="HBO Max Avances FHD" tvg-id="HBO Max Avances HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg" group-title="DOCUMENTALES",HBO Max Avances FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440980.ts
-#EXTINF:-1 tvg-name="HBO Max Avances HD" tvg-id="HBO Max Avances HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg" group-title="CULTURA",HBO Max Avances HD
+#EXTINF:-1 tvg-name="HBO Max Avances HD" tvg-id="HBO Max Avances HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg" group-title="DOCUMENTALES",HBO Max Avances HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440981.ts
-#EXTINF:-1 tvg-name="HBO Max Avances SD" group-title="CULTURA",HBO Max Avances SD
+#EXTINF:-1 tvg-name="HBO Max Avances SD" group-title="DOCUMENTALES",HBO Max Avances SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440982.ts
 #EXTINF:-1 tvg-name="BBC Series FHD" tvg-id="BBC Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BBC_Film.svg tvg-country=ES" group-title="CINE",BBC Series FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461591.ts
