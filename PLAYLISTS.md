@@ -577,9 +577,9 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440974.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444569.ts
 #EXTINF:-1 tvg-name="|ES| M+ Copa Del Rey" tvg-logo="http://evojumeke.teamcdn.in:80/images/KvSFqnVxJemSa_1q-FmLCH1H_yvdeZ80qHxg5wzpUwgkp5-YD_cYGDtRAATy7HArRd_IThK4OfL11vHq3bBnJQ.png" group-title="FUTBOL",|ES| M+ Copa Del Rey
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440975.ts
-#EXTINF:-1 tvg-name="LALIGA TV BAR FHD" tvg-id="LaLiga TV BAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="FUTBOL",LALIGA TV BAR FHD
+#EXTINF:-1 tvg-name="LALIGA TV BAR FHD" tvg-id="LaLiga TV BAR" tvg-logo="https://share.google/YZ1bEOaHpeT12bbTv" group-title="FUTBOL",LALIGA TV BAR FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/101681.ts
-#EXTINF:-1 tvg-name="LALIGA TV BAR FHD" tvg-id="LaLiga TV BAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="FUTBOL",LALIGA TV BAR FHD
+#EXTINF:-1 tvg-name="LALIGA TV BAR FHD" tvg-id="LaLiga TV BAR" tvg-logo="https://share.google/YZ1bEOaHpeT12bbTv" group-title="FUTBOL",LALIGA TV BAR FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/101682.ts
 #EXTINF:-1 tvg-name="|ES| SKY SPORTS LALIGA FHD" tvg-logo="http://trastras.eu:2083/images/dCqmAAGSAeGukxXbersiICJ6QtHtAt4CuGSzuXw5LsjA4c9ZgYAxFmtUy4ZZXsK-JynuRNCWmJjMwEviIh7NB_qouw2Y_3qrk-7E6Wn46eOMhZQo9C1Vr9lvLuhAkb_8_XyuklSPCTdiALsGelvRkQ.jpg" group-title="FUTBOL",|ES| SKY SPORTS LALIGA FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/445398.ts
@@ -1845,5 +1845,6 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461422.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/461420.ts
+
 
 
