@@ -495,11 +495,11 @@ http://454958.solanaflix.com/live/TV-57086384/554464003669/48397.ts
 http://454958.solanaflix.com/live/TV-57086384/554464003669/48400.ts
 #EXTINF:-1 tvg-name="|ES| M+ Estrenos" tvg-id="M+ ESTRENOS HD" tvg-logo="http://logo.solanaflix.com/images/logos/1455d278e2d60d507074e65cee44e58e.png" group-title="CINE",|ES| M+ Estrenos
 http://454958.solanaflix.com/live/TV-57086384/554464003669/48399.ts
-#EXTINF:-1 tvg-name="|ES|  Movistar Plus+ FHD - HEVC" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="CINE",|ES|  Movistar Plus+ FHD - HEVC
+#EXTINF:-1 tvg-name="Movistar Plus+ FHD" tvg-id="Movistar Plus+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="CINE",Movistar Plus+ FHD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/102334.ts
-#EXTINF:-1 tvg-name="|ES| Movistar Plus+ HD" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="CINE",|ES| Movistar Plus+ HD
+#EXTINF:-1 tvg-name="Movistar Plus+ HD" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="CINE",Movistar Plus+ HD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/102335.ts
-#EXTINF:-1 tvg-name="|ES| Movistar Plus+ SD" tvg-id="Movistar Plus+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="CINE",|ES| Movistar Plus+ SD
+#EXTINF:-1 tvg-name="Movistar Plus+ SD" tvg-id="Movistar Plus+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="CINE",Movistar Plus+ SD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/444570.ts
 #EXTINF:-1 tvg-name="|ES| M+ ACCION FHD" tvg-id="M+ Acción HD" tvg-logo="http://logo.solanaflix.com/images/logos/c4f6fdf24e4a5c55c4518342fa2d16f5.png" group-title="CINE",|ES| M+ ACCION FHD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/48402.ts
@@ -525,9 +525,9 @@ http://454958.solanaflix.com/live/TV-57086384/554464003669/109249.ts
 http://454958.solanaflix.com/live/TV-57086384/554464003669/48428.ts
 #EXTINF:-1 tvg-name="|ES| M+ Hits" tvg-id="M+ Series HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" group-title="CINE",|ES| M+ Hits
 http://454958.solanaflix.com/live/TV-57086384/554464003669/48427.ts
-#EXTINF:-1 tvg-name="|ES| M+ Musicales FHD" tvg-id="M+ Terror" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MMUSIC.png" group-title="CINE",|ES| M+ Musicales FHD
+#EXTINF:-1 tvg-name="m+ Orgullo FHD" tvg-id="m+ Orgullo" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MMUSIC.png" group-title="CINE",m+ Orgullo FHD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/149908.ts
-#EXTINF:-1 tvg-name="|ES| M+ Musicales HD" tvg-id="M+ Terror" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MMUSIC.png" group-title="CINE",|ES| M+ Musicales HD
+#EXTINF:-1 tvg-name="m+ Orgullo HD" tvg-id="m+ Orgullo" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MMUSIC.png" group-title="CINE",m+ Orgullo HD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/149909.ts
 #EXTINF:-1 tvg-name="|ES| HOLLYWOOD FHD" tvg-id="Canal Hollywood HD" tvg-logo="http://logo.solanaflix.com/images/logos/08f97a2cf9e4533df2046db62aa85fee.png" group-title="CINE",|ES| HOLLYWOOD FHD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/48411.ts
@@ -609,11 +609,11 @@ http://454958.solanaflix.com/live/TV-57086384/554464003669/162122.ts
 http://454958.solanaflix.com/live/TV-57086384/554464003669/162149.ts
 #EXTINF:-1 tvg-name="|ES| ACONTRA+" tvg-id="acontra+" tvg-logo="https://pbs.twimg.com/media/GMaO0_wXgAIgVEl?format=jpg&name=large" group-title="CINE",|ES| ACONTRA+
 http://454958.solanaflix.com/live/TV-57086384/554464003669/164965.ts
-#EXTINF:-1 tvg-name="M+ Lo 2000 HD" tvg-id="m+ los 2000" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ Lo 2000 HD
+#EXTINF:-1 tvg-name="M+ vacaciones HD" tvg-id="M+ vacaciones" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ vacaciones HD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/440983.ts
-#EXTINF:-1 tvg-name="M+ Los 2000 HD" tvg-id="m+ los 2000" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ Los 2000 HD
+#EXTINF:-1 tvg-name="M+ vacaciones HD" tvg-id="M+ vacaciones" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ vacaciones HD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/440984.ts
-#EXTINF:-1 tvg-name="M+ Los 2000 SD" tvg-id="m+ los 2000" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ Los 2000 SD
+#EXTINF:-1 tvg-name="M+ vacaciones SD" tvg-id="M+ vacaciones" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="CINE",M+ vacaciones SD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/440985.ts
 #EXTINF:-1 tvg-name="|ES| HBO Max Avances HD (1080P)" tvg-id="HBO Max avances" tvg-logo="https://f-de-film.com/wp-content/uploads/2024/09/maxavances_logo_mp.jpg?w=1280&h=720&crop=1" group-title="CINE",|ES| HBO Max Avances HD (1080P)
 http://454958.solanaflix.com/live/TV-57086384/554464003669/440980.ts
@@ -2197,4 +2197,3 @@ http://454958.solanaflix.com/live/TV-57086384/554464003669/461422.ts
 http://454958.solanaflix.com/live/TV-57086384/554464003669/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://454958.solanaflix.com/live/TV-57086384/554464003669/461420.ts
-
