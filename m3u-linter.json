@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DAZN MUNDIAL HD" tvg-id="DAZN MUNDIAL HD" tvg-logo="http://aptvpix.net/pubs/2022/dazn1.png" group-title="🏆MUNDIAL⚽",DAZN MUNDIAL HD
+http://aplivetv.net:80/580831981059763/1593574628/38804
+#EXTINF:-1 tvg-name="DAZN MUNDIAL" tvg-id="DAZN MUNDIAL" tvg-logo="http://aptvpix.net/pubs/2022/dazn1.png" group-title="🏆MUNDIAL⚽",DAZN MUNDIAL
+http://aplivetv.net:80/580831981059763/1593574628/38805
+#EXTINF:-1 tvg-name="DAZN MUNDIAL [SAT]" tvg-id="DAZN MUNDIAL" tvg-logo="http://aptvpix.net/pubs/2022/dazn1.png" group-title="🏆MUNDIAL⚽",DAZN MUNDIAL [SAT]
+http://aplivetv.net:80/580831981059763/1593574628/58570
+#EXTINF:-1 tvg-name="DAZN MUNDIAL 2" tvg-id="DAZN MUNDIAL 2" tvg-logo="http://aptvpix.net/pubs/2022/daznlaliga.png" group-title="🏆MUNDIAL⚽",DAZN MUNDIAL 2
+http://aptvpix.net/pubs/2022/daznlaliga.png
+#EXTINF:-1 tvg-name="DAZN MUNDIAL 3" tvg-id="DAZN MUNDIAL 3" tvg-logo="http://aptvpix.net/pubs/2022/daznlaliga.png" group-title="🏆MUNDIAL⚽",DAZN MUNDIAL 3
+http://aplivetv.net:80/580831981059763/1593574628/134660
+#EXTINF:-1 tvg-name="DAZN MUNDIAL 4" tvg-id="DAZN MUNDIAL 4" tvg-logo="http://aptvpix.net/pubs/2022/daznlaliga.png" group-title="🏆MUNDIAL⚽",DAZN MUNDIAL 4
+http://aplivetv.net:80/580831981059763/1593574628/134661
 #EXTINF:-1 tvg-name="PPV 01 | BOXING | Usyk v Rico | Sat 23rd May 4:00PM UK/11:00AM ET" group-title="DEPORTES",PPV 01 | BOXING | Usyk v Rico | Sat 23rd May 4:00PM UK/11:00AM ET
 http://454958.solanaflix.com/live/TV-57086384/554464003669/462272.ts
 #EXTINF:-1 tvg-name="|ES| DAZN MOTOGP FHD" tvg-id="DAZN MotoGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Moto_Gp_logo.svg" group-title="DEPORTES",|ES| DAZN MOTOGP FHD
@@ -2205,3 +2217,4 @@ http://454958.solanaflix.com/live/TV-57086384/554464003669/461422.ts
 http://454958.solanaflix.com/live/TV-57086384/554464003669/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://454958.solanaflix.com/live/TV-57086384/554464003669/461420.ts
+
