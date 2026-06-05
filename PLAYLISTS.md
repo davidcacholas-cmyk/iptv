@@ -699,17 +699,17 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48504.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48565.ts
 #EXTINF:-1 tvg-name="|ES| M+ LALIGA TV 3" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="🏆 FÚTBOL ⚽",|ES| M+ LALIGA TV 3
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48506.ts
-#EXTINF:-1 tvg-name="|ES| DAZN LALIGA FHD (HEVC)" tvg-id="DAZN LaLiga HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="🏆 FÚTBOL ⚽",|ES| DAZN LALIGA FHD (HEVC)
+#EXTINF:-1 tvg-name="|ES| DAZN LALIGA FHD (HEVC)" tvg-id="DAZN LaLiga HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/2026_FIFA_World_Cup_%28Alternate%29.svg/revision/latest/scale-to-width-down/250?cb=20250205003122" group-title="🏆 FÚTBOL ⚽",|ES| DAZN LALIGA FHD (HEVC)
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109316.ts
-#EXTINF:-1 tvg-name="|ES| DAZN LALIGA FHD" tvg-id="DAZN LaLiga HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="🏆 FÚTBOL ⚽",|ES| DAZN LALIGA FHD
+#EXTINF:-1 tvg-name="|ES| DAZN LALIGA FHD" tvg-id="DAZN LaLiga HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/2026_FIFA_World_Cup_%28Alternate%29.svg/revision/latest/scale-to-width-down/250?cb=20250205003122" group-title="🏆 FÚTBOL ⚽",|ES| DAZN LALIGA FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109317.ts
-#EXTINF:-1 tvg-name="|ES| DAZN LALIGA" tvg-id="DAZN LaLiga HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="🏆 FÚTBOL ⚽",|ES| DAZN LALIGA
+#EXTINF:-1 tvg-name="|ES| DAZN LALIGA" tvg-id="DAZN LaLiga HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/2026_FIFA_World_Cup_%28Alternate%29.svg/revision/latest/scale-to-width-down/250?cb=20250205003122" group-title="🏆 FÚTBOL ⚽",|ES| DAZN LALIGA
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109319.ts
-#EXTINF:-1 tvg-name="|ES| DAZN LALIGA 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="🏆 FÚTBOL ⚽",|ES| DAZN LALIGA 2 HD
+#EXTINF:-1 tvg-name="|ES| DAZN LALIGA 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/2026_FIFA_World_Cup_%28Alternate%29.svg/revision/latest/scale-to-width-down/250?cb=20250205003122" group-title="🏆 FÚTBOL ⚽",|ES| DAZN LALIGA 2 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109320.ts
-#EXTINF:-1 tvg-name="|ES| DAZN LALIGA 2 FHD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="🏆 FÚTBOL ⚽",|ES| DAZN LALIGA 2 FHD
+#EXTINF:-1 tvg-name="|ES| DAZN LALIGA 2 FHD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/2026_FIFA_World_Cup_%28Alternate%29.svg/revision/latest/scale-to-width-down/250?cb=20250205003122" group-title="🏆 FÚTBOL ⚽",|ES| DAZN LALIGA 2 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109321.ts
-#EXTINF:-1 tvg-name="|ES| DAZN LALIGA 2 SD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="🏆 FÚTBOL ⚽",|ES| DAZN LALIGA 2 SD
+#EXTINF:-1 tvg-name="|ES| DAZN LALIGA 2 SD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/2026_FIFA_World_Cup_%28Alternate%29.svg/revision/latest/scale-to-width-down/250?cb=20250205003122" group-title="🏆 FÚTBOL ⚽",|ES| DAZN LALIGA 2 SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/109323.ts
 #EXTINF:-1 tvg-name="DAZN LaLiga 3 HD" group-title="🏆 FÚTBOL ⚽",DAZN LaLiga 3 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458479.ts
