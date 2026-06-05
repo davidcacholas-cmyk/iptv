@@ -127,10 +127,14 @@ http://454958.solanaflix.com/live/TV-57086384/554464003669/458472.ts
 http://454958.solanaflix.com/live/TV-57086384/554464003669/458473.ts
 #EXTINF:-1 tvg-name="|ES| Tennis Channel HD" tvg-id="Tennis Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1024px-Tennis_Channel_logo.svg.png" group-title="DEPORTES",|ES| Tennis Channel HD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/460096.ts
+#EXTINF:-1 tvg-name="🏆MUNDIAL FHD🏆" tvg-id="DAZN LaLiga HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/2026_FIFA_World_Cup_%28Alternate%29.svg/revision/latest/scale-to-width-down/250?cb=20250205003122" group-title="FUTBOL",🏆MUNDIAL FHD🏆
+http://454958.solanaflix.com/live/TV-57086384/554464003669/109316.ts
+#EXTINF:-1 tvg-name="🏆MUNDIAL FHD 🏆" tvg-id="DAZN LaLiga HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/2026_FIFA_World_Cup_%28Alternate%29.svg/revision/latest/scale-to-width-down/250?cb=20250205003122" group-title="FUTBOL",🏆MUNDIAL FHD 🏆
+http://454958.solanaflix.com/live/TV-57086384/554464003669/109317.ts
+#EXTINF:-1 tvg-name="🏆 MUNDIAL HD🏆" tvg-id="DAZN LaLiga HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/2026_FIFA_World_Cup_%28Alternate%29.svg/revision/latest/scale-to-width-down/250?cb=20250205003122" group-title="FUTBOL",🏆 MUNDIAL HD🏆
+http://454958.solanaflix.com/live/TV-57086384/554464003669/109319.ts
 #EXTINF:-1 tvg-name="1️⃣_LALIGA TV BAR FHD [VPN]" tvg-id="LALIGA TV BAR" tvg-logo="https://go4.pw/SPAIN/LALIGATVBAR.png" group-title="FUTBOL",1️⃣_LALIGA TV BAR FHD [VPN]
 http://nomadstv.club:8080/Fidan/pu7a83tKT9Efu3/238270
-#EXTINF:-1 tvg-name="2️⃣_LALIGA TV BAR FHD [VPN]" tvg-id="LALIGA TV BAR" tvg-logo="https://go4.pw/SPAIN/LALIGATVBAR.png" group-title="FUTBOL",2️⃣_LALIGA TV BAR FHD [VPN]
-http://nomadstv.club:8080/Fidan/pu7a83tKT9Efu3/238271
 #EXTINF:-1 tvg-name="3️⃣_LALIGA TV BAR FHD [VPN]" tvg-id="LALIGA TV BAR FHD" tvg-logo="https://go4.pw/SPAIN/LALIGATVBAR.png" group-title="FUTBOL",3️⃣_LALIGA TV BAR FHD [VPN]
 http://vpn.onair8k.xyz:80/6c59314e45/cab196dee8ed/119004
 #EXTINF:-1 tvg-name="4️⃣_LALIGA TV BAR FHD  [VPN]" tvg-id="LALIGA BAR" tvg-logo="https://go4.pw/SPAIN/LALIGATVBAR.png" group-title="FUTBOL",4️⃣_LALIGA TV BAR FHD  [VPN]
@@ -155,12 +159,6 @@ http://454958.solanaflix.com/live/TV-57086384/554464003669/48504.ts
 http://454958.solanaflix.com/live/TV-57086384/554464003669/48565.ts
 #EXTINF:-1 tvg-name="|ES| M+ LALIGA TV 3" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="FUTBOL",|ES| M+ LALIGA TV 3
 http://454958.solanaflix.com/live/TV-57086384/554464003669/48506.ts
-#EXTINF:-1 tvg-name="|ES| DAZN LALIGA FHD (HEVC)" tvg-id="DAZN LaLiga HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="FUTBOL",|ES| DAZN LALIGA FHD (HEVC)
-http://454958.solanaflix.com/live/TV-57086384/554464003669/109316.ts
-#EXTINF:-1 tvg-name="|ES| DAZN LALIGA FHD" tvg-id="DAZN LaLiga HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="FUTBOL",|ES| DAZN LALIGA FHD
-http://454958.solanaflix.com/live/TV-57086384/554464003669/109317.ts
-#EXTINF:-1 tvg-name="|ES| DAZN LALIGA" tvg-id="DAZN LaLiga HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="FUTBOL",|ES| DAZN LALIGA
-http://454958.solanaflix.com/live/TV-57086384/554464003669/109319.ts
 #EXTINF:-1 tvg-name="|ES| DAZN LALIGA 2 HD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="FUTBOL",|ES| DAZN LALIGA 2 HD
 http://454958.solanaflix.com/live/TV-57086384/554464003669/109320.ts
 #EXTINF:-1 tvg-name="|ES| DAZN LALIGA 2 FHD" tvg-id="DAZN LaLiga 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="FUTBOL",|ES| DAZN LALIGA 2 FHD
@@ -2217,3 +2215,4 @@ http://454958.solanaflix.com/live/TV-57086384/554464003669/461422.ts
 http://454958.solanaflix.com/live/TV-57086384/554464003669/461421.ts
 #EXTINF:-1 tvg-name="DAZN ACB 6 (en pruebas)" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="LIGA ACB",DAZN ACB 6 (en pruebas)
 http://454958.solanaflix.com/live/TV-57086384/554464003669/461420.ts
+
