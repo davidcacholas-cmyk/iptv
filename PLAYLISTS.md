@@ -462,15 +462,17 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458495.ts
 #EXTINF:-1 tvg-name="VinTV SD" tvg-id="Vintv" group-title="CINE",VinTV SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458496.ts
 #EXTINF:-1 tvg-name="Canal FlixOlé 1 FHD" tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="CINE",Canal FlixOlé 1 FHD
-http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301540
+http://best.newgifts.org:8080/VictorOrdoniez/u6UEFZ7uw4YsKq/301540
 #EXTINF:-1 tvg-name="Canal FlixOlé 1HD" tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="CINE",Canal FlixOlé 1HD
-http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301539
+http://best.newgifts.org:8080/VictorOrdoniez/u6UEFZ7uw4YsKq/301539
 #EXTINF:-1 tvg-name="Canal FlixOlé 1SD" tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="CINE",Canal FlixOlé 1SD
-http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301538
+http://best.newgifts.org:8080/VictorOrdoniez/u6UEFZ7uw4YsKq/301538
 #EXTINF:-1 tvg-name="Canal FlixOlé 2 FHD" tvg-id="Canal FlixOlé 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX2" group-title="CINE",Canal FlixOlé 2 FHD
-http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301541
+http://best.newgifts.org:8080/VictorOrdoniez/u6UEFZ7uw4YsKq/301541
 #EXTINF:-1 tvg-name="Canal FlixOlé 2 HD" tvg-id="Canal FlixOlé 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX2" group-title="CINE",Canal FlixOlé 2 HD
-http://cms.todascosas.xyz:8080/MariaSamsung/avVEprwh3NzRKa/301542
+http://best.newgifts.org:8080/VictorOrdoniez/u6UEFZ7uw4YsKq/301542
+#EXTINF:-1 tvg-name="CANAL FLIXOLé 2 SD" tvg-id="CANAL FLIXOLé 2 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX2" group-title="CINE",CANAL FLIXOLé 2 SD
+http://best.newgifts.org:8080/VictorOrdoniez/u6UEFZ7uw4YsKq/301543
 #EXTINF:-1 tvg-name="BBC TopGear FHD" tvg-id="BBC Top Gear" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="ESTILO DE VIDA",BBC TopGear FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444574.ts
 #EXTINF:-1 tvg-name="BBC TopGear SD" tvg-id="BBC Top Gear" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="ESTILO DE VIDA",BBC TopGear SD
@@ -1875,5 +1877,3 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/462286.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/462287.ts
 #EXTINF:-1 tvg-name="DAZN MUNDIAL 4 FHD ORANGE" tvg-id="DAZN MUNDIAL 4 FHD ORANGE" tvg-logo="https://pongbang.dongswipe.net:443/images/KvSFqnVxJemSa_1q-FmLCH1H_yvdeZ80qHxg5wzpUwgkp5-YD_cYGDtRAATy7HArwXA8izuKz37MH2UdfIjSQw.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 4 FHD ORANGE
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/462288.ts
-
-
