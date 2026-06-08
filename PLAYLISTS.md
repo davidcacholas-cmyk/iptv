@@ -463,9 +463,9 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458495.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458496.ts
 #EXTINF:-1 tvg-name="Canal FlixOlé 1 FHD" tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="CINE",Canal FlixOlé 1 FHD
 http://best.newgifts.org:8080/VictorOrdoniez/u6UEFZ7uw4YsKq/301540
-#EXTINF:-1 tvg-name="Canal FlixOlé 1HD" tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="CINE",Canal FlixOlé 1HD
+#EXTINF:-1 tvg-name="Canal FlixOlé 1 HD" tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="CINE",Canal FlixOlé 1 HD
 http://best.newgifts.org:8080/VictorOrdoniez/u6UEFZ7uw4YsKq/301539
-#EXTINF:-1 tvg-name="Canal FlixOlé 1SD" tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="CINE",Canal FlixOlé 1SD
+#EXTINF:-1 tvg-name="Canal FlixOlé 1 SD" tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="CINE",Canal FlixOlé 1 SD
 http://best.newgifts.org:8080/VictorOrdoniez/u6UEFZ7uw4YsKq/301538
 #EXTINF:-1 tvg-name="Canal FlixOlé 2 FHD" tvg-id="Canal FlixOlé 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX2" group-title="CINE",Canal FlixOlé 2 FHD
 http://best.newgifts.org:8080/VictorOrdoniez/u6UEFZ7uw4YsKq/301541
