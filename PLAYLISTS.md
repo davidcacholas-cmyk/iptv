@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LA 1 FHD" tvg-id="La 1 4k" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",LA 1 FHD
+#EXTINF:-1 tvg-name="LA 1 4k" tvg-id="La 1" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",LA 1 4k
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113615.ts
-#EXTINF:-1 tvg-name="LA 1 FHD" tvg-id="La 1 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",LA 1 FHD
+#EXTINF:-1 tvg-name="LA 1 FHD" tvg-id="La 1" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",LA 1 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48384.ts
-#EXTINF:-1 tvg-name="LA 1 HD" tvg-id="La 1 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",LA 1 HD
+#EXTINF:-1 tvg-name="LA 1 HD" tvg-id="La 1" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",LA 1 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48383.ts
 #EXTINF:-1 tvg-name="LA 2 FHD" tvg-id="La 2" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" group-title="TDT",LA 2 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48386.ts
 #EXTINF:-1 tvg-name="LA 2 HD" tvg-id="La 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" group-title="TDT",LA 2 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48385.ts
-#EXTINF:-1 tvg-name="TVG HD" tvg-id="tvg" group-title="TDT",TVG HD
+#EXTINF:-1 tvg-name="TVG HD" tvg-id="tvg" tvg-logo="http://gimnasiosimon.es/wp-content/uploads/2019/10/31821af840d2a81965fb73e689627174.png" group-title="TDT",TVG HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110576.ts
-#EXTINF:-1 tvg-name="TVG 2 HD" tvg-id="TVG2" tvg-logo="https://share.google/bCq6TJltMOlIVuukA" group-title="TDT",TVG 2 HD
+#EXTINF:-1 tvg-name="TVG 2 HD" tvg-id="TVG2" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/3/3d/TvG2_Logo.png/revision/latest?cb=20220523162839" group-title="TDT",TVG 2 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110577.ts
 #EXTINF:-1 tvg-name="ANTENA 3 FHD" tvg-id="Antena 3 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM-GXO-ob4ITnzDuXwG9gS1YBFlSrR-rBcriPrxCNL5Nw.png" group-title="TDT",ANTENA 3 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48388.ts
