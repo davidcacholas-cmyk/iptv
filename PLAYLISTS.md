@@ -441,26 +441,26 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/445381.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/445382.ts
 #EXTINF:-1 tvg-name="M+ INDIE FHD" tvg-id="M+ Indie HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MINDI.png" group-title="CINE",M+ INDIE FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/114290.ts
-#EXTINF:-1 tvg-name="M+ INDIE HD" tvg-id="M+ Indie HD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54BOT9Yxnj_on14iz0kYLD-lxl_pXaADSuNzwp42zr5-c.png" group-title="CINE",M+ INDIE HD
+#EXTINF:-1 tvg-name="M+ INDIE HD" tvg-id="M+ Indie HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MINDI.png" group-title="CINE",M+ INDIE HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458461.ts
-#EXTINF:-1 tvg-name="M+ INDIE SD" tvg-id="M+ Indie HD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54BOT9Yxnj_on14iz0kYLD-lxl_pXaADSuNzwp42zr5-c.png" group-title="CINE",M+ INDIE SD
+#EXTINF:-1 tvg-name="M+ INDIE SD" tvg-id="M+ Indie HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MINDI.png" group-title="CINE",M+ INDIE SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458462.ts
-#EXTINF:-1 tvg-name="M+ SKYSHOWTIME FHD" tvg-id="SkyShowtime" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="CINE",M+ SKYSHOWTIME FHD
+#EXTINF:-1 tvg-name="SKYSHOWTIME FHD" tvg-id="SkyShowtime" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="CINE",SKYSHOWTIME FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/438083.ts
-#EXTINF:-1 tvg-name="M+ SHOWTIME 1 HD" tvg-id="SkyShowtime 1" tvg-logo="http://trastras.eu:2083/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WxcPAFcVAw5AIRtM2cYalgg.png" group-title="CINE",M+ SHOWTIME 1 HD
+#EXTINF:-1 tvg-name="SkyShowtime1 HD" tvg-id="SkyShowtime" tvg-logo="https://static.wikia.nocookie.net/memoryalpha/images/2/2d/SkyShowtime_logo.png/revision/latest?cb=20230918084231&path-prefix=en" group-title="CINE",SkyShowtime1 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458463.ts
-#EXTINF:-1 tvg-name="M+ SHOWTIME 1 SD" tvg-id="SkyShowtime 1" tvg-logo="http://trastras.eu:2083/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WxcPAFcVAw5AIRtM2cYalgg.png" group-title="CINE",M+ SHOWTIME 1 SD
+#EXTINF:-1 tvg-name="SkyShowtime 1 SD" tvg-id="SkyShowtime" tvg-logo="https://static.wikia.nocookie.net/memoryalpha/images/2/2d/SkyShowtime_logo.png/revision/latest?cb=20230918084231&path-prefix=en" group-title="CINE",SkyShowtime 1 SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458464.ts
 #EXTINF:-1 tvg-name="XTRM FHD" tvg-id="XTRM" tvg-logo="http://logo.solanaflix.com/images/logos/760584d13f0c6712c5b7df4dc65c075e.png" group-title="CINE",XTRM FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48418.ts
-#EXTINF:-1 tvg-name="XTRM HD" tvg-id="XTRM" tvg-logo="http://trastras.eu:2083/images/m5v_sIz8iBRSOUxf3E8w9MoWBRNIvETIqEhl9irioQ2RKNkZqZLuVrUbBf-xTT8MCD0BlFpsJngvY0MzUwYRuw.png" group-title="CINE",XTRM HD
+#EXTINF:-1 tvg-name="XTRM HD" tvg-id="XTRM" tvg-logo="http://logo.solanaflix.com/images/logos/760584d13f0c6712c5b7df4dc65c075e.png" group-title="CINE",XTRM HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458465.ts
 #EXTINF:-1 tvg-name="XTREM" tvg-id="XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="CINE",XTREM
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48417.ts
-#EXTINF:-1 tvg-name="VinTV FHD" tvg-id="Vintv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_VinTV.png" group-title="CINE",VinTV FHD
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458495.ts
-#EXTINF:-1 tvg-name="vintv HD" tvg-id="vinttv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_VinTV.png" group-title="CINE",vintv HD
+#EXTINF:-1 tvg-name="vintv FHD" tvg-id="vinttv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_VinTV.png" group-title="CINE",vintv FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113016.ts
+#EXTINF:-1 tvg-name="VinTV HD" tvg-id="Vintv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_VinTV.png" group-title="CINE",VinTV HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458495.ts
 #EXTINF:-1 tvg-name="VinTV HD" tvg-id="Vintv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_VinTV.png" group-title="CINE",VinTV HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458496.ts
 #EXTINF:-1 tvg-name="VinTV SD" tvg-id="vintv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_VinTV.png" group-title="CINE",VinTV SD
