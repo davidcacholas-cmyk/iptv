@@ -457,10 +457,14 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48418.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458465.ts
 #EXTINF:-1 tvg-name="XTREM" tvg-id="XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="CINE",XTREM
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48417.ts
-#EXTINF:-1 tvg-name="VinTV HD" tvg-id="Vintv" group-title="CINE",VinTV HD
+#EXTINF:-1 tvg-name="VinTV FHD" tvg-id="Vintv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_VinTV.png" group-title="CINE",VinTV FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458495.ts
-#EXTINF:-1 tvg-name="VinTV SD" tvg-id="Vintv" group-title="CINE",VinTV SD
+#EXTINF:-1 tvg-name="vintv HD" tvg-id="vinttv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_VinTV.png" group-title="CINE",vintv HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113016.ts
+#EXTINF:-1 tvg-name="VinTV HD" tvg-id="Vintv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_VinTV.png" group-title="CINE",VinTV HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/458496.ts
+#EXTINF:-1 tvg-name="VinTV SD" tvg-id="vintv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_VinTV.png" group-title="CINE",VinTV SD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113015.ts
 #EXTINF:-1 tvg-name="Canal FlixOlé 1 FHD" tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="CINE",Canal FlixOlé 1 FHD
 http://best.newgifts.org:8080/VictorOrdoniez/u6UEFZ7uw4YsKq/301540
 #EXTINF:-1 tvg-name="Canal FlixOlé 1 HD" tvg-id="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="CINE",Canal FlixOlé 1 HD
@@ -473,10 +477,6 @@ http://best.newgifts.org:8080/VictorOrdoniez/u6UEFZ7uw4YsKq/301541
 http://best.newgifts.org:8080/VictorOrdoniez/u6UEFZ7uw4YsKq/301542
 #EXTINF:-1 tvg-name="CANAL FLIXOLé 2 SD" tvg-id="CANAL FLIXOLé 2 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX2" group-title="CINE",CANAL FLIXOLé 2 SD
 http://best.newgifts.org:8080/VictorOrdoniez/u6UEFZ7uw4YsKq/301543
-#EXTINF:-1 tvg-name="vintv HD" tvg-id="vinttv" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="CINE",vintv HD
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113016.ts
-#EXTINF:-1 tvg-name="vintv SD" tvg-id="vintv" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="CINE",vintv SD
-http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113015.ts
 #EXTINF:-1 tvg-name="BBC TopGear FHD" tvg-id="BBC Top Gear" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="ESTILO DE VIDA",BBC TopGear FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444574.ts
 #EXTINF:-1 tvg-name="BBC TopGear SD" tvg-id="BBC Top Gear" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="ESTILO DE VIDA",BBC TopGear SD
