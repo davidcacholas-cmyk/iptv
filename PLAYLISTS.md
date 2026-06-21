@@ -313,11 +313,11 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48397.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48400.ts
 #EXTINF:-1 tvg-name="M+ Estrenos" tvg-id="M+ ESTRENOS HD" tvg-logo="http://logo.solanaflix.com/images/logos/1455d278e2d60d507074e65cee44e58e.png" group-title="CINE",M+ Estrenos
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48399.ts
-#EXTINF:-1 tvg-name="Movistar Plus+ FHD" tvg-id="Movistar Plus" tvg-logo="https://jungle-team.com/nuevos-logos-picon-novedades-movistar/movistar_plus_blanco/" group-title="CINE",Movistar Plus+ FHD
+#EXTINF:-1 tvg-name="Movistar Plus+ FHD" tvg-id="Movistar Plus+" tvg-logo="https://jungle-team.com/nuevos-logos-picon-novedades-movistar/movistar_plus_blanco/" group-title="CINE",Movistar Plus+ FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/102334.ts
-#EXTINF:-1 tvg-name="Movistar Plus+ HD" tvg-id="Movistar Plus" tvg-logo="https://jungle-team.com/nuevos-logos-picon-novedades-movistar/movistar_plus_blanco/" group-title="CINE",Movistar Plus+ HD
+#EXTINF:-1 tvg-name="Movistar Plus+ HD" tvg-id="Movistar Plus+" tvg-logo="https://jungle-team.com/nuevos-logos-picon-novedades-movistar/movistar_plus_blanco/" group-title="CINE",Movistar Plus+ HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/102335.ts
-#EXTINF:-1 tvg-name="Movistar Plus+ SD" tvg-id="Movistar Plus" tvg-logo="https://jungle-team.com/nuevos-logos-picon-novedades-movistar/movistar_plus_blanco/" group-title="CINE",Movistar Plus+ SD
+#EXTINF:-1 tvg-name="Movistar Plus+ SD" tvg-id="Movistar Plus+" tvg-logo="https://jungle-team.com/nuevos-logos-picon-novedades-movistar/movistar_plus_blanco/" group-title="CINE",Movistar Plus+ SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444570.ts
 #EXTINF:-1 tvg-name="M+ ACCIÓN FHD" tvg-id="M+ Acción HD" tvg-logo="http://logo.solanaflix.com/images/logos/c4f6fdf24e4a5c55c4518342fa2d16f5.png" group-title="CINE",M+ ACCIÓN FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48402.ts
@@ -1877,3 +1877,4 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/462286.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/462287.ts
 #EXTINF:-1 tvg-name="DAZN MUNDIAL 4 FHD ORANGE" tvg-id="DAZN MUNDIAL 4 FHD ORANGE" tvg-logo="https://pongbang.dongswipe.net:443/images/KvSFqnVxJemSa_1q-FmLCH1H_yvdeZ80qHxg5wzpUwgkp5-YD_cYGDtRAATy7HArwXA8izuKz37MH2UdfIjSQw.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 4 FHD ORANGE
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/462288.ts
+
