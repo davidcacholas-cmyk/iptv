@@ -1883,3 +1883,348 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/462287.ts
 #EXTINF:-1 tvg-name="DAZN MUNDIAL 4 FHD ORANGE" tvg-id="DAZN MUNDIAL 4 FHD ORANGE" tvg-logo="https://pongbang.dongswipe.net:443/images/KvSFqnVxJemSa_1q-FmLCH1H_yvdeZ80qHxg5wzpUwgkp5-YD_cYGDtRAATy7HArwXA8izuKz37MH2UdfIjSQw.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 4 FHD ORANGE
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/462288.ts
 
+#EXTM3U
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 1 ᴜʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 1 ᴜʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444776.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 2 ᴜʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 2 ᴜʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444777.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 3 ᴜʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 3 ᴜʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444778.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 4 ᴜʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 4 ᴜʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444779.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 5 ᴜʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 5 ᴜʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444780.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 6 ᴜʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 6 ᴜʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444781.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 7 ᴜʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 7 ᴜʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444782.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 8 ᴜʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 8 ᴜʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444783.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 9 ᴜʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 9 ᴜʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444784.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 10 ᴜʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 10 ᴜʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444785.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 1 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 1 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444786.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 2 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 2 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444787.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 3 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 3 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444788.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 4 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 4 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444789.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 5 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 5 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444790.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 6 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 6 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444791.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 7 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 7 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444792.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 8 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 8 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444793.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 9 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 9 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444794.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 10 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 10 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444795.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 11 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 11 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444796.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 12 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 12 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444797.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 13 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 13 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444798.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 14 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 14 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444799.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 15 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 15 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444800.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 16 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 16 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444801.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 17 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 17 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444802.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 18 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 18 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444803.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 19 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 19 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444804.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 20 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 20 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444805.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 21 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 21 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444806.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 22 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 22 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444807.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 23 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 23 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444808.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 24 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 24 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444809.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 25 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 25 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444810.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 26 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 26 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444811.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 27 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 27 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444812.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 28 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 28 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444813.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 29 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 29 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444814.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 30 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 30 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444815.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 31 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 31 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444816.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 32 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 32 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444817.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 33 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 33 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444818.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 34 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 34 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444819.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 35 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 35 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444820.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 36 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 36 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444821.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 37 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 37 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444822.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 38 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 38 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444823.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 39 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 39 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444824.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 40 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 40 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444825.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 41 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 41 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444826.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 42 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 42 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444827.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 43 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 43 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444828.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 44 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 44 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444829.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 45 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 45 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444830.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 46 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 46 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444831.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 47 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 47 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444832.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 48 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 48 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444833.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 49 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 49 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444834.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 50 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 50 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444835.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 51 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 51 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444836.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 52 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 52 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444837.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 53 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 53 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444838.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 54 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 54 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444839.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 55 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 55 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444840.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 56 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 56 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444841.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 57 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 57 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444842.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 58 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 58 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444843.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 59 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 59 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444844.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 60 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 60 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444845.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 61 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 61 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444846.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 62 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 62 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444847.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 63 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 63 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444848.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 64 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 64 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444849.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 65 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 65 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444850.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 66 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 66 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444851.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 67 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 67 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444852.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 68 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 68 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444853.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 69 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 69 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444854.ts
+#EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 70 ғʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 70 ғʜᴅ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444855.ts
+#EXTINF:-1 tvg-name="|ADULT| Pure Babes TV" group-title="ADULTS",|ADULT| Pure Babes TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/98993.ts
+#EXTINF:-1 tvg-name="|ADULT| Naughty TV" group-title="ADULTS",|ADULT| Naughty TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/98994.ts
+#EXTINF:-1 tvg-name="|ADULT| Legal TV" group-title="ADULTS",|ADULT| Legal TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/98995.ts
+#EXTINF:-1 tvg-name="|ADULT| Hustler HD" group-title="ADULTS",|ADULT| Hustler HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99003.ts
+#EXTINF:-1 tvg-name="|ADULT| Redlight HD" group-title="ADULTS",|ADULT| Redlight HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99004.ts
+#EXTINF:-1 tvg-name="|ADULT| Prıvate TV HD" group-title="ADULTS",|ADULT| Prıvate TV HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99005.ts
+#EXTINF:-1 tvg-name="|ADULT| Dorcel HD" group-title="ADULTS",|ADULT| Dorcel HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99006.ts
+#EXTINF:-1 tvg-name="|ADULT| Dorcel XXX HD" group-title="ADULTS",|ADULT| Dorcel XXX HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99007.ts
+#EXTINF:-1 tvg-name="|ADULT| Vivid Red HD" group-title="ADULTS",|ADULT| Vivid Red HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99008.ts
+#EXTINF:-1 tvg-name="|ADULT| Erox HD" group-title="ADULTS",|ADULT| Erox HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99009.ts
+#EXTINF:-1 tvg-name="|ADULT| Erox XXX HD" group-title="ADULTS",|ADULT| Erox XXX HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99010.ts
+#EXTINF:-1 tvg-name="|ADULT| Penthouse Gold HD" group-title="ADULTS",|ADULT| Penthouse Gold HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99011.ts
+#EXTINF:-1 tvg-name="|ADULT| Penthouse Quickies HD" group-title="ADULTS",|ADULT| Penthouse Quickies HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99012.ts
+#EXTINF:-1 tvg-name="|ADULT| Super One HD" group-title="ADULTS",|ADULT| Super One HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99013.ts
+#EXTINF:-1 tvg-name="|ADULT| Babes TV HD" group-title="ADULTS",|ADULT| Babes TV HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99014.ts
+#EXTINF:-1 tvg-name="|ADULT| XY Plus HD" group-title="ADULTS",|ADULT| XY Plus HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99015.ts
+#EXTINF:-1 tvg-name="|ADULT| XY Max HD" group-title="ADULTS",|ADULT| XY Max HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99016.ts
+#EXTINF:-1 tvg-name="|ADULT| XY Mix HD" group-title="ADULTS",|ADULT| XY Mix HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99017.ts
+#EXTINF:-1 tvg-name="|ADULT| Vivid TV Europe" group-title="ADULTS",|ADULT| Vivid TV Europe
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99018.ts
+#EXTINF:-1 tvg-name="|ADULT| Vivid TV Europe CZ" group-title="ADULTS",|ADULT| Vivid TV Europe CZ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99019.ts
+#EXTINF:-1 tvg-name="|ADULT| DUSK!" group-title="ADULTS",|ADULT| DUSK!
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99020.ts
+#EXTINF:-1 tvg-name="|ADULT| Hustler TV" group-title="ADULTS",|ADULT| Hustler TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99021.ts
+#EXTINF:-1 tvg-name="|ADULT| XXL" group-title="ADULTS",|ADULT| XXL
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99022.ts
+#EXTINF:-1 tvg-name="|ADULT| Passie XXX" group-title="ADULTS",|ADULT| Passie XXX
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99023.ts
+#EXTINF:-1 tvg-name="|ADULT| Passion XXX" group-title="ADULTS",|ADULT| Passion XXX
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99024.ts
+#EXTINF:-1 tvg-name="|ADULT| Reality Kings TV" group-title="ADULTS",|ADULT| Reality Kings TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99025.ts
+#EXTINF:-1 tvg-name="|ADULT| BraZZers TV" group-title="ADULTS",|ADULT| BraZZers TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99026.ts
+#EXTINF:-1 tvg-name="|ADULT| Brazzers TV Europe" group-title="ADULTS",|ADULT| Brazzers TV Europe
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99027.ts
+#EXTINF:-1 tvg-name="|ADULT| Brazzers TV Europe Russia" group-title="ADULTS",|ADULT| Brazzers TV Europe Russia
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99028.ts
+#EXTINF:-1 tvg-name="|ADULT| Sexy HOT" group-title="ADULTS",|ADULT| Sexy HOT
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99029.ts
+#EXTINF:-1 tvg-name="|ADULT| Meiden Van Holland Hard" group-title="ADULTS",|ADULT| Meiden Van Holland Hard
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99030.ts
+#EXTINF:-1 tvg-name="|ADULT| Evil Angel" group-title="ADULTS",|ADULT| Evil Angel
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99031.ts
+#EXTINF:-1 tvg-name="|ADULT| Pink Erotic" group-title="ADULTS",|ADULT| Pink Erotic
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99032.ts
+#EXTINF:-1 tvg-name="|ADULT| Pink Erotic 2" group-title="ADULTS",|ADULT| Pink Erotic 2
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99033.ts
+#EXTINF:-1 tvg-name="|ADULT| Pink Erotic 3" group-title="ADULTS",|ADULT| Pink Erotic 3
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99034.ts
+#EXTINF:-1 tvg-name="|ADULT| Pink Erotic 4" group-title="ADULTS",|ADULT| Pink Erotic 4
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99035.ts
+#EXTINF:-1 tvg-name="|ADULT| Pink Erotic 5" group-title="ADULTS",|ADULT| Pink Erotic 5
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99036.ts
+#EXTINF:-1 tvg-name="|ADULT| Pink Erotic 6" group-title="ADULTS",|ADULT| Pink Erotic 6
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99037.ts
+#EXTINF:-1 tvg-name="|ADULT| Pink Erotic 7" group-title="ADULTS",|ADULT| Pink Erotic 7
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99038.ts
+#EXTINF:-1 tvg-name="|ADULT| Pink Erotic 8" group-title="ADULTS",|ADULT| Pink Erotic 8
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99039.ts
+#EXTINF:-1 tvg-name="|ADULT| Шалун TV" group-title="ADULTS",|ADULT| Шалун TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99040.ts
+#EXTINF:-1 tvg-name="|ADULT| Playboy" group-title="ADULTS",|ADULT| Playboy
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99041.ts
+#EXTINF:-1 tvg-name="|ADULT| Playboy TV" group-title="ADULTS",|ADULT| Playboy TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99042.ts
+#EXTINF:-1 tvg-name="|ADULT| Playboy Europe HD" group-title="ADULTS",|ADULT| Playboy Europe HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99043.ts
+#EXTINF:-1 tvg-name="|ADULT| Playboy Europe" group-title="ADULTS",|ADULT| Playboy Europe
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99044.ts
+#EXTINF:-1 tvg-name="|ADULT| Blue Hustler HD" group-title="ADULTS",|ADULT| Blue Hustler HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99045.ts
+#EXTINF:-1 tvg-name="|ADULT| Blue Hustler" group-title="ADULTS",|ADULT| Blue Hustler
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99046.ts
+#EXTINF:-1 tvg-name="|ADULT| Blue Hustler Europe" group-title="ADULTS",|ADULT| Blue Hustler Europe
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99047.ts
+#EXTINF:-1 tvg-name="|ADULT| Russian Night" group-title="ADULTS",|ADULT| Russian Night
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99048.ts
+#EXTINF:-1 tvg-name="|ADULT| Russian Night Europe" group-title="ADULTS",|ADULT| Russian Night Europe
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99049.ts
+#EXTINF:-1 tvg-name="|ADULT| Barely Legal TV" group-title="ADULTS",|ADULT| Barely Legal TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99050.ts
+#EXTINF:-1 tvg-name="|ADULT| Nuart TV" group-title="ADULTS",|ADULT| Nuart TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99051.ts
+#EXTINF:-1 tvg-name="|ADULT| Nuart TV Europe" group-title="ADULTS",|ADULT| Nuart TV Europe
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99052.ts
+#EXTINF:-1 tvg-name="|ADULT| O la la TV" group-title="ADULTS",|ADULT| O la la TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99053.ts
+#EXTINF:-1 tvg-name="|ADULT| French Lover TV" group-title="ADULTS",|ADULT| French Lover TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99054.ts
+#EXTINF:-1 tvg-name="|ADULT| Secret Circle TV" group-title="ADULTS",|ADULT| Secret Circle TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99055.ts
+#EXTINF:-1 tvg-name="|ADULT| Exxxotica TV" group-title="ADULTS",|ADULT| Exxxotica TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99056.ts
+#EXTINF:-1 tvg-name="|ADULT| Sex Prive" group-title="ADULTS",|ADULT| Sex Prive
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99057.ts
+#EXTINF:-1 tvg-name="|ADULT| Man2Man" group-title="ADULTS",|ADULT| Man2Man
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99058.ts
+#EXTINF:-1 tvg-name="|ADULT| Jasmin TV" group-title="ADULTS",|ADULT| Jasmin TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99059.ts
+#EXTINF:-1 tvg-name="|ADULT| A3 Bikini TV" group-title="ADULTS",|ADULT| A3 Bikini TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99060.ts
+#EXTINF:-1 tvg-name="|ADULT| Bang U" group-title="ADULTS",|ADULT| Bang U
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99061.ts
+#EXTINF:-1 tvg-name="|ADULT| Bang U Europe" group-title="ADULTS",|ADULT| Bang U Europe
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99062.ts
+#EXTINF:-1 tvg-name="|ADULT| Vivid Touch" group-title="ADULTS",|ADULT| Vivid Touch
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99063.ts
+#EXTINF:-1 tvg-name="|ADULT| Penthouse Passion" group-title="ADULTS",|ADULT| Penthouse Passion
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99064.ts
+#EXTINF:-1 tvg-name="|ADULT| Oldtimer" group-title="ADULTS",|ADULT| Oldtimer
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99065.ts
+#EXTINF:-1 tvg-name="|ADULT| Bangerz" group-title="ADULTS",|ADULT| Bangerz
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99066.ts
+#EXTINF:-1 tvg-name="|ADULT| Net XX" group-title="ADULTS",|ADULT| Net XX
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99067.ts
+#EXTINF:-1 tvg-name="|ADULT| Playhouse" group-title="ADULTS",|ADULT| Playhouse
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99068.ts
+#EXTINF:-1 tvg-name="|ADULT| Hot Pleasure" group-title="ADULTS",|ADULT| Hot Pleasure
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99069.ts
+#EXTINF:-1 tvg-name="|ADULT| Milf TV" group-title="ADULTS",|ADULT| Milf TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99070.ts
+#EXTINF:-1 tvg-name="|ADULT| Red XXX" group-title="ADULTS",|ADULT| Red XXX
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99071.ts
+#EXTINF:-1 tvg-name="|ADULT| Extreme" group-title="ADULTS",|ADULT| Extreme
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99072.ts
+#EXTINF:-1 tvg-name="|ADULT| Lesbian Affair" group-title="ADULTS",|ADULT| Lesbian Affair
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99073.ts
+#EXTINF:-1 tvg-name="|ADULT| Emanuelle" group-title="ADULTS",|ADULT| Emanuelle
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99074.ts
+#EXTINF:-1 tvg-name="|ADULT| SEX ATION" group-title="ADULTS",|ADULT| SEX ATION
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99075.ts
+#EXTINF:-1 tvg-name="|ADULT| Hot XXL HD" group-title="ADULTS",|ADULT| Hot XXL HD
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99076.ts
+#EXTINF:-1 tvg-name="|ADULT| Pinko Club" group-title="ADULTS",|ADULT| Pinko Club
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99078.ts
+#EXTINF:-1 tvg-name="|ADULT| Cent & Cento" group-title="ADULTS",|ADULT| Cent & Cento
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99080.ts
+#EXTINF:-1 tvg-name="|ADULT| Free X TV HQ" group-title="ADULTS",|ADULT| Free X TV HQ
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99081.ts
+#EXTINF:-1 tvg-name="|ADULT| Free X TV 2" group-title="ADULTS",|ADULT| Free X TV 2
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99083.ts
+#EXTINF:-1 tvg-name="|ADULT| X-Dream TV" group-title="ADULTS",|ADULT| X-Dream TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99084.ts
+#EXTINF:-1 tvg-name="|ADULT| Balkan Erotic" group-title="ADULTS",|ADULT| Balkan Erotic
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99086.ts
+#EXTINF:-1 tvg-name="|ADULT| Beate-Uhse.TV" group-title="ADULTS",|ADULT| Beate-Uhse.TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99088.ts
+#EXTINF:-1 tvg-name="|ADULT| Fast Boyz" group-title="ADULTS",|ADULT| Fast Boyz
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99091.ts
+#EXTINF:-1 tvg-name="|ADULT| X-MO" group-title="ADULTS",|ADULT| X-MO
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99092.ts
+#EXTINF:-1 tvg-name="|ADULT| Private TV" group-title="ADULTS",|ADULT| Private TV
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99093.ts
+#EXTINF:-1 tvg-name="|ADULT| Erox" group-title="ADULTS",|ADULT| Erox
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99094.ts
+#EXTINF:-1 tvg-name="|ADULT| X1" group-title="ADULTS",|ADULT| X1
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99096.ts
+#EXTINF:-1 tvg-name="|ADULT| X Bizarre" group-title="ADULTS",|ADULT| X Bizarre
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99097.ts
+#EXTINF:-1 tvg-name="|ADULT| X Desire" group-title="ADULTS",|ADULT| X Desire
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99098.ts
+#EXTINF:-1 tvg-name="|ADULT| X Bunga Bunga" group-title="ADULTS",|ADULT| X Bunga Bunga
+http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99099.ts
