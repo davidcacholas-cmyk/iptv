@@ -1,19 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="LA 1 4k" tvg-id="La 1" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",LA 1 4k
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/113615.ts
-
 #EXTINF:-1 tvg-name="LA 1 FHD" tvg-id="La 1" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",LA 1 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48384.ts
-
 #EXTINF:-1 tvg-name="LA 1 HD" tvg-id="La 1" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="TDT",LA 1 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48383.ts
-
 #EXTINF:-1 tvg-name="LA 2 FHD" tvg-id="La 2" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" group-title="TDT",LA 2 FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48386.ts
-
 #EXTINF:-1 tvg-name="LA 2 HD" tvg-id="La 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" group-title="TDT",LA 2 HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48385.ts
-
 #EXTINF:-1 tvg-name="TVG HD" tvg-id="tvg" tvg-logo="http://gimnasiosimon.es/wp-content/uploads/2019/10/31821af840d2a81965fb73e689627174.png" group-title="TDT",TVG HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/110576.ts
 #EXTINF:-1 tvg-name="TVG 2 HD" tvg-id="TVG2" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/3/3d/TvG2_Logo.png/revision/latest?cb=20220523162839" group-title="TDT",TVG 2 HD
@@ -350,7 +345,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48428.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48427.ts
 #EXTINF:-1 tvg-name="M+ vacaciones FHD" tvg-id="M+ vacaciones" tvg-logo="https://share.google/ibXaITZ7xselPcb4F" group-title="CINE",M+ vacaciones FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440983.ts
-#EXTINF:-1 tvg-name="M+ M+ vacaciones  HD" tvg-id="M+ M+ vacaciones" tvg-logo="https://share.google/ibXaITZ7xselPcb4F" group-title="CINE",M+ M+ vacaciones  HD
+#EXTINF:-1 tvg-name="M+ vacaciones HD" tvg-id="M+ M+ vacaciones" tvg-logo="https://share.google/ibXaITZ7xselPcb4F" group-title="CINE",M+ vacaciones HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440984.ts
 #EXTINF:-1 tvg-name="M+ M+ vacaciones  SD" tvg-id="M+ vacaciones" tvg-logo="https://share.google/a5956y058puwnlwMz" group-title="CINE",M+ M+ vacaciones  SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440985.ts
@@ -358,7 +353,7 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440985.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/149908.ts
 #EXTINF:-1 tvg-name="M+ Orgullo HD" tvg-id="M+ Orgullo" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MMUSIC.png" group-title="CINE",M+ Orgullo HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/149909.ts
-#EXTINF:-1 tvg-name="HOLLYWOOD FHD" tvg-id="Canal Hollywood HD" tvg-logo="http://logo.solanaflix.com/images/logos/08f97a2cf9e4533df2046db62aa85fee.png" group-title="CINE",HOLLYWOOD FHD
+#EXTINF:-1 tvg-name="HOLLYWOOD FHD" tvg-id="Canal Hollywood" tvg-logo="http://logo.solanaflix.com/images/logos/08f97a2cf9e4533df2046db62aa85fee.png" group-title="CINE",HOLLYWOOD FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48411.ts
 #EXTINF:-1 tvg-name="HOLLYWOOD HD" tvg-id="Canal Hollywood" tvg-logo="http://logo.solanaflix.com/images/logos/09a27e8761f96269efec9453d18dc660.png" group-title="CINE",HOLLYWOOD HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48410.ts
@@ -1882,8 +1877,6 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/462286.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/462287.ts
 #EXTINF:-1 tvg-name="DAZN MUNDIAL 4 FHD ORANGE" tvg-id="DAZN MUNDIAL 4 FHD ORANGE" tvg-logo="https://pongbang.dongswipe.net:443/images/KvSFqnVxJemSa_1q-FmLCH1H_yvdeZ80qHxg5wzpUwgkp5-YD_cYGDtRAATy7HArwXA8izuKz37MH2UdfIjSQw.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 4 FHD ORANGE
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/462288.ts
-
-#EXTM3U
 #EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 1 ᴜʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 1 ᴜʜᴅ
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444776.ts
 #EXTINF:-1 tvg-name="+18 • XRestreamTv Adult 2 ᴜʜᴅ" group-title="ADULTS",+18 • XRestreamTv Adult 2 ᴜʜᴅ
@@ -2228,159 +2221,4 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99097.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99098.ts
 #EXTINF:-1 tvg-name="|ADULT| X Bunga Bunga" group-title="ADULTS",|ADULT| X Bunga Bunga
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99099.ts
-#EXTM3U
-#EXTINF:-1 tvg-name="Kontrabida Academy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiW2ff73RZzPABKtnjW5wmt43CU.jpg" group-title="ESPAÑA - Comedia",Kontrabida Academy
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/461715.mkv
-#EXTINF:-1 tvg-name="Buenas noticias" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycg2ecutF2aD17N9AeiOG7zrSkI.jpg" group-title="ESPAÑA - Comedia",Buenas noticias
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/461722.mp4
-#EXTINF:-1 tvg-name="Ogni maledetto Fantacalcio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3T9jjdLjnhMzuFvmWImlVKiIrv.jpg" group-title="ESPAÑA - Comedia",Ogni maledetto Fantacalcio
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/461683.mp4
-#EXTINF:-1 tvg-name="Madea's Destination Wedding" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg" group-title="ESPAÑA - Comedia",Madea's Destination Wedding
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/461695.mp4
-#EXTINF:-1 tvg-name="Vale la pena, de Dani Rovira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zXHrZ1wuOM4QRrEwzmYPQfZsUF.jpg" group-title="ESPAÑA - Comedia",Vale la pena, de Dani Rovira
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/461693.mp4
-#EXTINF:-1 tvg-name="KPop Demon Hunters" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjlRXTpRLAIiuofNqKcqrpUfPCZ.jpg" group-title="ESPAÑA - Comedia",KPop Demon Hunters
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/461704.mp4
-#EXTINF:-1 tvg-name="Bride Hard" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVli4kL16OFYPWvn5yTnZusX4l0.jpg" group-title="ESPAÑA - Comedia",Bride Hard
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/461707.mp4
-#EXTINF:-1 tvg-name="Deep Cover" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vXTHTbSQJs9r2hp4Uk08XzKwPp.jpg" group-title="ESPAÑA - Comedia",Deep Cover
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/461640.mp4
-#EXTINF:-1 tvg-name="Viaje de fin de curso: Mallorca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejYX4ygRoupGRjFgmmtnK0sMxhN.jpg" group-title="ESPAÑA - Comedia",Viaje de fin de curso: Mallorca
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/461636.mp4
-#EXTINF:-1 tvg-name="The Phoenician Scheme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg" group-title="ESPAÑA - Comedia",The Phoenician Scheme
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/461642.mp4
-#EXTINF:-1 tvg-name="Banger" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2pegSby27ebOwW361GJb1aKcxa.jpg" group-title="ESPAÑA - Comedia",Banger
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/461659.mp4
-#EXTINF:-1 tvg-name="E poi si vede" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2F7BgMdsovQOuckShdK5i0WRjRe.jpg" group-title="ESPAÑA - Comedia",E poi si vede
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/461664.mp4
-#EXTINF:-1 tvg-name="Los aitas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7gNjaRCkwgd3d6OpC4cRpkolh7.jpg" group-title="ESPAÑA - Comedia",Los aitas
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/461661.mp4
-#EXTINF:-1 tvg-name="Uma Advogada Brilhante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1O1GV6UhiWW7uRG8m92VApsi96V.jpg" group-title="ESPAÑA - Comedia",Uma Advogada Brilhante
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/461667.mp4
-#EXTINF:-1 tvg-name="Bank of Dave 2: The Loan Ranger" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gYlz36CufxMrv7uQbI4oqMut48.jpg" group-title="ESPAÑA - Comedia",Bank of Dave 2: The Loan Ranger
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/461635.mkv
-#EXTINF:-1 tvg-name="Banger" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2pegSby27ebOwW361GJb1aKcxa.jpg" group-title="ESPAÑA - Comedia",Banger
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459443.mp4
-#EXTINF:-1 tvg-name="Pikku Siperia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Am7NsDGbkotuv0pS3sbD7YAhkWW.jpg" group-title="ESPAÑA - Comedia",Pikku Siperia
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459439.mp4
-#EXTINF:-1 tvg-name="The Parenting" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lMu14IMuHo0hKYCwCIogt7IioX.jpg" group-title="ESPAÑA - Comedia",The Parenting
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459451.mp4
-#EXTINF:-1 tvg-name="सुपरबॉय्ज़ ऑफ मालेगाँव" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5PDjfWpC9uY5HdF5cbsJ4wjqoq.jpg" group-title="ESPAÑA - Comedia",सुपरबॉय्ज़ ऑफ मालेगाँव
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459448.mp4
-#EXTINF:-1 tvg-name="Lune de miel avec ma mère" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mrmqaoFKx61MzyYzaI4sO6VLuc.jpg" group-title="ESPAÑA - Comedia",Lune de miel avec ma mère
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459484.mp4
-#EXTINF:-1 tvg-name="Zgon przed weselem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aB56Pieb6TxgksUokPeTPb8k9uA.jpg" group-title="ESPAÑA - Comedia",Zgon przed weselem
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459477.mp4
-#EXTINF:-1 tvg-name="Kinda Pregnant" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2Lq3rCJ7P9gk5Df9of9kqr9IJM.jpg" group-title="ESPAÑA - Comedia",Kinda Pregnant
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459486.mp4
-#EXTINF:-1 tvg-name="You're Cordially Invited" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ec50pMNyIshL0blt1q8dUEbIa2G.jpg" group-title="ESPAÑA - Comedia",You're Cordially Invited
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459478.mkv
-#EXTINF:-1 tvg-name="One of Them Days" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccn6bFUA5DECjA3Lo0CuJqGNQCv.jpg" group-title="ESPAÑA - Comedia",One of Them Days
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459483.mp4
-#EXTINF:-1 tvg-name="Bytte Bytte Barn" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ikADeVa7HAEOMmi0CZWiT95KHl.jpg" group-title="ESPAÑA - Comedia",Bytte Bytte Barn
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459519.mkv
-#EXTINF:-1 tvg-name="Verano en diciembre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUJecKzNuaL5CCqO6MS7V4S7oBI.jpg" group-title="ESPAÑA - Comedia",Verano en diciembre
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459521.mp4
-#EXTINF:-1 tvg-name="A Real Pain" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg" group-title="ESPAÑA - Comedia",A Real Pain
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459534.mp4
-#EXTINF:-1 tvg-name="Malas Lenguas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljptU7Pyl6xSTVTik37XAF5iHaz.jpg" group-title="ESPAÑA - Comedia",Malas Lenguas
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459543.mp4
-#EXTINF:-1 tvg-name="The Radleys" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luQa5iUFp7pagD7jVhYM1FlWnJo.jpg" group-title="ESPAÑA - Comedia",The Radleys
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459555.mkv
-#EXTINF:-1 tvg-name="Abracadaver" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0B1lXZcMvHUxYw9mxr0e5abBGG.jpg" group-title="ESPAÑA - Comedia",Abracadaver
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459565.mp4
-#EXTINF:-1 tvg-name="The Bad Guys: Haunted Heist" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEJC05CqPugMxC4rFu9r6r6vg6m.jpg" group-title="ESPAÑA - Comedia",The Bad Guys: Haunted Heist
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459569.mp4
-#EXTINF:-1 tvg-name="Hotel Bitcoin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGZfoYDHOIJbK9IQtXTlnshtuP6.jpg" group-title="ESPAÑA - Comedia",Hotel Bitcoin
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459590.mkv
-#EXTINF:-1 tvg-name="Le Procès du Chien" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDxpoTmOeVbQ1Uct686r0161gWb.jpg" group-title="ESPAÑA - Comedia",Le Procès du Chien
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459604.mp4
-#EXTINF:-1 tvg-name="Between the Temples" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOVe3xoJDIdMMYvCy18a4TlDIOK.jpg" group-title="ESPAÑA - Comedia",Between the Temples
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459619.mp4
-#EXTINF:-1 tvg-name="Nice Girls" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqgE8TVxZm7v0iH3Yzl1dPAvK6Y.jpg" group-title="ESPAÑA - Comedia",Nice Girls
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459615.mp4
-#EXTINF:-1 tvg-name="Un lugar común" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJlna8OmoMe4BV8RM4lRO2cuPz9.jpg" group-title="ESPAÑA - Comedia",Un lugar común
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459610.mkv
-#EXTINF:-1 tvg-name="De Jackpot" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahRQFJsTCtxg5OINTqfDiOiN1jw.jpg" group-title="ESPAÑA - Comedia",De Jackpot
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459617.mp4
-#EXTINF:-1 tvg-name="Tu madre o la mía: Guerra de suegras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPeFaSGkPGfq8Mcs6ebWWzZDYiK.jpg" group-title="ESPAÑA - Comedia",Tu madre o la mía: Guerra de suegras
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/459623.mp4
-#EXTINF:-1 tvg-name="Die Hart 2: Die Harter - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xE2pddRwzKhXLj1Y0Y6fMkTJuTc.jpg" group-title="ESPAÑA - Comedia",Die Hart 2: Die Harter - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440956.mp4
-#EXTINF:-1 tvg-name="Wicked Little Letters - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ee8946ezadtSzkoff0BCxAF7MbN.jpg" group-title="ESPAÑA - Comedia",Wicked Little Letters - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440227.mp4
-#EXTINF:-1 tvg-name="Noche de Bodas - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iQoSPyAGHseY5NhMM28orLkxjq.jpg" group-title="ESPAÑA - Comedia",Noche de Bodas - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440224.mp4
-#EXTINF:-1 tvg-name="Tratamos demasiado bien a las mujeres - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiA1nWqckPwl3sOkoDFQNOLyY1k.jpg" group-title="ESPAÑA - Comedia",Tratamos demasiado bien a las mujeres - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440223.mp4
-#EXTINF:-1 tvg-name="Las hermanas fantásticas - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEUBskXY35Vs3Nv50N8uKyPtIEq.jpg" group-title="ESPAÑA - Comedia",Las hermanas fantásticas - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440215.mp4
-#EXTINF:-1 tvg-name="Unfrosted - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lycWsFLOYhdZDOwFgjVv5Z39Ubr.jpg" group-title="ESPAÑA - Comedia",Unfrosted - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440213.mp4
-#EXTINF:-1 tvg-name="Un mal día lo tiene cualquiera - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uL8C0mvkwr9N13GOr9OtblyWez4.jpg" group-title="ESPAÑA - Comedia",Un mal día lo tiene cualquiera - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440212.mp4
-#EXTINF:-1 tvg-name="Todas Menos Tú - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MYLLfWEVlAwWvNY5Tdy1Z9ruqH.jpg" group-title="ESPAÑA - Comedia",Todas Menos Tú - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440202.mp4
-#EXTINF:-1 tvg-name="The Underdoggs - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjx6CMGEqYheoOhwUrDDAyke9z1.jpg" group-title="ESPAÑA - Comedia",The Underdoggs - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440196.mp4
-#EXTINF:-1 tvg-name="The Roommate - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jSTZloBurfYOolixri5nUTF1u1.jpg" group-title="ESPAÑA - Comedia",The Roommate - 2023
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440192.mp4
-#EXTINF:-1 tvg-name="Ricchi a tutti i costi - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0N9wVv0904itL2Gwdvon2AR4IU.jpg" group-title="ESPAÑA - Comedia",Ricchi a tutti i costi - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440191.mp4
-#EXTINF:-1 tvg-name="Les Infaillibles - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDrUZE24mSB54cuHEjslMLvfFRQ.jpg" group-title="ESPAÑA - Comedia",Les Infaillibles - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440179.mp4
-#EXTINF:-1 tvg-name="La familia Benetón - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VISxbDN4YSFZao3MAkElC4WE6O.jpg" group-title="ESPAÑA - Comedia",La familia Benetón - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440162.mp4
-#EXTINF:-1 tvg-name="Space Cadet - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYx9AVIrZaVZ2PezSZvOOjtB75a.jpg" group-title="ESPAÑA - Comedia",Space Cadet - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440148.mp4
-#EXTINF:-1 tvg-name="Snack Shack - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg" group-title="ESPAÑA - Comedia",Snack Shack - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440143.mp4
-#EXTINF:-1 tvg-name="Canta y no llores - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wateX8mly9JBXM06HsmUQtwrt8T.jpg" group-title="ESPAÑA - Comedia",Canta y no llores - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440139.mp4
-#EXTINF:-1 tvg-name="Scrambled - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzwERLkcxNh9uve42IAUBHckU0s.jpg" group-title="ESPAÑA - Comedia",Scrambled - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440134.mp4
-#EXTINF:-1 tvg-name="Ricky Stanicky - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg" group-title="ESPAÑA - Comedia",Ricky Stanicky - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440128.mp4
-#EXTINF:-1 tvg-name="Reunion - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcKGtvP2TPZB6OGlHgkhQ1rvuBB.jpg" group-title="ESPAÑA - Comedia",Reunion - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440127.mp4
-#EXTINF:-1 tvg-name="Quiero que me mantengan - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/au0mVA8zl42fmtvmlU9Sh3V1jBq.jpg" group-title="ESPAÑA - Comedia",Quiero que me mantengan - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440122.mp4
-#EXTINF:-1 tvg-name="Por tus muertos - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j61AYdBcEk6WZZzxmhfoNZccn4j.jpg" group-title="ESPAÑA - Comedia",Por tus muertos - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440119.mp4
-#EXTINF:-1 tvg-name="Políticamente incorrectos - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ObAkAchhaiF9meWubUzGMis5TN.jpg" group-title="ESPAÑA - Comedia",Políticamente incorrectos - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440116.mp4
-#EXTINF:-1 tvg-name="Políticamente incorrectos - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ObAkAchhaiF9meWubUzGMis5TN.jpg" group-title="ESPAÑA - Comedia",Políticamente incorrectos - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440115.mp4
-#EXTINF:-1 tvg-name="Perra Vida - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAvQOUhmvlo0yrLj2Swnj9gSX5k.jpg" group-title="ESPAÑA - Comedia",Perra Vida - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440111.mp4
-#EXTINF:-1 tvg-name="Non-Negotiable - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZGF7fZPhFwxKGgaQwg5480fHGf.jpg" group-title="ESPAÑA - Comedia",Non-Negotiable - 2022
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440105.mp4
-#EXTINF:-1 tvg-name="No puedo vivir sin ti - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohtCcB46D3ki1FGoh1QvA1R14sk.jpg" group-title="ESPAÑA - Comedia",No puedo vivir sin ti - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440102.mp4
-#EXTINF:-1 tvg-name="Nice Girls - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkxCTNZZmcirQ1kYP2dKFx04nV5.jpg" group-title="ESPAÑA - Comedia",Nice Girls - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440099.mp4
-#EXTINF:-1 tvg-name="मर्डर मुबारक - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26uET6Na1mBVTqciYW6t15g08Gu.jpg" group-title="ESPAÑA - Comedia",मर्डर मुबारक - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440093.mp4
-#EXTINF:-1 tvg-name="Mean Girls - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEIBWFDzFtVSVl5MO7zyAXpKvwX.jpg" group-title="ESPAÑA - Comedia",Mean Girls - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440085.mp4
-#EXTINF:-1 tvg-name="Matusalén - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/za8c915kuzBi9Y7MDK4J1sTTS02.jpg" group-title="ESPAÑA - Comedia",Matusalén - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440082.mp4
-#EXTINF:-1 tvg-name="Mamífera - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7RP3R2T1qSq99z3DIGkK87EeHt.jpg" group-title="ESPAÑA - Comedia",Mamífera - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440081.mp4
-#EXTINF:-1 tvg-name="Amor en toda la cara - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cRSlgUeXJcQZAMRbOQAsf8xfpP.jpg" group-title="ESPAÑA - Comedia",Amor en toda la cara - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440079.mp4
-#EXTINF:-1 tvg-name="Los justos - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffhjQteKw15YyacruxTaBgdR6nJ.jpg" group-title="ESPAÑA - Comedia",Los justos - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440078.mp4
-#EXTINF:-1 tvg-name="Los de la culpa - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqFHwZd4PydcT04cYKGukmJbBAH.jpg" group-title="ESPAÑA - Comedia",Los de la culpa - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440077.mp4
-#EXTINF:-1 tvg-name="Lobola Man - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QusyGRq3X8zmbrqGM1ynGuPFB5.jpg" group-title="ESPAÑA - Comedia",Lobola Man - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440074.mp4
-#EXTINF:-1 tvg-name="Lisa Frankenstein - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5US9yKtf3STseAhYawGAnRH75S3.jpg" group-title="ESPAÑA - Comedia",Lisa Frankenstein - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440071.mp4
-#EXTINF:-1 tvg-name="La Familia del Barrio: La Película - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mOEVJCKUWMxTABooY1U0FSwfi6.jpg" group-title="ESPAÑA - Comedia",La Familia del Barrio: La Película - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440064.mp4
-#EXTINF:-1 tvg-name="La familia Benetón - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VISxbDN4YSFZao3MAkElC4WE6O.jpg" group-title="ESPAÑA - Comedia",La familia Benetón - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440063.mp4
-#EXTINF:-1 tvg-name="Kinds of Kindness - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7M8gZDAQsJP3BjibSt1kZ1tBvXl.jpg" group-title="ESPAÑA - Comedia",Kinds of Kindness - 2024
-http://logo.solanaflix.com/movie/E2cNb8kNP3Kg/hdVFVv48cr3V/440059.mp4
-#EXTINF:-1 tvg-name="Juanpis González: El presidente de la gente - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngA9a2p0Yqx23eJL7banw3GShpT.jpg" group-title="ESPAÑA - Comedia",Jua
+
