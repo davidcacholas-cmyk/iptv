@@ -353,9 +353,9 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/440985.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/149908.ts
 #EXTINF:-1 tvg-name="M+ Orgullo HD" tvg-id="M+ Orgullo" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MMUSIC.png" group-title="CINE",M+ Orgullo HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/149909.ts
-#EXTINF:-1 tvg-name="HOLLYWOOD FHD" tvg-id="Canal Hollywood" tvg-logo="http://logo.solanaflix.com/images/logos/08f97a2cf9e4533df2046db62aa85fee.png" group-title="CINE",HOLLYWOOD FHD
+#EXTINF:-1 tvg-name="HOLLYWOOD FHD" tvg-id="Hollywood" tvg-logo="http://logo.solanaflix.com/images/logos/08f97a2cf9e4533df2046db62aa85fee.png" group-title="CINE",HOLLYWOOD FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48411.ts
-#EXTINF:-1 tvg-name="HOLLYWOOD HD" tvg-id="Canal Hollywood" tvg-logo="http://logo.solanaflix.com/images/logos/09a27e8761f96269efec9453d18dc660.png" group-title="CINE",HOLLYWOOD HD
+#EXTINF:-1 tvg-name="HOLLYWOOD HD" tvg-id="Hollywood" tvg-logo="http://logo.solanaflix.com/images/logos/09a27e8761f96269efec9453d18dc660.png" group-title="CINE",HOLLYWOOD HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48410.ts
 #EXTINF:-1 tvg-name="TCM FHD" tvg-id="TCM HD" tvg-logo="http://logo.solanaflix.com/images/logos/94f68ad1468ebfc8d0effa90f6a4f4c0.png" group-title="CINE",TCM FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48413.ts
@@ -2221,4 +2221,3 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99097.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99098.ts
 #EXTINF:-1 tvg-name="|ADULT| X Bunga Bunga" group-title="ADULTS",|ADULT| X Bunga Bunga
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99099.ts
-
