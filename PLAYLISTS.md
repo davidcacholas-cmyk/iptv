@@ -2519,9 +2519,9 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/457382.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457384.ts
 #EXTINF:-1 tvg-name="DISCOVERY FAMILIA" tvg-id="DISCOVERY FAMILIA" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYFAMILIA.png" group-title="LAT - CULTURALES",DISCOVERY FAMILIA
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457385.ts
-#EXTINF:-1 tvg-name="DISCOVERY" tvg-id="DISCOVERY" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="LAT - CULTURALES",DISCOVERY
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-id="canal discovery" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="LAT - CULTURALES",DISCOVERY
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457388.ts
-#EXTINF:-1 tvg-name="DISCOVERY" tvg-id="DISCOVERY" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="LAT - CULTURALES",DISCOVERY
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-id="canal discovery" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="LAT - CULTURALES",DISCOVERY
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457389.ts
 #EXTINF:-1 tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYHOMEANDHEALTH.png" group-title="LAT - CULTURALES",DISCOVERY HOME AND HEALTH
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457390.ts
@@ -2529,7 +2529,7 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/457390.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457392.ts
 #EXTINF:-1 tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYHOMEANDHEALTH.png" group-title="LAT - CULTURALES",DISCOVERY HOME AND HEALTH
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457393.ts
-#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-id="DISCOVERY ID" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYID.jpg" group-title="LAT - CULTURALES",DISCOVERY ID
+#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-id="canal DISCOVERY ID" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYID.jpg" group-title="LAT - CULTURALES",DISCOVERY ID
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457395.ts
 #EXTINF:-1 tvg-name="DISCOVERY ID" tvg-id="DISCOVERY ID" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYID.jpg" group-title="LAT - CULTURALES",DISCOVERY ID
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457396.ts
@@ -2537,17 +2537,17 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/457396.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457400.ts
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-id="DISCOVERY SCIENCE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYSCIENCE.png" group-title="LAT - CULTURALES",DISCOVERY SCIENCE
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457412.ts
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-id="DISCOVERY SCIENCE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYSCIENCE.png" group-title="LAT - CULTURALES",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-id="canal DISCOVERY SCIENCE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYSCIENCE.png" group-title="LAT - CULTURALES",DISCOVERY SCIENCE
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457414.ts
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-id="DISCOVERY SCIENCE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYSCIENCE.png" group-title="LAT - CULTURALES",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-id="canal DISCOVERY SCIENCE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYSCIENCE.png" group-title="LAT - CULTURALES",DISCOVERY SCIENCE
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457415.ts
-#EXTINF:-1 tvg-name="DISCOVERY" tvg-id="DISCOVERY" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="LAT - CULTURALES",DISCOVERY
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-id="canal DISCOVERY" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="LAT - CULTURALES",DISCOVERY
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457416.ts
-#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYTHEATER.png" group-title="LAT - CULTURALES",DISCOVERY THEATER
+#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-id="canal DISCOVERY THEATER" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYTHEATER.png" group-title="LAT - CULTURALES",DISCOVERY THEATER
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457418.ts
-#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYTHEATER.png" group-title="LAT - CULTURALES",DISCOVERY THEATER
+#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-id="canal DISCOVERY THEATER" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYTHEATER.png" group-title="LAT - CULTURALES",DISCOVERY THEATER
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457419.ts
-#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYTHEATER.png" group-title="LAT - CULTURALES",DISCOVERY THEATER
+#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-id="canal DISCOVERY THEATER" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYTHEATER.png" group-title="LAT - CULTURALES",DISCOVERY THEATER
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457424.ts
 #EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYTURBO.png" group-title="LAT - CULTURALES",DISCOVERY TURBO
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457425.ts
@@ -2555,23 +2555,23 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/457425.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457426.ts
 #EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYTURBO.png" group-title="LAT - CULTURALES",DISCOVERY TURBO
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457428.ts
-#EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYWORLD.jpg" group-title="LAT - CULTURALES",DISCOVERY WORLD
+#EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-id="canal DISCOVERY WORLD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYWORLD.jpg" group-title="LAT - CULTURALES",DISCOVERY WORLD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457431.ts
-#EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYWORLD.jpg" group-title="LAT - CULTURALES",DISCOVERY WORLD
+#EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-id="canal DISCOVERY WORLD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYWORLD.jpg" group-title="LAT - CULTURALES",DISCOVERY WORLD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457433.ts
-#EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYWORLD.jpg" group-title="LAT - CULTURALES",DISCOVERY WORLD
+#EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-id="canal DISCOVERY WORLD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYWORLD.jpg" group-title="LAT - CULTURALES",DISCOVERY WORLD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457434.ts
 #EXTINF:-1 tvg-name="H2" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/H2.png" group-title="LAT - CULTURALES",H2
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457700.ts
-#EXTINF:-1 tvg-name="H2" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/H2.png" group-title="LAT - CULTURALES",H2
+#EXTINF:-1 tvg-name="H2" tvg-id="canal history 2" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/H2.png" group-title="LAT - CULTURALES",H2
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457701.ts
-#EXTINF:-1 tvg-name="H2" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/H2.png" group-title="LAT - CULTURALES",H2
+#EXTINF:-1 tvg-name="H2" tvg-id="canal history 2" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/H2.png" group-title="LAT - CULTURALES",H2
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457704.ts
-#EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-id="HISTORY CHANNEL" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/HISTORYCHANNEL.jpg" group-title="LAT - CULTURALES",HISTORY CHANNEL
+#EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-id="canal HISTORY CHANNEL" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/HISTORYCHANNEL.jpg" group-title="LAT - CULTURALES",HISTORY CHANNEL
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457747.ts
-#EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-id="HISTORY CHANNEL" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/HISTORYCHANNEL.jpg" group-title="LAT - CULTURALES",HISTORY CHANNEL
+#EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-id="canal HISTORY CHANNEL" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/HISTORYCHANNEL.jpg" group-title="LAT - CULTURALES",HISTORY CHANNEL
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457748.ts
-#EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-id="HISTORY CHANNEL" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/HISTORYCHANNEL.jpg" group-title="LAT - CULTURALES",HISTORY CHANNEL
+#EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-id="canal HISTORY CHANNEL" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/HISTORYCHANNEL.jpg" group-title="LAT - CULTURALES",HISTORY CHANNEL
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457749.ts
 #EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/LOVENATURE.png" group-title="LAT - CULTURALES",LOVE NATURE
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457785.ts
@@ -2579,83 +2579,47 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/457785.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457786.ts
 #EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/LOVENATURE.png" group-title="LAT - CULTURALES",LOVE NATURE
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457787.ts
-#EXTINF:-1 tvg-name="NAT GEO MUNDO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATGEOMUNDO.png" group-title="LAT - CULTURALES",NAT GEO MUNDO
+#EXTINF:-1 tvg-name="NAT GEO MUNDO" tvg-id="canal NAT GEO MUNDO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATGEOMUNDO.png" group-title="LAT - CULTURALES",NAT GEO MUNDO
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457832.ts
-#EXTINF:-1 tvg-name="NAT GEO MUNDO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATGEOMUNDO.png" group-title="LAT - CULTURALES",NAT GEO MUNDO
+#EXTINF:-1 tvg-name="NAT GEO MUNDO" tvg-id="canal NAT GEO MUNDO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATGEOMUNDO.png" group-title="LAT - CULTURALES",NAT GEO MUNDO
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457833.ts
-#EXTINF:-1 tvg-name="NAT GEO MUNDO" tvg-id="NAT GEO MUNDO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATGEOMUNDO.png" group-title="LAT - CULTURALES",NAT GEO MUNDO
+#EXTINF:-1 tvg-name="NAT GEO MUNDO" tvg-id="canal NAT GEO MUNDO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATGEOMUNDO.png" group-title="LAT - CULTURALES",NAT GEO MUNDO
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457834.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATIONALGEOGRAPHIC.png" group-title="LAT - CULTURALES",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="canal NATIONAL GEOGRAPHIC" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATIONALGEOGRAPHIC.png" group-title="LAT - CULTURALES",NATIONAL GEOGRAPHIC
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457835.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NAT GEO MUNDO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATIONALGEOGRAPHIC.png" group-title="LAT - CULTURALES",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="canal NATIONAL GEOGRAPHIC" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATIONALGEOGRAPHIC.png" group-title="LAT - CULTURALES",NATIONAL GEOGRAPHIC
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457836.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NAT GEO MUNDO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATIONALGEOGRAPHIC.png" group-title="LAT - CULTURALES",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="canal NATIONAL GEOGRAPHIC" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATIONALGEOGRAPHIC.png" group-title="LAT - CULTURALES",NATIONAL GEOGRAPHIC
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457839.ts
 #EXTINF:-1 tvg-name="MX: ANIMAL PLANET FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/ANIMALPLANET.png" group-title="LAT - MEXICO CULTURALES",MX: ANIMAL PLANET FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457117.ts
 #EXTINF:-1 tvg-name="MX: ANIMAL PLANET HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/ANIMALPLANET.png" group-title="LAT - MEXICO CULTURALES",MX: ANIMAL PLANET HD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457118.ts
-#EXTINF:-1 tvg-name="MX: DISCOVERY ID FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYID.jpg" group-title="LAT - MEXICO CULTURALES",MX: DISCOVERY ID FHD
+#EXTINF:-1 tvg-name="MX: DISCOVERY ID FHD" tvg-id="canal discovery id" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYID.jpg" group-title="LAT - MEXICO CULTURALES",MX: DISCOVERY ID FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457397.ts
-#EXTINF:-1 tvg-name="MX: DISCOVERY ID HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYID.jpg" group-title="LAT - MEXICO CULTURALES",MX: DISCOVERY ID HD
+#EXTINF:-1 tvg-name="MX: DISCOVERY ID HD" tvg-id="canal discovery id" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYID.jpg" group-title="LAT - MEXICO CULTURALES",MX: DISCOVERY ID HD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457399.ts
-#EXTINF:-1 tvg-name="MX: DISCOVERY FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="LAT - MEXICO CULTURALES",MX: DISCOVERY FHD
+#EXTINF:-1 tvg-name="MX: DISCOVERY FHD" tvg-id="canal discovery" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="LAT - MEXICO CULTURALES",MX: DISCOVERY FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457410.ts
-#EXTINF:-1 tvg-name="MX: DISCOVERY HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="LAT - MEXICO CULTURALES",MX: DISCOVERY HD
+#EXTINF:-1 tvg-name="MX: DISCOVERY HD" tvg-id="canal discovery" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="LAT - MEXICO CULTURALES",MX: DISCOVERY HD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457411.ts
-#EXTINF:-1 tvg-name="MX: DISCOVERY THEATER FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYTHEATER.png" group-title="LAT - MEXICO CULTURALES",MX: DISCOVERY THEATER FHD
+#EXTINF:-1 tvg-name="MX: DISCOVERY THEATER FHD" tvg-id="canal discovery Channel" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYTHEATER.png" group-title="LAT - MEXICO CULTURALES",MX: DISCOVERY THEATER FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457421.ts
-#EXTINF:-1 tvg-name="MX: DISCOVERY THEATER HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYTHEATER.png" group-title="LAT - MEXICO CULTURALES",MX: DISCOVERY THEATER HD
+#EXTINF:-1 tvg-name="MX: DISCOVERY THEATER HD" tvg-id="canal discovery Channel" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYTHEATER.png" group-title="LAT - MEXICO CULTURALES",MX: DISCOVERY THEATER HD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457422.ts
-#EXTINF:-1 tvg-name="MX: H2 FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/H2.png" group-title="LAT - MEXICO CULTURALES",MX: H2 FHD
+#EXTINF:-1 tvg-name="MX: H2 FHD" tvg-id="canal history 2" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/H2.png" group-title="LAT - MEXICO CULTURALES",MX: H2 FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457702.ts
-#EXTINF:-1 tvg-name="MX: H2 HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/H2.png" group-title="LAT - MEXICO CULTURALES",MX: H2 HD
+#EXTINF:-1 tvg-name="MX: H2 HD" tvg-id="canal history 2" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/H2.png" group-title="LAT - MEXICO CULTURALES",MX: H2 HD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457703.ts
-#EXTINF:-1 tvg-name="MX: HISTORY FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/HISTORYCHANNEL.jpg" group-title="LAT - MEXICO CULTURALES",MX: HISTORY FHD
+#EXTINF:-1 tvg-name="MX: HISTORY FHD" tvg-id="canal history" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/HISTORYCHANNEL.jpg" group-title="LAT - MEXICO CULTURALES",MX: HISTORY FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457751.ts
-#EXTINF:-1 tvg-name="MX: HISTORY HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/HISTORYCHANNEL.jpg" group-title="LAT - MEXICO CULTURALES",MX: HISTORY HD
+#EXTINF:-1 tvg-name="MX: HISTORY HD" tvg-id="canal history" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/HISTORYCHANNEL.jpg" group-title="LAT - MEXICO CULTURALES",MX: HISTORY HD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457752.ts
-#EXTINF:-1 tvg-name="MX: NATIONAL GEOGRAPHIC FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATIONALGEOGRAPHIC.png" group-title="LAT - MEXICO CULTURALES",MX: NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-name="MX: NATIONAL GEOGRAPHIC FHD" tvg-id="canal national GEOGRAPHIC" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATIONALGEOGRAPHIC.png" group-title="LAT - MEXICO CULTURALES",MX: NATIONAL GEOGRAPHIC FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457837.ts
-#EXTINF:-1 tvg-name="MX: NATIONAL GEOGRAPHIC HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATIONALGEOGRAPHIC.png" group-title="LAT - MEXICO CULTURALES",MX: NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-name="MX: NATIONAL GEOGRAPHIC HD" tvg-id="canal national geographic" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATIONALGEOGRAPHIC.png" group-title="LAT - MEXICO CULTURALES",MX: NATIONAL GEOGRAPHIC HD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457838.ts
 #EXTINF:-1 tvg-name="MX: TLC FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/TLC.png" group-title="LAT - MEXICO CULTURALES",MX: TLC FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/458095.ts
 #EXTINF:-1 tvg-name="MX: TLC HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/TLC.png" group-title="LAT - MEXICO CULTURALES",MX: TLC HD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/458096.ts
-#EXTINF:-1 tvg-name="MX: 5" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/5.png" group-title="LAT - MEXICO",MX: 5
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457814.ts
-#EXTINF:-1 tvg-name="MX: AZTECA 7" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/AZTECA7.png" group-title="LAT - MEXICO",MX: AZTECA 7
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457815.ts
-#EXTINF:-1 tvg-name="MX: LAS ESTRELLAS" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/LASESTRELLAS.png" group-title="LAT - MEXICO",MX: LAS ESTRELLAS
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457816.ts
-#EXTINF:-1 tvg-name="MX: NU9VE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/NU9VE.jpg" group-title="LAT - MEXICO",MX: NU9VE
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457817.ts
-#EXTINF:-1 tvg-name="MX: INGENIO TV" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/INGENIOTV.png" group-title="LAT - MEXICO",MX: INGENIO TV
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457818.ts
-#EXTINF:-1 tvg-name="MX: ONCE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/ONCE.png" group-title="LAT - MEXICO",MX: ONCE
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457819.ts
-#EXTINF:-1 tvg-name="MX: ADN 40" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/ADN40HD.png" group-title="LAT - MEXICO",MX: ADN 40
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457820.ts
-#EXTINF:-1 tvg-name="MX: MILENIO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/MILENIO.png" group-title="LAT - MEXICO",MX: MILENIO
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457821.ts
-#EXTINF:-1 tvg-name="MX: AMAS TV" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/AMASTV.png" group-title="LAT - MEXICO",MX: AMAS TV
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457822.ts
-#EXTINF:-1 tvg-name="MX: AZTECA UNO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/AZTECAUNO.png" group-title="LAT - MEXICO",MX: AZTECA UNO
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457823.ts
-#EXTINF:-1 tvg-name="MX: AZ CLIC MEXICO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/AZCLIC.png" group-title="LAT - MEXICO",MX: AZ CLIC MEXICO
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457824.ts
-#EXTINF:-1 tvg-name="MX: CORAZON" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/b/b7/Azcoraz%C3%B3n.png/revision/latest/thumbnail/width/360/height/360?cb=20200402024001&path-prefix=es" group-title="LAT - MEXICO",MX: CORAZON
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457825.ts
-#EXTINF:-1 tvg-name="MX: ESTRELLA TV" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/ESTRELLATV.png" group-title="LAT - MEXICO",MX: ESTRELLA TV
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457826.ts
-#EXTINF:-1 tvg-name="MX: FORO TV" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/FOROTV.png" group-title="LAT - MEXICO",MX: FORO TV
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457827.ts
-#EXTINF:-1 tvg-name="MX: IMAGEN TV" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/IMAGENTV.jpg" group-title="LAT - MEXICO",MX: IMAGEN TV
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457828.ts
-#EXTINF:-1 tvg-name="MX: MUNDO ES MIO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/MUNDOESMIO.png" group-title="LAT - MEXICO",MX: MUNDO ES MIO
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457829.ts
-#EXTINF:-1 tvg-name="MX: TLNOVELAS" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/TLNOVELAS.png" group-title="LAT - MEXICO",MX: TLNOVELAS
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457830.ts
-#EXTINF:-1 tvg-name="MX: UNICABLE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/UNICABLE.png" group-title="LAT - MEXICO",MX: UNICABLE
-http://196068.solanaflix.com/live/TV-62703947/144551621156/457831.ts
