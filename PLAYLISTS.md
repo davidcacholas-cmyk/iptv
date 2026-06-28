@@ -2623,4 +2623,3 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/457838.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/458095.ts
 #EXTINF:-1 tvg-name="MX: TLC HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/TLC.png" group-title="LAT - MEXICO CULTURALES",MX: TLC HD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/458096.ts
-
