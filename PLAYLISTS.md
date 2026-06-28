@@ -35,7 +35,9 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/48419.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48420.ts
 #EXTINF:-1 tvg-name="|ES| MEGA FHD" tvg-id="Mega" tvg-logo="http://logo.solanaflix.com/images/logos/1504d6af583e9eb1f493ed6b4929ea84.png" group-title="ES - TDT",|ES| MEGA FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48426.ts
-#EXTINF:-1 tvg-name="|ES| 24h" tvg-id="24h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="ES - TDT",|ES| 24h
+#EXTINF:-1 tvg-name="|ES| 24h FHD" tvg-id="24 horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="ES - TDT",|ES| 24h FHD
+http://196068.solanaflix.com/live/TV-62703947/144551621156/461913.ts
+#EXTINF:-1 tvg-name="|ES| 24h" tvg-id="24 horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="ES - TDT",|ES| 24h
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48395.ts
 #EXTINF:-1 tvg-name="|ES| FDF FHD" tvg-id="FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="ES - TDT",|ES| FDF FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48452.ts
@@ -255,8 +257,6 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/458497.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/461911.ts
 #EXTINF:-1 tvg-name="|ES| FDF" tvg-id="FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="ES - TDT",|ES| FDF
 http://196068.solanaflix.com/live/TV-62703947/144551621156/461912.ts
-#EXTINF:-1 tvg-name="|ES| 24h FHD" tvg-id="24h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="ES - TDT",|ES| 24h FHD
-http://196068.solanaflix.com/live/TV-62703947/144551621156/461913.ts
 #EXTINF:-1 tvg-name="|ES| BBC History FHD" tvg-id="BBC HISTORY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="ES - CULTURA",|ES| BBC History FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/444578.ts
 #EXTINF:-1 tvg-name="|ES| BBC History SD" tvg-id="BBC History" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="ES - CULTURA",|ES| BBC History SD
