@@ -3,7 +3,7 @@
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48470.ts
 #EXTINF:-1 tvg-name="|ES| SQUIRREL 2 FHD" tvg-id="Squirrel 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Squirrel_Dos.svg/revision/latest?cb=20260101055444" group-title="ES - TDT",|ES| SQUIRREL 2 FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/462289.ts
-#EXTINF:-1 tvg-name="|ES| LA 1 4K" tvg-id="La 1 4k" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="ES - TDT",|ES| LA 1 4K
+#EXTINF:-1 tvg-name="|ES| LA 1" tvg-id="La 1" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="ES - TDT",|ES| LA 1
 http://196068.solanaflix.com/live/TV-62703947/144551621156/113615.ts
 #EXTINF:-1 tvg-name="|ES| LA 1 FHD" tvg-id="La 1 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="ES - TDT",|ES| LA 1 FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48384.ts
