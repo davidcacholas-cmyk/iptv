@@ -293,6 +293,18 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/109250.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/461595.ts
 #EXTINF:-1 tvg-name="|ES| BBC Earth SD (ES)" tvg-id="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg tvg-country=ES" group-title="ES - CULTURA",|ES| BBC Earth SD (ES)
 http://196068.solanaflix.com/live/TV-62703947/144551621156/461594.ts
+#EXTINF:-1 tvg-name="|ES| AMC CRIME FHD" tvg-id="AMC Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO4KHWbOGjF5pB0e4wr3F31zbPvPOCqwYypT1dcHrKg1uG_SdzWFwsOgtg_KhqFVTzA&usqp=CAU" group-title="ES - CULTURA",|ES| AMC CRIME FHD
+http://196068.solanaflix.com/live/TV-62703947/144551621156/113023.ts
+#EXTINF:-1 tvg-name="|ES| AMC CRIME SD" tvg-id="AMC Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO4KHWbOGjF5pB0e4wr3F31zbPvPOCqwYypT1dcHrKg1uG_SdzWFwsOgtg_KhqFVTzA&usqp=CAU" group-title="ES - CULTURA",|ES| AMC CRIME SD
+http://196068.solanaflix.com/live/TV-62703947/144551621156/113022.ts
+#EXTINF:-1 tvg-name="|ES| CRIMEN MAS+ INVESTIGACION" tvg-id="ama crime" tvg-logo="http://logo.solanaflix.com/images/logos/54923f7550a0a91f5e67dd049b97f51d.png" group-title="ES - CULTURA",|ES| CRIMEN MAS+ INVESTIGACION
+http://196068.solanaflix.com/live/TV-62703947/144551621156/48458.ts
+#EXTINF:-1 tvg-name="|ES| HBO Max Avances HD" tvg-id="HBO Max Avances" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/HBO_Max_Logo_RGB_Iridescent_White.webp" group-title="ES - CULTURA",|ES| HBO Max Avances HD
+http://196068.solanaflix.com/live/TV-62703947/144551621156/440980.ts
+#EXTINF:-1 tvg-name="|ES| HBO Max Avances HD" tvg-id="HBO Max Avances" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/HBO_Max_Logo_RGB_Iridescent_White.webp" group-title="ES - CULTURA",|ES| HBO Max Avances HD
+http://196068.solanaflix.com/live/TV-62703947/144551621156/440981.ts
+#EXTINF:-1 tvg-name="|ES| HBO Max Avances SD" tvg-id="HBO Max Avances" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/HBO_Max_Logo_RGB_Iridescent_White.webp" group-title="ES - CULTURA",|ES| HBO Max Avances SD
+http://196068.solanaflix.com/live/TV-62703947/144551621156/440982.ts
 #EXTINF:-1 tvg-name="|ES| cine western FHD" tvg-id="cine western" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="ES - CINE",|ES| cine western FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/444572.ts
 #EXTINF:-1 tvg-name="|ES| cine western SD" tvg-id="cine western" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="ES - CINE",|ES| cine western SD
@@ -437,12 +449,6 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/440983.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/440984.ts
 #EXTINF:-1 tvg-name="|ES| M+ vacaciones SD" tvg-id="m+ vacaciones" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="ES - CINE",|ES| M+ vacaciones SD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/440985.ts
-#EXTINF:-1 tvg-name="|ES| HBO Max Avances HD" tvg-id="HBO Max Avances" tvg-logo="https://f-de-film.com/wp-content/uploads/2024/09/maxavances_logo_mp.jpg?w=1280&h=720&crop=1" group-title="ES - CINE",|ES| HBO Max Avances HD
-http://196068.solanaflix.com/live/TV-62703947/144551621156/440980.ts
-#EXTINF:-1 tvg-name="|ES| HBO Max Avances HD" tvg-id="HBO Max Avances" tvg-logo="https://f-de-film.com/wp-content/uploads/2024/09/maxavances_logo_mp.jpg?w=1280&h=720&crop=1" group-title="ES - CINE",|ES| HBO Max Avances HD
-http://196068.solanaflix.com/live/TV-62703947/144551621156/440981.ts
-#EXTINF:-1 tvg-name="|ES| HBO Max Avances SD" tvg-id="HBO Max Avances" tvg-logo="https://f-de-film.com/wp-content/uploads/2024/09/maxavances_logo_mp.jpg?w=1280&h=720&crop=1" group-title="ES - CINE",|ES| HBO Max Avances SD
-http://196068.solanaflix.com/live/TV-62703947/144551621156/440982.ts
 #EXTINF:-1 tvg-name="|ES| STAR" tvg-id="STAR Channel HD" tvg-logo="https://pics.filmaffinity.com/star-153397291560362-nm_200.jpg" group-title="ES - CINE",|ES| STAR
 http://196068.solanaflix.com/live/TV-62703947/144551621156/445383.ts
 #EXTINF:-1 tvg-name="|ES| STAR HD" tvg-id="STAR Channel HD" tvg-logo="https://pics.filmaffinity.com/star-153397291560362-nm_200.jpg" group-title="ES - CINE",|ES| STAR HD
@@ -489,18 +495,12 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/444576.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/444575.ts
 #EXTINF:-1 tvg-name="|ES| AMC BREAK FHD" tvg-logo="http://logo.solanaflix.com/images/logos/09b63f2f502e2ce8121bbdbf420d63f4.png" group-title="ES - ESTILO DE VIDA",|ES| AMC BREAK FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48489.ts
-#EXTINF:-1 tvg-name="|ES| AMC CRIME FHD" tvg-id="AMC Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO4KHWbOGjF5pB0e4wr3F31zbPvPOCqwYypT1dcHrKg1uG_SdzWFwsOgtg_KhqFVTzA&usqp=CAU" group-title="ES - ESTILO DE VIDA",|ES| AMC CRIME FHD
-http://196068.solanaflix.com/live/TV-62703947/144551621156/113023.ts
-#EXTINF:-1 tvg-name="|ES| AMC CRIME SD" tvg-id="AMC Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO4KHWbOGjF5pB0e4wr3F31zbPvPOCqwYypT1dcHrKg1uG_SdzWFwsOgtg_KhqFVTzA&usqp=CAU" group-title="ES - ESTILO DE VIDA",|ES| AMC CRIME SD
-http://196068.solanaflix.com/live/TV-62703947/144551621156/113022.ts
 #EXTINF:-1 tvg-name="|ES| Amc Break HD" tvg-id="AMC Break" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png" group-title="ES - ESTILO DE VIDA",|ES| Amc Break HD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/113017.ts
 #EXTINF:-1 tvg-name="|ES| AMC BREAK" tvg-id="AMC Break" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/04/picon_amc_break_amarillo_transparente.png?fit=440%2C264&ssl=1" group-title="ES - ESTILO DE VIDA",|ES| AMC BREAK
 http://196068.solanaflix.com/live/TV-62703947/144551621156/113018.ts
 #EXTINF:-1 tvg-name="|ES| DKISS" tvg-id="DKISS" tvg-logo="http://logo.solanaflix.com/images/logos/ea8965a16fc2667103961d8f646c5cfb.png" group-title="ES - ESTILO DE VIDA",|ES| DKISS
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48453.ts
-#EXTINF:-1 tvg-name="|ES| CRIMEN MAS+ INVESTIGACION" tvg-id="CRINV" tvg-logo="http://logo.solanaflix.com/images/logos/54923f7550a0a91f5e67dd049b97f51d.png" group-title="ES - ESTILO DE VIDA",|ES| CRIMEN MAS+ INVESTIGACION
-http://196068.solanaflix.com/live/TV-62703947/144551621156/48458.ts
 #EXTINF:-1 tvg-name="|ES| DECASA UHD (4K) - En pruebas" tvg-id="Decasa" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSQJ_KeF7LT3A8yL9zybbRe.png" group-title="ES - ESTILO DE VIDA",|ES| DECASA UHD (4K) - En pruebas
 http://196068.solanaflix.com/live/TV-62703947/144551621156/113618.ts
 #EXTINF:-1 tvg-name="|ES| AMC LIVING FHD" tvg-id="AMC Living" tvg-logo="http://logo.solanaflix.com/images/logos/424a4384855f790861dfaabfcb49e83e.png" group-title="ES - ESTILO DE VIDA",|ES| AMC LIVING FHD
@@ -2659,4 +2659,5 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/457829.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457830.ts
 #EXTINF:-1 tvg-name="MX: UNICABLE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/UNICABLE.png" group-title="LAT - MEXICO",MX: UNICABLE
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457831.ts
+
 
