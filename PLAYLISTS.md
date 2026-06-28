@@ -1,4 +1,5 @@
 #EXTM3U  
+
 #EXTINF:-1 tvg-name="|ES| M+ LALIGA TV FHD (HEVC)" tvg-id="M+ LaLiga TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV FHD (HEVC)
 http://196068.solanaflix.com/live/TV-62703947/144551621156/112675.ts
 #EXTINF:-1 tvg-name="|ES| M+ LALIGA TV FHD" tvg-id="M+ LaLiga TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJGXwEGYwbmatg3p0Z0JN9Piff6kFbWHGGvjf8eJyF-SrQtRHv5apM4jjjmwCQjHyw7c5PnUpkZbwke81yIVlnZExxdV3k8_RHABWA5RW9RQaZr9RFRGzaZsK0GzOoUU1lycEZH4AgE2L3CzZT0W6WhQ.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV FHD
