@@ -2519,9 +2519,9 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/457382.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457384.ts
 #EXTINF:-1 tvg-name="DISCOVERY FAMILIA" tvg-id="DISCOVERY FAMILIA" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYFAMILIA.png" group-title="LAT - CULTURALES",DISCOVERY FAMILIA
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457385.ts
-#EXTINF:-1 tvg-name="DISCOVERY" tvg-id="canal discovery" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="LAT - CULTURALES",DISCOVERY
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-id="canal discovery Channel (México)" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="LAT - CULTURALES",DISCOVERY
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457388.ts
-#EXTINF:-1 tvg-name="DISCOVERY" tvg-id="canal discovery" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="LAT - CULTURALES",DISCOVERY
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-id="canal discovery Channel (México)" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="LAT - CULTURALES",DISCOVERY
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457389.ts
 #EXTINF:-1 tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYHOMEANDHEALTH.png" group-title="LAT - CULTURALES",DISCOVERY HOME AND HEALTH
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457390.ts
