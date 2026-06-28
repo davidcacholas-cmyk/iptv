@@ -35,7 +35,7 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/48419.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48420.ts
 #EXTINF:-1 tvg-name="|ES| MEGA FHD" tvg-id="Mega" tvg-logo="http://logo.solanaflix.com/images/logos/1504d6af583e9eb1f493ed6b4929ea84.png" group-title="ES - TDT",|ES| MEGA FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48426.ts
-#EXTINF:-1 tvg-name="|ES| 24 HORAS" tvg-id="24 H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="ES - TDT",|ES| 24 HORAS
+#EXTINF:-1 tvg-name="|ES| 24h" tvg-id="24h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg" group-title="ES - TDT",|ES| 24h
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48395.ts
 #EXTINF:-1 tvg-name="|ES| FDF FHD" tvg-id="FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="ES - TDT",|ES| FDF FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48452.ts
@@ -2659,4 +2659,3 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/457829.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457830.ts
 #EXTINF:-1 tvg-name="MX: UNICABLE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/UNICABLE.png" group-title="LAT - MEXICO",MX: UNICABLE
 http://196068.solanaflix.com/live/TV-62703947/144551621156/457831.ts
-
