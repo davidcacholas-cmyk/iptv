@@ -329,11 +329,11 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/48397.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48400.ts
 #EXTINF:-1 tvg-name="|ES| M+ Estrenos" tvg-id="M+ ESTRENOS HD" tvg-logo="http://logo.solanaflix.com/images/logos/1455d278e2d60d507074e65cee44e58e.png" group-title="ES - CINE",|ES| M+ Estrenos
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48399.ts
-#EXTINF:-1 tvg-name="|ES|  Movistar Plus+ FHD - HEVC" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ES - CINE",|ES|  Movistar Plus+ FHD - HEVC
+#EXTINF:-1 tvg-name="|ES|  Movistar Plus+ FHD - HEVC" tvg-id="Movistar Plus+ HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Movistar_print_white.png/revision/latest/scale-to-width-down/250?cb=20201030223325&path-prefix=es" group-title="ES - CINE",|ES|  Movistar Plus+ FHD - HEVC
 http://196068.solanaflix.com/live/TV-62703947/144551621156/102334.ts
-#EXTINF:-1 tvg-name="|ES| Movistar Plus+ HD" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ES - CINE",|ES| Movistar Plus+ HD
+#EXTINF:-1 tvg-name="|ES| Movistar Plus+ HD" tvg-id="Movistar Plus+ HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Movistar_print_white.png/revision/latest/scale-to-width-down/250?cb=20201030223325&path-prefix=es" group-title="ES - CINE",|ES| Movistar Plus+ HD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/102335.ts
-#EXTINF:-1 tvg-name="|ES| Movistar Plus+ SD" tvg-id="Movistar Plus+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ES - CINE",|ES| Movistar Plus+ SD
+#EXTINF:-1 tvg-name="|ES| Movistar Plus+ SD" tvg-id="Movistar Plus+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Movistar_print_white.png/revision/latest/scale-to-width-down/250?cb=20201030223325&path-prefix=es" group-title="ES - CINE",|ES| Movistar Plus+ SD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/444570.ts
 #EXTINF:-1 tvg-name="|ES| M+ ACCION FHD" tvg-id="M+ Acción HD" tvg-logo="http://logo.solanaflix.com/images/logos/c4f6fdf24e4a5c55c4518342fa2d16f5.png" group-title="ES - CINE",|ES| M+ ACCION FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48402.ts
@@ -461,11 +461,11 @@ http://196068.solanaflix.com/live/TV-62703947/144551621156/114290.ts
 http://196068.solanaflix.com/live/TV-62703947/144551621156/458461.ts
 #EXTINF:-1 tvg-name="|ES| M+ INDIE SD" tvg-id="M+ Indie HD" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54BOT9Yxnj_on14iz0kYLD-lxl_pXaADSuNzwp42zr5-c.png" group-title="ES - CINE",|ES| M+ INDIE SD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/458462.ts
-#EXTINF:-1 tvg-name="|ES| SKYSHOWTIME FHD" tvg-id="SkyShowtime" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="ES - CINE",|ES| SKYSHOWTIME FHD
+#EXTINF:-1 tvg-name="|ES| SkyShowtime FHD" tvg-id="SkyShowtime" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="ES - CINE",|ES| SkyShowtime FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/438083.ts
-#EXTINF:-1 tvg-name="|ES| SHOWTIME 1 HD" tvg-id="SkyShowtime 1" tvg-logo="http://trastras.eu:2083/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WxcPAFcVAw5AIRtM2cYalgg.png" group-title="ES - CINE",|ES| SHOWTIME 1 HD
+#EXTINF:-1 tvg-name="|ES| SkyShowtime 1 HD" tvg-id="SkyShowtime" tvg-logo="http://trastras.eu:2083/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WxcPAFcVAw5AIRtM2cYalgg.png" group-title="ES - CINE",|ES| SkyShowtime 1 HD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/458463.ts
-#EXTINF:-1 tvg-name="|ES| M+ SHOWTIME 1 SD" tvg-id="SkyShowtime" tvg-logo="http://trastras.eu:2083/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WxcPAFcVAw5AIRtM2cYalgg.png" group-title="ES - CINE",|ES| M+ SHOWTIME 1 SD
+#EXTINF:-1 tvg-name="|ES| SkyShowtime 1 SD" tvg-id="SkyShowtime" tvg-logo="http://trastras.eu:2083/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WxcPAFcVAw5AIRtM2cYalgg.png" group-title="ES - CINE",|ES| SkyShowtime 1 SD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/458464.ts
 #EXTINF:-1 tvg-name="|ES| XTRM FHD" tvg-id="XTRM" tvg-logo="http://logo.solanaflix.com/images/logos/760584d13f0c6712c5b7df4dc65c075e.png" group-title="ES - CINE",|ES| XTRM FHD
 http://196068.solanaflix.com/live/TV-62703947/144551621156/48418.ts
