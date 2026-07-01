@@ -269,11 +269,11 @@ http://logo.solanaflix.com/live/TV-69177494/280741835903/462295.ts
 http://logo.solanaflix.com/live/TV-69177494/280741835903/462294.ts
 #EXTINF:-1 tvg-name="m+ vacaciones FHD" tvg-id="m+ vacaciones" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/11/1_0_1_749D_41C_1_C00000_0_0_0.png?ssl=1" group-title="ES - CINE",m+ vacaciones FHD
 http://logo.solanaflix.com/live/TV-69177494/280741835903/462291.ts
-#EXTINF:-1 tvg-name="|ES| m+ vacaciones SD" tvg-id="m+ vacaciones" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/11/1_0_1_749D_41C_1_C00000_0_0_0.png?ssl=1" group-title="ES - CINE",|ES| m+ vacaciones SD
+#EXTINF:-1 tvg-name="m+ vacaciones SD" tvg-id="m+ vacaciones" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/11/1_0_1_749D_41C_1_C00000_0_0_0.png?ssl=1" group-title="ES - CINE",m+ vacaciones SD
 http://logo.solanaflix.com/live/TV-69177494/280741835903/462290.ts
-#EXTINF:-1 tvg-name="|ES| m+ orgullo  2 FHD" tvg-id="m+ orgullo" tvg-logo="https://argay.ar/wp-content/uploads/2026/05/image-75.png" group-title="ES - CINE",|ES| m+ orgullo  2 FHD
+#EXTINF:-1 tvg-name="m+ orgullo  2 FHD" tvg-id="m+ orgullo" tvg-logo="https://argay.ar/wp-content/uploads/2026/05/image-75.png" group-title="ES - CINE",m+ orgullo  2 FHD
 http://logo.solanaflix.com/live/TV-69177494/280741835903/462293.ts
-#EXTINF:-1 tvg-name="|ES| m+ orgullo FHD" tvg-id="m+ orgullo" tvg-logo="https://argay.ar/wp-content/uploads/2026/05/image-75.png" group-title="ES - CINE",|ES| m+ orgullo FHD
+#EXTINF:-1 tvg-name="m+ orgullo FHD" tvg-id="m+ orgullo" tvg-logo="https://argay.ar/wp-content/uploads/2026/05/image-75.png" group-title="ES - CINE",m+ orgullo FHD
 http://logo.solanaflix.com/live/TV-69177494/280741835903/462292.ts
 #EXTINF:-1 tvg-name="|ES| M+ ORIGINALES" tvg-id="M+ Originales HD" tvg-logo="https://noos.vip/logo/ES/moriginales.png" group-title="ES - CINE",|ES| M+ ORIGINALES
 http://logo.solanaflix.com/live/TV-69177494/280741835903/48397.ts
@@ -395,9 +395,9 @@ http://logo.solanaflix.com/live/TV-69177494/280741835903/162122.ts
 http://logo.solanaflix.com/live/TV-69177494/280741835903/162149.ts
 #EXTINF:-1 tvg-name="|ES| ACONTRA+" tvg-id="acontra+" tvg-logo="https://pbs.twimg.com/media/GMaO0_wXgAIgVEl?format=jpg&name=large" group-title="ES - CINE",|ES| ACONTRA+
 http://logo.solanaflix.com/live/TV-69177494/280741835903/164965.ts
-#EXTINF:-1 tvg-name="|ES| M+ Los 90 HD (1080P)" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="ES - CINE",|ES| M+ Los 90 HD (1080P)
+#EXTINF:-1 tvg-name="|ES| M+ vacaciones HD (1080P)" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="ES - CINE",|ES| M+ vacaciones HD (1080P)
 http://logo.solanaflix.com/live/TV-69177494/280741835903/440983.ts
-#EXTINF:-1 tvg-name="|ES| M+ Los 90 HD (720P)" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="ES - CINE",|ES| M+ Los 90 HD (720P)
+#EXTINF:-1 tvg-name="|ES| M+ vacaciones HD (720P)" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="ES - CINE",|ES| M+ vacaciones HD (720P)
 http://logo.solanaflix.com/live/TV-69177494/280741835903/440984.ts
 #EXTINF:-1 tvg-name="|ES| M+ Los 90 SD" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="ES - CINE",|ES| M+ Los 90 SD
 http://logo.solanaflix.com/live/TV-69177494/280741835903/440985.ts
