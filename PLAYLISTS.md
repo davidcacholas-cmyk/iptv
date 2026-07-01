@@ -355,9 +355,9 @@ http://logo.solanaflix.com/live/TV-69177494/280741835903/48442.ts
 http://logo.solanaflix.com/live/TV-69177494/280741835903/48441.ts
 #EXTINF:-1 tvg-name="|ES| AMC SELEKT FHD" tvg-id="SELEKT" tvg-logo="http://logo.solanaflix.com/images/logos/zDtAp_LLXHPRtEtzC_QvIcMe4Oh_LnhBAPkAlE_A38RaoohN4WbfdTlRt3xEJTUlSdNVDLsiHzAK4-kE_RX16s_Pw_YIDl2sV0wxbIb0NsD9LqTjV2XpFoY6fEpv64Wq.jpg" group-title="ES - CINE",|ES| AMC SELEKT FHD
 http://logo.solanaflix.com/live/TV-69177494/280741835903/150608.ts
-#EXTINF:-1 tvg-name="|ES| WARNER TV FHD" tvg-id="WARNERTV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJkI6I_8vL_nPn6Yqnu6XNv_Drzt_pQJlz0AsBXjK__AnfFI4p-SxlZVYmHoTfr07yn_wUsWT-u49HpevRwfh9zA.png" group-title="ES - CINE",|ES| WARNER TV FHD
+#EXTINF:-1 tvg-name="|ES| WARNER TV FHD" tvg-id="WARNERTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Warner_Bros._Pictures.png" group-title="ES - CINE",|ES| WARNER TV FHD
 http://logo.solanaflix.com/live/TV-69177494/280741835903/48444.ts
-#EXTINF:-1 tvg-name="|ES| WARNER TV" tvg-id="Warner TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJkI6I_8vL_nPn6Yqnu6XNv_Drzt_pQJlz0AsBXjK__AnfFI4p-SxlZVYmHoTfr07yn_wUsWT-u49HpevRwfh9zA.png" group-title="ES - CINE",|ES| WARNER TV
+#EXTINF:-1 tvg-name="|ES| WARNER TV" tvg-id="Warner TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Warner_Bros._Pictures.png" group-title="ES - CINE",|ES| WARNER TV
 http://logo.solanaflix.com/live/TV-69177494/280741835903/48443.ts
 #EXTINF:-1 tvg-name="|ES| SYFY FHD" tvg-id="SyFy HD" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjQ240BH71_8hlPT6Fo9C59m9-CcCEM6741fZI7X_fQDA.png" group-title="ES - CINE",|ES| SYFY FHD
 http://logo.solanaflix.com/live/TV-69177494/280741835903/48446.ts
@@ -395,17 +395,17 @@ http://logo.solanaflix.com/live/TV-69177494/280741835903/162122.ts
 http://logo.solanaflix.com/live/TV-69177494/280741835903/162149.ts
 #EXTINF:-1 tvg-name="|ES| ACONTRA+" tvg-id="acontra+" tvg-logo="https://pbs.twimg.com/media/GMaO0_wXgAIgVEl?format=jpg&name=large" group-title="ES - CINE",|ES| ACONTRA+
 http://logo.solanaflix.com/live/TV-69177494/280741835903/164965.ts
-#EXTINF:-1 tvg-name="|ES| M+ vacaciones HD (1080P)" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="ES - CINE",|ES| M+ vacaciones HD (1080P)
+#EXTINF:-1 tvg-name="|ES| m+ vacaciones (1080P)" tvg-id="m+ vacaciones" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="ES - CINE",|ES| m+ vacaciones (1080P)
 http://logo.solanaflix.com/live/TV-69177494/280741835903/440983.ts
-#EXTINF:-1 tvg-name="|ES| M+ vacaciones HD (720P)" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="ES - CINE",|ES| M+ vacaciones HD (720P)
+#EXTINF:-1 tvg-name="|ES| m+ vacaciones (720P)" tvg-id="m+ vacaciones" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="ES - CINE",|ES| m+ vacaciones (720P)
 http://logo.solanaflix.com/live/TV-69177494/280741835903/440984.ts
-#EXTINF:-1 tvg-name="|ES| M+ Los 90 SD" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="ES - CINE",|ES| M+ Los 90 SD
+#EXTINF:-1 tvg-name="|ES| m+ vacaciones90 SD" tvg-id="m+ vacaciones" tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-los-90.avif?w=1920&oe=jpg&hash=m8wcgtj1" group-title="ES - CINE",|ES| m+ vacaciones90 SD
 http://logo.solanaflix.com/live/TV-69177494/280741835903/440985.ts
-#EXTINF:-1 tvg-name="|ES| HBO Max Avances HD (1080P)" tvg-id="HBO Max Avances" tvg-logo="https://f-de-film.com/wp-content/uploads/2024/09/maxavances_logo_mp.jpg?w=1280&h=720&crop=1" group-title="ES - CINE",|ES| HBO Max Avances HD (1080P)
+#EXTINF:-1 tvg-name="|ES| HBO Max Avances HD (1080P)" tvg-id="HBO Max Avances" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/HBO_Max_logo_%28May_2025%29.png" group-title="ES - CINE",|ES| HBO Max Avances HD (1080P)
 http://logo.solanaflix.com/live/TV-69177494/280741835903/440980.ts
-#EXTINF:-1 tvg-name="|ES| HBO Max Avances HD (720P)" tvg-id="HBO Max Avances" tvg-logo="https://f-de-film.com/wp-content/uploads/2024/09/maxavances_logo_mp.jpg?w=1280&h=720&crop=1" group-title="ES - CINE",|ES| HBO Max Avances HD (720P)
+#EXTINF:-1 tvg-name="|ES| HBO Max Avances HD (720P)" tvg-id="HBO Max Avances" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/HBO_Max_logo_%28May_2025%29.png" group-title="ES - CINE",|ES| HBO Max Avances HD (720P)
 http://logo.solanaflix.com/live/TV-69177494/280741835903/440981.ts
-#EXTINF:-1 tvg-name="|ES| HBO Max Avances SD" tvg-id="HBO Max Avances" tvg-logo="https://f-de-film.com/wp-content/uploads/2024/09/maxavances_logo_mp.jpg?w=1280&h=720&crop=1" group-title="ES - CINE",|ES| HBO Max Avances SD
+#EXTINF:-1 tvg-name="|ES| HBO Max Avances SD" tvg-id="HBO Max Avances" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/HBO_Max_logo_%28May_2025%29.png" group-title="ES - CINE",|ES| HBO Max Avances SD
 http://logo.solanaflix.com/live/TV-69177494/280741835903/440982.ts
 #EXTINF:-1 tvg-name="|ES| STAR" tvg-id="STAR Channel HD" tvg-logo="https://pics.filmaffinity.com/star-153397291560362-nm_200.jpg" group-title="ES - CINE",|ES| STAR
 http://logo.solanaflix.com/live/TV-69177494/280741835903/445383.ts
