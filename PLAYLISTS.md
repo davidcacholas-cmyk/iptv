@@ -2207,11 +2207,11 @@ http://logo.solanaflix.com/live/TV-69177494/280741835903/461920.ts
 http://logo.solanaflix.com/live/TV-69177494/280741835903/461921.ts
 #EXTINF:-1 tvg-name="UFC EVENTO 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrtENK_-vOcr40T4ZtbT1ezixokel98LPx65CeQPNfGDBXPx1a-v8BpbE&s=10" group-title="ES - UFC",UFC EVENTO 5
 http://logo.solanaflix.com/live/TV-69177494/280741835903/461922.ts
-#EXTINF:-1 tvg-name="DAZN MUNDIAL 1 FHD" tvg-id="mundial" tvg-logo="https://pongbang.dongswipe.net:443/images/KvSFqnVxJemSa_1q-FmLCH1H_yvdeZ80qHxg5wzpUwgkp5-YD_cYGDtRAATy7HArwXA8izuKz37MH2UdfIjSQw.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 1 FHD
+#EXTINF:-1 tvg-name="DAZN MUNDIAL 1 FHD" tvg-id="dazn mundial" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest/scale-to-width-down/250?cb=20230523174302" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 1 FHD
 http://logo.solanaflix.com/live/TV-69177494/280741835903/462274.ts
-#EXTINF:-1 tvg-name="DAZN MUNDIAL 1 HD" tvg-id="mundial" tvg-logo="https://pongbang.dongswipe.net:443/images/KvSFqnVxJemSa_1q-FmLCH1H_yvdeZ80qHxg5wzpUwgkp5-YD_cYGDtRAATy7HArwXA8izuKz37MH2UdfIjSQw.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 1 HD
+#EXTINF:-1 tvg-name="DAZN MUNDIAL 1 HD" tvg-id="danza mundial" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest/scale-to-width-down/250?cb=20230523174302" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 1 HD
 http://logo.solanaflix.com/live/TV-69177494/280741835903/462275.ts
-#EXTINF:-1 tvg-name="DAZN MUNDIAL 1 FHD ORANGE" tvg-id="mundial" tvg-logo="https://pongbang.dongswipe.net:443/images/KvSFqnVxJemSa_1q-FmLCH1H_yvdeZ80qHxg5wzpUwgkp5-YD_cYGDtRAATy7HArwXA8izuKz37MH2UdfIjSQw.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 1 FHD ORANGE
+#EXTINF:-1 tvg-name="DAZN MUNDIAL 1 FHD ORANGE" tvg-id="danza mundial" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest/scale-to-width-down/250?cb=20230523174302" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 1 FHD ORANGE
 http://logo.solanaflix.com/live/TV-69177494/280741835903/462276.ts
 #EXTINF:-1 tvg-name="DAZN MUNDIAL 2 FHD" tvg-logo="https://pongbang.dongswipe.net:443/images/KvSFqnVxJemSa_1q-FmLCH1H_yvdeZ80qHxg5wzpUwgkp5-YD_cYGDtRAATy7HArwXA8izuKz37MH2UdfIjSQw.png" group-title="DAZN - MUNDIAL FIFA",DAZN MUNDIAL 2 FHD
 http://logo.solanaflix.com/live/TV-69177494/280741835903/462277.ts
