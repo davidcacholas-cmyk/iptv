@@ -313,11 +313,11 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48397.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48400.ts
 #EXTINF:-1 tvg-name="M+ Estrenos" tvg-id="M+ ESTRENOS HD" tvg-logo="http://logo.solanaflix.com/images/logos/1455d278e2d60d507074e65cee44e58e.png" group-title="CINE",M+ Estrenos
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48399.ts
-#EXTINF:-1 tvg-name="Movistar Plus+ FHD" tvg-id="Movistar Plus+ HD" tvg-logo="https://jungle-team.com/nuevos-logos-picon-novedades-movistar/movistar_plus_blanco/" group-title="CINE",Movistar Plus+ FHD
+#EXTINF:-1 tvg-name="Movistar Plus+ FHD" tvg-id="Movistar Plus+ HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Movistar_print_white.png/revision/latest/scale-to-width-down/250?cb=20201030223325&path-prefix=es" group-title="CINE",Movistar Plus+ FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/102334.ts
-#EXTINF:-1 tvg-name="Movistar Plus+ HD" tvg-id="Movistar Plus+ HD" tvg-logo="https://jungle-team.com/nuevos-logos-picon-novedades-movistar/movistar_plus_blanco/" group-title="CINE",Movistar Plus+ HD
+#EXTINF:-1 tvg-name="Movistar Plus+ HD" tvg-id="Movistar Plus+ HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Movistar_print_white.png/revision/latest/scale-to-width-down/250?cb=20201030223325&path-prefix=es" group-title="CINE",Movistar Plus+ HD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/102335.ts
-#EXTINF:-1 tvg-name="Movistar Plus+ SD" tvg-id="Movistar Plus+ HD" tvg-logo="https://jungle-team.com/nuevos-logos-picon-novedades-movistar/movistar_plus_blanco/" group-title="CINE",Movistar Plus+ SD
+#EXTINF:-1 tvg-name="Movistar Plus+ SD" tvg-id="Movistar Plus+ HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Movistar_print_white.png/revision/latest/scale-to-width-down/250?cb=20201030223325&path-prefix=es" group-title="CINE",Movistar Plus+ SD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/444570.ts
 #EXTINF:-1 tvg-name="M+ ACCIÓN FHD" tvg-id="M+ Acción HD" tvg-logo="http://logo.solanaflix.com/images/logos/c4f6fdf24e4a5c55c4518342fa2d16f5.png" group-title="CINE",M+ ACCIÓN FHD
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/48402.ts
@@ -2221,4 +2221,3 @@ http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99097.ts
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99098.ts
 #EXTINF:-1 tvg-name="|ADULT| X Bunga Bunga" group-title="ADULTS",|ADULT| X Bunga Bunga
 http://logo.solanaflix.com/live/E2cNb8kNP3Kg/hdVFVv48cr3V/99099.ts
-
